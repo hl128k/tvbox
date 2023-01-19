@@ -1,0 +1,38 @@
+name: Python application
+on:
+  push:
+  schedule:
+    - cron: '0 21 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 检查分支
+        uses: actions/checkout@v3
+
+      - name: 安装 Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.10.4
+
+      - name: 安装模块
+        run: |
+          pip install requests
+          pip install urllib3
+      - name: 生成json文件
+        run: |
+          export TZ='Asia/Shanghai'
+          python autoUrl.py
+      - name: 暂存提交
+        run: |
+          git config --global user.name 'hl128k'
+          git config --global user.email 'hl128k@qq.com'
+          export TZ='Asia/Shanghai'
+          git add .
+          git commit -m "update" -a
+      - name: 推送
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.MY_GITHUB_TOKEN }}
