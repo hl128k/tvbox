@@ -15,7 +15,7 @@ for url in re.findall(p1,req.text):
         for reI in range(len(reList)):
             urlname=url.replace("https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/", "")
             reqtext=urlReq.text
-            reqtext=reqtext.replace("'https://raw.githubusercontent", "'"+reList[reI])
+            reqtext=reqtext.replace("'https://raw.githubusercontent.com", "'"+reList[reI])
             fp = open("./tv/"+str(reI)+"/"+urlname, "w+",encoding='utf-8')
             fp.write(reqtext)
         nameList.append(urlname)
