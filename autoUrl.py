@@ -17,9 +17,9 @@ for item in urlJson:
         urlName = item["name"]
         urlPath = item["path"]
         reqText = urlReq.text
-        reqText = reqText.replace("/raw/", "/") \
-            .replace(":'./", ":'" + urlPath) \
+        reqText = reqText.replace(":'./", ":'" + urlPath) \
             .replace(':"./', ':"' + urlPath) \
+            .replace("/raw/", "/") \
             .replace("'https://github.com", "'" + reList[reI]) \
             .replace('"https://github.com', '"' + reList[reI]) \
             .replace("'https://raw.githubusercontent.com", "'" + reList[reI]) \
