@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;b33ab66a0bc515720d7e9083fb52fbfc",
+  "spider": "https://raw.iqiq.io/gaotianliuyun/gao/master/jar/custom_spider.jar;md5;b33ab66a0bc515720d7e9083fb52fbfc",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "sites": [
     {
@@ -17,7 +17,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./json/alist.json"
+      "ext": "https://raw.iqiq.io/gaotianliuyun/gao/master/json/alist.json"
     },
     {
       "key": "WebDAV",
@@ -26,7 +26,7 @@
       "api": "csp_WebDAV",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./json/webdav.json"
+      "ext": "https://raw.iqiq.io/gaotianliuyun/gao/master/json/webdav.json"
     },
     {
       "key": "哔哩",
@@ -35,7 +35,7 @@
       "api": "csp_Bili",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./json/bili.json"
+      "ext": "https://raw.iqiq.io/gaotianliuyun/gao/master/json/bili.json"
     },
     {
       "key": "泥巴",
@@ -52,7 +52,7 @@
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./json/duboku.json"
+      "ext": "https://raw.iqiq.io/gaotianliuyun/gao/master/json/duboku.json"
     },
     {
       "key": "量子",

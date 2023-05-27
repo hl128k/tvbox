@@ -1,7 +1,7 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 //20230220//////https://agit.ai/guot54/ygbh/branch/master/zB/zB.txt
 //https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/CR.txt
-//"spider": "https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/Yoursmile.jar?raw=true",
+//"spider": "https://raw.iqiq.io/franksun1211/TVBOX/blob/main/APP/JAR/Yoursmile.jar?raw=true",
 //
 {
 	"spider": "https://agit.ai/Yoursmile7/TVBox/branch/master/Yoursmile.jar",
@@ -13,8 +13,8 @@
       "type": 0,
       //"url": "https://agit.ai/guot54/ygbh/branch/master/zB/tvbus.txt",
       //"url": "https://agit.ai/138001380000/MHQTV/branch/master/TV/230107.txt",  	    
-      "url": "https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/CR.txt",    
-      //"url": "https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/mitv.txt",     
+      "url": "https://raw.iqiq.io/jackson0829/jackson0829.github.io/main/CR.txt",    
+      //"url": "https://raw.iqiq.io/jackson0829/jackson0829.github.io/main/mitv.txt",     
       //"url": "https://agit.ai/guot54/ygbh/branch/master/zB/zB.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     }
@@ -25,19 +25,19 @@
 
 {"key":"csp_Czsapp","name":"🥇厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Czsapp","name":"🏭厂长(T)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://gitee.com/babyisbreath/babyish/master/jar/ts.jar"},
-//{"key":"csp_Lib","name":"🥇LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/MaooXP/LIBVIO.json"},
+//{"key":"csp_Lib","name":"🥇LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/franksun1211/TVBOX/main/APP/MaooXP/LIBVIO.json"},
 //{"key":"csp_biubiu_LIBVIO","name": "LIBVIO（自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://agit.ai/65012833/Json/branch/master/LIBVIO.json"},
 {"key":"csp_Lib","name":"🥇LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
 
 
 //{"key":"IKan","name":"🥇爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://pan.css.lc/api/v3/file/get/90083/ts.jar?sign=UiI_S4HClRUXLJ3rprRkbtDw3GQzKEHsm1b7F5Qec7c%3D%3A0"},
 {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"drpy_js_l0l","name":"🥇If101[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/master/js/l0l.js","jar":"https://github.com/gaotianliuyun/gao/master/jar/custom_spider.jar"},
-{"key":"AppTT","name":"🥇图图","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://github.com/gaotianliuyun/gao/master/jar/cs.jar"},
-{"key":"IKan","name":"🥇爱看","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://github.com/gaotianliuyun/gao/master/jar/cs.jar"},
+{"key":"drpy_js_l0l","name":"🥇If101[js]","type":3,"api":"https://raw.iqiq.io/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/js/l0l.js","jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/custom_spider.jar"},
+{"key":"AppTT","name":"🥇图图","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/cs.jar"},
+{"key":"IKan","name":"🥇爱看","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/cs.jar"},
 
-//{"key": "csp_xpath_olevod","name":"🥇欧乐影院(Exo)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable": 1,"ext":"https://github.com/franksun1211/TVBOX/main/APP/MaooXP/olevod.json"},
-//{"key": "drpy_js_多瑙影视","name": "💿多瑙影视[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/main/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/main/Js/多瑙影视.js"},
+//{"key": "csp_xpath_olevod","name":"🥇欧乐影院(Exo)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable": 1,"ext":"https://raw.iqiq.io/franksun1211/TVBOX/main/APP/MaooXP/olevod.json"},
+//{"key": "drpy_js_多瑙影视","name": "💿多瑙影视[DRPY]","type": 3,"api": "https://raw.iqiq.io/heroaku/TVboxo/main/libs/drpy.min.js","ext": "https://raw.iqiq.io/heroaku/TVboxo/main/Js/多瑙影视.js"},
 //{"key":"csp_AppTT","name":"🥇图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},		
 {"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
 {"key":"csp_panghu","name":"🐯胖虎","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
@@ -62,8 +62,8 @@
 
 {"key":"csp_fantuan","name":"🍙饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 {"key":"csp_Lgyy","name":"💧蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
-{"key":"drpy_js_多瑙影视","name":"💿多瑙影视[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/master/js/多瑙影视.js","playerType":"2","jar":"https://github.com/gaotianliuyun/gao/master/jar/custom_spider.jar"},
-{"key":"drpy_js_秋霞影视","name":"💿秋霞影视[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/master/js/秋霞影视.js","jar":"https://github.com/gaotianliuyun/gao/master/jar/custom_spider.jar"},		
+{"key":"drpy_js_多瑙影视","name":"💿多瑙影视[js]","type":3,"api":"https://raw.iqiq.io/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/js/多瑙影视.js","playerType":"2","jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/custom_spider.jar"},
+{"key":"drpy_js_秋霞影视","name":"💿秋霞影视[js]","type":3,"api":"https://raw.iqiq.io/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/js/秋霞影视.js","jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/custom_spider.jar"},		
 //////////////////////////////////////////////////////////////////////////
 //{"key":"88看球","name":"⚽88看球","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/branch/master/sub/88看球.json"},
 //{"key":"dr_88看球","name":"88看球(js)","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/branch/master/js/88看球.js"},
@@ -71,7 +71,7 @@
 {"key":"dr_88看球","name":"🏆🏀88看球","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/branch/master/js/88看球.js"},
 //{"key":"88js","name":"🏆🏀88看球","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/master/js/88看球.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 //{"key":"JRS赛事直播","name":"🏀JRS赛事直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://神器每日推送.tk/xp/dj看球.json"},
-{"key":"csp_XYQBiu_17kan","name":"🏆🏀17kan","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/MaooXB/17kan.json"},
+{"key":"csp_XYQBiu_17kan","name":"🏆🏀17kan","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/franksun1211/TVBOX/main/APP/MaooXB/17kan.json"},
 
 {"key":"dr_JRKAN直播","name":"🏆🏀JRKAN直播(js)","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/branch/master/js/JRKAN直播.js"},
 
@@ -80,33 +80,33 @@
 
 
 //////////////////////////////////////////////////////////////////////////
-//{"key":"csp_xpath_17skr","name":"🥇💢路漫漫动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/MaooXP/17skr.json"},     
+//{"key":"csp_xpath_17skr","name":"🥇💢路漫漫动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/franksun1211/TVBOX/main/APP/MaooXP/17skr.json"},     
 
-//{"key":"csp_xpath_17skr","name":" 🥇💢路漫漫动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/main/MaooXP/17skr.json"},
-//{"key":"csp_xpath_dmw","name":" 🌾动漫岛(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/heroaku/TVboxo/main/MaooXP/dmw.json"},
-//{"key":"csp_xpath_ysjdm","name":" 🥇💢异世界动漫(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/heroaku/TVboxo/main/MaooXP/ysjdm.json"},
-//{"key":"csp_xpath_ysjdm","name":"💢异世界动漫(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/franksun1211/TVBOX/main/APP/sub/MeowXP/ysjdm.json"},      
-//{"key":"csp_xp_omofun","name": "🥇💢omofun日漫","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.com/franksun1211/TVBOX/main/APP/sub/MeowXP/omofun.json"},
-//{"key":"csp_xp_dm84","name":"💢动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/main/APP/sub/MeowXP/dm84.json"},
-//{"key":"csp_xpath_dm84","name":" 🌾动漫巴士(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/main/MaooXP/dm84.json"},
-{"key":"drpy_js_路漫漫","name":"🥇💢路漫漫动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/master/js/路漫漫.js","jar":"https://github.com/gaotianliuyun/gao/master/jar/custom_spider.jar"},
+//{"key":"csp_xpath_17skr","name":" 🥇💢路漫漫动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/heroaku/TVboxo/main/MaooXP/17skr.json"},
+//{"key":"csp_xpath_dmw","name":" 🌾动漫岛(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/heroaku/TVboxo/main/MaooXP/dmw.json"},
+//{"key":"csp_xpath_ysjdm","name":" 🥇💢异世界动漫(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/heroaku/TVboxo/main/MaooXP/ysjdm.json"},
+//{"key":"csp_xpath_ysjdm","name":"💢异世界动漫(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/franksun1211/TVBOX/main/APP/sub/MeowXP/ysjdm.json"},      
+//{"key":"csp_xp_omofun","name": "🥇💢omofun日漫","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/franksun1211/TVBOX/main/APP/sub/MeowXP/omofun.json"},
+//{"key":"csp_xp_dm84","name":"💢动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/franksun1211/TVBOX/main/APP/sub/MeowXP/dm84.json"},
+//{"key":"csp_xpath_dm84","name":" 🌾动漫巴士(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/heroaku/TVboxo/main/MaooXP/dm84.json"},
+{"key":"drpy_js_路漫漫","name":"🥇💢路漫漫动漫[js]","type":3,"api":"https://raw.iqiq.io/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/js/路漫漫.js","jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/custom_spider.jar"},
 
-{"key":"drpy_js_AnFuns","name":"🥇💢AnFuns动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/master/js/AnFuns.js","jar":"https://github.com/gaotianliuyun/gao/master/jar/custom_spider.jar"},
-{"key":"drpy_js_NT动漫","name":"🥇💢NT动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/master/js/NT动漫.js","jar":"https://github.com/gaotianliuyun/gao/master/jar/custom_spider.jar"},
-{"key":"drpy_js_去看吧","name":"🥇💢去看吧动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/master/js/去看吧.js","jar":"https://github.com/gaotianliuyun/gao/master/jar/custom_spider.jar"},
-{"key":"drpy_js_嘶哩嘶哩","name":"🥇💢嘶哩嘶哩动漫[js/EXO]","type":3,"api":"https://github.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/master/js/嘶哩嘶哩.js","jar":"https://github.com/gaotianliuyun/gao/master/jar/custom_spider.jar"},
-{"key":"drpy_js_怡萱动漫","name":"🥇💢怡萱动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/master/js/怡萱动漫.js","jar":"https://github.com/gaotianliuyun/gao/master/jar/custom_spider.jar"},
-{"key":"drpy_js_异世界动漫","name":"💢异世界动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/master/js/异世界动漫.js","jar":"https://github.com/gaotianliuyun/gao/master/jar/custom_spider.jar"},
-{"key":"drpy_js_omofun动漫","name":"💢omofun动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/master/js/omofun动漫.js","jar":"https://github.com/gaotianliuyun/gao/master/jar/custom_spider.jar"},
-{"key":"csp_xp_yinghua","name":"💢樱花动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/main/APP/sub/MeowXP/yinghua.json"},
-{"key":"drpy_js_动漫岛","name":"💢动漫岛[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/master/js/动漫岛.js","jar":"https://github.com/gaotianliuyun/gao/master/jar/custom_spider.jar"},
-{"key":"drpy_js_咕噜咕噜","name":"💢咕噜咕噜动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/master/js/咕噜咕噜.js","jar":"https://github.com/gaotianliuyun/gao/master/jar/custom_spider.jar"},
-{"key":"drpy_js_奇米动漫","name":"💢奇米动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/master/js/奇米动漫.js","jar":"https://github.com/gaotianliuyun/gao/master/jar/custom_spider.jar"},
-{"key":"drpy_js_妮可动漫","name":"💢妮可动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/master/js/妮可动漫.js","jar":"https://github.com/gaotianliuyun/gao/master/jar/custom_spider.jar"},
+{"key":"drpy_js_AnFuns","name":"🥇💢AnFuns动漫[js]","type":3,"api":"https://raw.iqiq.io/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/js/AnFuns.js","jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/custom_spider.jar"},
+{"key":"drpy_js_NT动漫","name":"🥇💢NT动漫[js]","type":3,"api":"https://raw.iqiq.io/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/js/NT动漫.js","jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/custom_spider.jar"},
+{"key":"drpy_js_去看吧","name":"🥇💢去看吧动漫[js]","type":3,"api":"https://raw.iqiq.io/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/js/去看吧.js","jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/custom_spider.jar"},
+{"key":"drpy_js_嘶哩嘶哩","name":"🥇💢嘶哩嘶哩动漫[js/EXO]","type":3,"api":"https://raw.iqiq.io/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/js/嘶哩嘶哩.js","jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/custom_spider.jar"},
+{"key":"drpy_js_怡萱动漫","name":"🥇💢怡萱动漫[js]","type":3,"api":"https://raw.iqiq.io/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/js/怡萱动漫.js","jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/custom_spider.jar"},
+{"key":"drpy_js_异世界动漫","name":"💢异世界动漫[js]","type":3,"api":"https://raw.iqiq.io/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/js/异世界动漫.js","jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/custom_spider.jar"},
+{"key":"drpy_js_omofun动漫","name":"💢omofun动漫[js]","type":3,"api":"https://raw.iqiq.io/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/js/omofun动漫.js","jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/custom_spider.jar"},
+{"key":"csp_xp_yinghua","name":"💢樱花动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/franksun1211/TVBOX/main/APP/sub/MeowXP/yinghua.json"},
+{"key":"drpy_js_动漫岛","name":"💢动漫岛[js]","type":3,"api":"https://raw.iqiq.io/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/js/动漫岛.js","jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/custom_spider.jar"},
+{"key":"drpy_js_咕噜咕噜","name":"💢咕噜咕噜动漫[js]","type":3,"api":"https://raw.iqiq.io/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/js/咕噜咕噜.js","jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/custom_spider.jar"},
+{"key":"drpy_js_奇米动漫","name":"💢奇米动漫[js]","type":3,"api":"https://raw.iqiq.io/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/js/奇米动漫.js","jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/custom_spider.jar"},
+{"key":"drpy_js_妮可动漫","name":"💢妮可动漫[js]","type":3,"api":"https://raw.iqiq.io/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/js/妮可动漫.js","jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/custom_spider.jar"},
 {"key":"csp_Anime1","name":"💢小日本动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_xp_agemys","name":"💢AGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/main/APP/sub/MeowXP/agemys.json"},
+{"key":"csp_xp_agemys","name":"💢AGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/franksun1211/TVBOX/main/APP/sub/MeowXP/agemys.json"},
 
-//{"key": "drpy_js_AnFuns","name": " 🥇💢AnFuns[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/main/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/main/Js/AnFuns.js"},
+//{"key": "drpy_js_AnFuns","name": " 🥇💢AnFuns[DRPY]","type": 3,"api": "https://raw.iqiq.io/heroaku/TVboxo/main/libs/drpy.min.js","ext": "https://raw.iqiq.io/heroaku/TVboxo/main/Js/AnFuns.js"},
 //{"key":"csp_Anfuns","name":"🥇💢Anfuns","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1"},
 
 ////////////////////////////////////////////////////////////////////////////////
