@@ -20,7 +20,7 @@ for item in urlJson:
         reqText = reqText.replace("'./", "'" + urlPath) \
             .replace("/raw/", "/") \
             .replace("'https://github.com", "'" + reList[reI]) \
-            .replace("'https://raw.githubusercontent.com", "'" + reList[reI]) \
+            .replace("'https://raw.githubusercontent.com", "'" + reList[reI])
         fp = open("./tv/" + str(reI) + "/" + urlName + ".json", "w+", encoding='utf-8')
         fp.write(reqText)
 now = datetime.datetime.now()
