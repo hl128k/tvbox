@@ -2,8 +2,11 @@
 import datetime
 import requests
 import json
+import urllib3
 
-with open('./url.json', 'r', encoding='utf-8') as f: urlJson = json.load(f)
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+with open('./url.json', 'r', encoding='utf-8') as f:
+    urlJson = json.load(f)
 nameList = []
 reList = ["https://ghproxy.com/https://raw.githubusercontent.com", "https://cdn.staticaly.com/gh",
           "https://raw.fastgit.org", "https://raw.kgithub.com", "https://raw.iqiq.io",
@@ -15,13 +18,13 @@ for item in urlJson:
         urlPath = item["path"]
         reqText = urlReq.text
         reqText = reqText.replace("/raw/", "/") \
-            .replace(":'./", ":'"+urlPath) \
-            .replace(':"./', ':"'+urlPath) \
+            .replace(":'./", ":'" + urlPath) \
+            .replace(':"./', ':"' + urlPath) \
             .replace("'https://github.com", "'" + reList[reI]) \
             .replace('"https://github.com', '"' + reList[reI]) \
             .replace("'https://raw.githubusercontent.com", "'" + reList[reI]) \
             .replace('"https://raw.githubusercontent.com', '"' + reList[reI])
-        fp = open("./tv/" + str(reI) + "/" + urlName+".json", "w+", encoding='utf-8')
+        fp = open("./tv/" + str(reI) + "/" + urlName + ".json", "w+", encoding='utf-8')
         fp.write(reqText)
 now = datetime.datetime.now()
 fp = open('README.md', "w+", encoding='utf-8')
