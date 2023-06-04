@@ -1,5 +1,5 @@
 {
-//Update:2023-06-04 04:23:21.802897
+//Update:2023-06-05 04:21:52.757538
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -243,7 +243,6 @@
 {"key":"晓峰影视","name":"晓峰影视(聚)","type":1,"api":"http://api.xxcr.tk/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"csp_xpath_czspp","name":"厂长资源(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/YuanHsing/freed/master/TVBox/MaooXP/czspp.json","jar":"https://raw.fastgit.org/YuanHsing/freed/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_xpath_ddg","name":"达达龟(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/YuanHsing/freed/master/TVBox/MaooXP/dadagui.json","jar":"https://raw.fastgit.org/YuanHsing/freed/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
-{"key":"csp_XYQBiu_310直播","name":"⚽🏀310直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/l/o/branch/o/o/310%E7%9B%B4%E6%92%AD.json"},
 {"key":"csp_xpath_huya","name":"🐯虎牙(XP)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/YuanHsing/freed/master/TVBox/MaooXP/huya2.json","jar":"https://raw.fastgit.org/YuanHsing/freed/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_biubiu_斗鱼","name":"🥒斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/YuanHsing/freed/master/TVBox/MaooXB2/斗鱼.json","jar":"https://raw.fastgit.org/YuanHsing/freed/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/YuanHsing/freed/master/TVBox/MaooXP/kuqimv.json","jar":"https://raw.fastgit.org/YuanHsing/freed/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
@@ -420,12 +419,10 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-{"name":"云析","url":"https://jx.yparse.com/index.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"未知","type":1,"url":"http://106.52.218.221:88/?url="},
 {"name":"综合线路解析","type":1,"url":"https://laisoyiba.com/mov/s/?sv=3&url="},
 {"name":"playerjy/B站","type":1,"url":"https://jx.playerjy.com/?url="},
-{"name":"解48","type":1,"url":"https://mgm3u8-player.com/player/DPm3u8.php?url="},
-{"name":"解51","type":1,"url":"http://www.ikukk.com/?url="}
+{"name":"解48","type":1,"url":"https://mgm3u8-player.com/player/DPm3u8.php?url="}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],
