@@ -1,5 +1,5 @@
 {
-//Update:2023-06-06 04:22:43.967704
+//Update:2023-06-07 04:22:35.116719
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -291,7 +291,6 @@
 {"key":"csp_biubiu_炫猫影视","name":"🥒炫猫影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.kgithub.com/YuanHsing/freed/master/TVBox/MaooXB2/炫猫影视.json","jar":"https://raw.kgithub.com/YuanHsing/freed/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_biubiu_利丽娅电影","name":"🥒利丽娅电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.kgithub.com/YuanHsing/freed/master/TVBox/MaooXB2/利丽娅电影.json","jar":"https://raw.kgithub.com/YuanHsing/freed/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_biubiu_七年影视","name":"🥒七年影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.kgithub.com/YuanHsing/freed/master/TVBox/MaooXB2/七年影视.json","jar":"https://raw.kgithub.com/YuanHsing/freed/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
-{"key":"csp_biubiu_大象TV","name":"🥒大象TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.kgithub.com/YuanHsing/freed/master/TVBox/MaooXB2/大象TV.json","jar":"https://raw.kgithub.com/YuanHsing/freed/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_biubiu_小猫咪","name":"🥒小猫咪(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.kgithub.com/YuanHsing/freed/master/TVBox/MaooXB2/小猫咪.json","jar":"https://raw.kgithub.com/YuanHsing/freed/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_biubiu_4kan电影网","name":"🥒4kan电影网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.kgithub.com/YuanHsing/freed/master/TVBox/MaooXB2/4kan电影网.json","jar":"https://raw.kgithub.com/YuanHsing/freed/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_biubiu_蓝莓影视","name":"🥒蓝莓影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.kgithub.com/YuanHsing/freed/master/TVBox/MaooXB2/蓝莓影视.json","jar":"https://raw.kgithub.com/YuanHsing/freed/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
@@ -412,6 +411,7 @@
 {"key":"音乐","name":"🎤音乐现场","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/l/o/branch/o/o/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"},
 {"key":"热舞","name":"💃女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/l/o/branch/o/o/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"},
 {"key":"csp_BBB","name":"🅱️哔哩哔哩","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/branch/master/sub/Bili.json"},
+{"key":"csp_biubiu_大象TV","name":"🐛大象TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XB/大象TV.json"},
 {"key":"push_agent","name":"🍭推送（爱优腾/磁力/阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"daae36603bcd490681bdd8d03940783a","jar":"https://raw.iqiq.io/vpei/Free-TVUrl-Merge/main/res/push_agent.PNG"}
 ],
 
