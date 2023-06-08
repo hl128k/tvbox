@@ -1,5 +1,5 @@
 {
-//Update:2023-06-08 04:21:55.244337
+//Update:2023-06-09 04:21:38.739766
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -404,13 +404,7 @@
 {"key":"学堂3","name":"👨‍🦱初中学堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/初中学堂.json"},
 {"key":"学堂4","name":"👩‍🎓高中学堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/高中学堂.json"},
 {"key":"MV","name":"🎧歌曲MV","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/歌曲MV.json"},
-{"key":"儿童","name":"🐯儿童乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/l/o/branch/o/o/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"},
-{"key":"学习","name":"📝学习园地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/l/o/branch/o/o/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"},
 {"key":"csp_biubiu_去看吧","name":"🐛看吧动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XB/去看吧.json"},
-{"key":"美食","name":"🍔美食合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/l/o/branch/o/o/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"},
-{"key":"音乐","name":"🎤音乐现场","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/l/o/branch/o/o/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"},
-{"key":"热舞","name":"💃女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/l/o/branch/o/o/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"},
-{"key":"csp_BBB","name":"🅱️哔哩哔哩","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/branch/master/sub/Bili.json"},
 {"key":"csp_biubiu_大象TV","name":"🐛大象TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XB/大象TV.json"},
 {"key":"push_agent","name":"🍭推送（爱优腾/磁力/阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"daae36603bcd490681bdd8d03940783a","jar":"https://raw.iqiq.io/vpei/Free-TVUrl-Merge/main/res/push_agent.PNG"}
 ],
@@ -420,7 +414,6 @@
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"未知","type":1,"url":"http://106.52.218.221:88/?url="},
-{"name":"综合线路解析","type":1,"url":"https://laisoyiba.com/mov/s/?sv=3&url="},
 {"name":"playerjy/B站","type":1,"url":"https://jx.playerjy.com/?url="},
 {"name":"解48","type":1,"url":"https://mgm3u8-player.com/player/DPm3u8.php?url="}
 ],
