@@ -1,5 +1,5 @@
 {
-//Update:2023-06-15 04:22:15.763012
+//Update:2023-06-16 04:21:57.304247
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -221,21 +221,16 @@
 {"key":"drpy_js_金曼影视","name":"🎖金曼影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/金曼影视.js"},
 {"key":"drpy_js_霹雳影视","name":"🎖霹雳影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/霹雳影视.js"},
 {"key":"drpy_js_回响影视","name":"🎃回响影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/回响影视.js"},
-{"key":"drpy_js_蜻蜓FM","name":"🎥蜻蜓FM","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/蜻蜓FM.js"},
 {"key":"drpy_js_哔哩直播","name":"🎥哔哩直播","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/哔哩直播.js"},
 {"key":"drpy_js_斗鱼直播","name":"🎥斗鱼直播","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/斗鱼直播.js"},
 {"key":"drpy_js_虎牙直播","name":"🎥虎牙直播","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/虎牙直播.js"},
 {"key":"drpy_js_抓饭体育","name":"🎥抓饭体育","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/抓饭体育.js"},
 {"key":"drpy_js_小品网","name":"🎥小品网","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/小品网.js"},
-{"key":"drpy_js_JustLive","name":"🎥JustLive","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/JustLive.js"},
-{"key":"drpy_js_88看球","name":"🎥88看球","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/88看球.js"},
 {"key":"drpy_js_JRS看直播","name":"🎥JRS看直播","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/JRS看直播.js"},
 {"key":"drpy_js_JRS看球网","name":"🎥JRS看球网","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/JRS看球网.js"},
 {"key":"drpy_js_JRKAN直播","name":"🎥JRKAN直播","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/JRKAN直播.js"},
 {"key":"drpy_js_JRS录像","name":"🎥JRS录像","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/JRS录像.js"},
 {"key":"drpy_js_310直播","name":"🎥310直播","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/310直播.js"},
-{"key":"drpy_js_学生球赛录像","name":"🎥学生球赛录像","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/学生球赛录像[js1].js"},
-{"key":"drpy_js_爱车MV","name":"🎥爱车MV","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/爱车MV.js"},
 {"key":"drpy_js_酷奇MV","name":"🎥酷奇MV","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/酷奇MV.js"},
 {"key":"筑梦云影视","name":"🌤筑梦云影视","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://wzys.scp00.cn/api.php/v1.vod"},
 {"key":"无尽资源2","name":"无尽资源2(切)","type":1,"api":"https://wuzy9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
