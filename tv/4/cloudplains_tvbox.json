@@ -1,5 +1,5 @@
 {
-//Update:2023-07-15 04:22:11.621557
+//Update:2023-07-16 04:24:15.552247
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -137,7 +137,6 @@
 {"key":"drpy_js_瓜皮TV","name":"🕵瓜皮TV🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/瓜皮TV.js"},
 {"key":"drpy_js_剧白白","name":"🕵剧白白🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/剧白白.js"},
 {"key":"drpy_js_看视界","name":"🕵看视界🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/看视界.js"},
-{"key":"drpy_js_库马伊","name":"🕵库马伊🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/库马伊.js"},
 {"key":"drpy_js_酷云77","name":"🕵酷云77🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/酷云77.js"},
 {"key":"drpy_js_猫了个咪","name":"🕵猫了个咪🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/猫了个咪.js"},
 {"key":"drpy_js_喵喵","name":"🕵喵喵🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/喵喵.js"},
@@ -167,7 +166,6 @@
 {"key":"drpy_js_vidhub","name":"🕵vidhub🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/vidhub.js"},
 {"key":"drpy_js_voflix","name":"🕵voflix🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/voflix.js"},
 {"key":"drpy_js_蛋蛋赞","name":"🕵蛋蛋赞🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/蛋蛋赞.js"},
-{"key":"drpy_js_爱迪影视","name":"🕵爱迪影视🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/爱迪影视.js"},
 {"key":"drpy_js_尘落影视","name":"🕵尘落影视🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/尘落影视.js"},
 {"key":"drpy_js_双十电影","name":"🕵双十电影🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/双十电影.js"},
 {"key":"drpy_js_大师兄影视","name":"🕵大师兄影视🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/大师兄影视.js"},
