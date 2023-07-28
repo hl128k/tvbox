@@ -1,5 +1,5 @@
 {
-"spider":"https://raw.fastgit.org/gaotianliuyun/gao/master/jar/fan.txt;md5;50bc219c741872bc7a60e79c7584edb4",
+"spider":"https://raw.fastgit.org/gaotianliuyun/gao/master/jar/fan.txt;md5;91b04592e14b3cc30f34c1324a59e8ad",
 "lives":[{"name":"初秋语•综合","type":0,"url":"https://raw.fastgit.org/gaotianliuyun/gao/master/list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YanG•综合","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"范明明•综合","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -140,8 +140,8 @@
 {"key":"csp_XP_独播库","name":"独播库•飞[XPMF]","type":3,"api":"csp_XPathMacFilter","playerType":0,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/gaotianliuyun/gao/master/json/duboku.json"},
 
 {"key":"push_agent","name":"手机推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"},
-{"key":"aa","name":"配置接口完全免费","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0}
+{"key":"bb","name":"配置接口完全免费","type":3,"api":"https://raw.fastgit.org/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.fastgit.org/gaotianliuyun/gao/master/js/drpy.js"},
+{"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"https://raw.fastgit.org/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.fastgit.org/gaotianliuyun/gao/master/js/drpy.js"}
 ],
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
