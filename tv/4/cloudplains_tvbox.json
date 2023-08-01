@@ -1,5 +1,5 @@
 {
-//Update:2023-08-01 02:18:35.364871
+//Update:2023-08-02 02:16:55.261683
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -119,7 +119,6 @@
 {"key":"drpy_js_快看","name":"🕵快看🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/快看.js"},
 {"key":"drpy_js_360影视","name":"🕵360影视🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/360影视.js"},
 {"key":"drpy_js_在线之家","name":"🕵在线之家🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/在线之家.js"},
-{"key":"drpy_js_真不卡","name":"🕵真不卡🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/真不卡.js"},
 {"key":"drpy_js_完美看看","name":"🕵完美看看🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/完美看看.js"},
 {"key":"drpy_js_AGE动漫","name":"🕵AGE动漫🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/AGE动漫.js"},
 {"key":"drpy_js_1080P","name":"🕵1080P🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/master/js/1080P.js"},
