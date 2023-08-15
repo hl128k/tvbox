@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.iqiq.io/gaotianliuyun/gao/master/jar/custom_spider.jar;md5;1d3a24e2944970cff7f5eb9fd1fcf532",
+  "spider": "https://raw.iqiq.io/gaotianliuyun/gao/master/jar/custom_spider.jar;md5;52a0e12f50e6acdcc575ff0ba1df4dd4",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -35,7 +35,14 @@
       "api": "csp_Bili",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://raw.iqiq.io/gaotianliuyun/gao/master/json/bili.json"
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": {
+        "json": "https://raw.iqiq.io/gaotianliuyun/gao/master/json/chuqiuyu1.json",
+        "cookie": "buvid3=8B57D3BA-607A-1E85-018A-E8C430023CED42659infoc; b_lsid=BEB8EE7F_18742FF8C2E; bsource=search_baidu; _uuid=DE810E367-B52C-AF6E-A612-EDF4C31567F358591infoc; b_nut=100; buvid_fp=711a632b5c876fa8bbcf668c1efba551; SESSDATA=7624af93%2C1696008331%2C862c8%2A42; bili_jct=141a474ef3ce8cf2fedf384e68f6625d; DedeUserID=3493271303096985; DedeUserID__ckMd5=212a836c164605b7; sid=5h4ruv6o; buvid4=978E9208-13DA-F87A-3DC0-0B8EDF46E80434329-123040301-dWliG5BMrUb70r3g583u7w%3D%3D"
+      }
     },
     {
       "key": "泥巴",
@@ -61,6 +68,30 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://raw.iqiq.io/gaotianliuyun/gao/master/json/duboku.json"
+    },
+    {
+      "key": "廠長",
+      "name": "廠長",
+      "type": 3,
+      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/czzy_open.js",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "愛看",
+      "name": "愛看",
+      "type": 3,
+      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/ikanbot_open.js",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "快看",
+      "name": "快看",
+      "type": 3,
+      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kkys_open.js",
+      "searchable": 1,
+      "changeable": 1
     },
     {
       "key": "量子",
@@ -170,10 +201,10 @@
       "changeable": 1
     },
     {
-      "key": "土狗",
-      "name": "土狗",
+      "key": "玩偶",
+      "name": "玩偶",
       "type": 3,
-      "api": "csp_TuGou",
+      "api": "csp_Wogg",
       "searchable": 1,
       "changeable": 0
     },
@@ -273,13 +304,23 @@
   ],
   "rules": [
     {
+      "name": "星星",
+      "hosts": [
+        "aws.ulivetv.net"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
       "name": "量子廣告",
       "hosts": [
         "vip.lz",
         "hd.lz"
       ],
       "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
       ]
     },
     {
@@ -289,7 +330,8 @@
         "hd.ffzy"
       ],
       "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
       ]
     },
     {
