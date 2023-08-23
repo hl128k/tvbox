@@ -1,8 +1,6 @@
 {
 
 "spider":"https://www.bestpvp.site/关注码上放生/jar包",
-//"spider":"https://cdn.staticaly.com/gh/Dong-learn9/TVBox-zyjk/main/JAR/fan.jar;md5;a5eaab0a824b174e0024d75e1d8731ff",
-
 
 "lives":[
 {"name":"综合一","type":0,"url":"https://cdn.staticaly.com/gh/Dong-learn9/TVBox-zyjk/main/TV/tvlive.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png"},
@@ -11,17 +9,16 @@
 {"name":"综合四","type":0,"url":"https://xn--m7r412advb92j21st65a.tk/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
 ],
 
-//"wallpaper":"http://maoyingshi.cc/api.php",
+"wallpaper":"http://maoyingshi.cc/api.php",
 
 "sites":[
 //#爬虫#
 
 {"key":"drpy_js_豆瓣","name":" 豆瓣┃推荐","type":3,"api":"https://cdn.staticaly.com/gh/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext":"https://cdn.staticaly.com/gh/Dong-learn9/TVBox-zyjk/main/JS/js/drpy.js"},
 
-//{"key": "蘑菇2","name": "️蘑菇┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.gvideo.me/api.php/app/"},
+{"key": "蘑菇2","name": "️蘑菇┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://11111111.moguys.xyz/api.php/app/"},
 
-//{"key": "蘑菇2","name": "️蘑菇┃APP","type": 3,"api": "csp_AppYs","jar": "http://xhww.fun:63/小米/2.jar", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.gvideo.me/api.php/app/"},
-//{ "key": "蘑菇","name": "蘑菇┃BPQ","type": 3,"jar": "http://xhww.fun:63/小米/2.jar","api": "csp_XBPQ","playerType": "1","ext": "https://cdn.staticaly.com/gh/Dong-learn9/TVBox-zyjk/main/xBPQ/蘑菇影视.json"},
+//{"key": "蘑菇2","name": "️蘑菇┃APP","type": 3,"api": "csp_AppYs","jar": "http://xhww.fun:63/小米/2.jar", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://11111111.moguys.xyz/api.php/app/"},
 
 {"key": "csp_Czsapp", "name": "厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"ext": "https://cz01.cc/","filterable": 1},
 
@@ -49,29 +46,45 @@
 
 //{"key": "酷酷", "name": "酷酷┃App", "type": 3, "api": "csp_Kuying", "searchable": 1, "quickSearch": 1, "changeable": 1},
 
-
+{"key": "秒看资源","name": "秒看┃切片","type": 1,"api": "https://mkzy.vip/api.php/provide/vod","searchable": 1,"quickSearch": 1,"categories": ["综艺","电视剧","电影","动漫"]},
 
 {"key":"csp_Lgyy","name":"蓝光┃直连","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 
+{"key":"py_cctv","name": "央视┃片库","type": 3,"api":"py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.staticaly.com/gh/Dong-learn9/TVBox-zyjk/main/py/央视片库.py"},
 
-{"key":"py_cctv","name": "央视┃片库","type": 3,"api":"py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4127/PY/央视片库.py","jar":"https://weixine.net/YSC.jar"},
+{"key": "drpy_js_大豆","name": "大豆┃影视","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大豆.js"},
 
+//{ "key": "蘑菇","name": "蘑菇┃BPQ","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://cdn.staticaly.com/gh/Dong-learn9/TVBox-zyjk/main/xBPQ/蘑菇影视.json"},
+
+{"key": "星辰","name": "星辰┃BPQ","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "http://xhww.fun:63/小米/源/星辰.json"},
+
+{"key": "零度","name": "零度┃BPQ","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "http://xhww.fun:63/小米/源/小刀.json"},
+
+    {
+      "key": "drpy_js_子子影视",
+      "name": "子子┃[js]",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/子子影视.js"
+    },
+
+{"key": "酷影","name": "泰泰┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 
 //{"key":"Dy555","name":"555┃TS","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582","jar":"https://cdn.staticaly.com/gh/Dong-learn9/TVBox-zyjk/main/JAR/cs.jar"},
 
 {"key":"csp_Dm84","name":"动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Ying","name":"樱花┃动漫","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},
+{"key":"csp_Ying","name":"樱花┃动漫","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Ysj","name":"异界┃动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},
 
-{"key":"csp_Anime1","name":"日本┃动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},
+{"key":"csp_Anime1","name":"日本┃动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"csp_Yj1211","name":"️直播┃合集","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 
 //#XBPQ#
 //{"key": "北极狐影视","name": "北极狐影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.staticaly.com/gh/Dong-learn9/TVBox-zyjk/main/xBPQ/北极狐影视.json"},
-//{"key":"红领巾影院","name":"红领巾┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.staticaly.com/gh/Dong-learn9/TVBox-zyjk/main/xBPQ/红领巾影院.json"},
+//{"key":"红领巾影院","name":"红领巾┃XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.staticaly.com/gh/Dong-learn9/TVBox-zyjk/main/xBPQ/红领巾影院.json"},
 //{"key":"农民影视〔xBPQ〕","name":"农民影视〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.staticaly.com/gh/Dong-learn9/TVBox-zyjk/main/xBPQ/农民影视.json"},
 //{"key":"csp_xBPQ_蓝光影院","name":"蓝光影院〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.staticaly.com/gh/Dong-learn9/TVBox-zyjk/main/xBPQ/蓝光影院.json"},
 //{"key":"csp_xBPQ_555电影","name":"555电影️〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.staticaly.com/gh/Dong-learn9/TVBox-zyjk/main/xBPQ/555电影.json"},

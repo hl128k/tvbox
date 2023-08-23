@@ -4,8 +4,8 @@
 //"spider": "https://cdn.staticaly.com/gh/franksun1211/TVBOX/blob/main/APP/JAR/Yoursmile.jar?raw=true",
 //
 {
+	//"spider": "https://cdn.staticaly.com/gh/franksun1211/TVBOX/blob/main/APP/JAR/Yoursmile.jar?raw=true",
 	"spider": "https://agit.ai/Yoursmile7/TVBox/branch/master/Yoursmile.jar",
-	
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [
     {
@@ -99,7 +99,9 @@
 {"key":"csp_Zxzj","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
 
 {"key":"csp_trj","name":"🛫唐人街(墙外)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
-
+{"key":"drpy_hh","name":"🛫┃吼吼┃墙外┃🆚","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/js/HoHo影视.js"},
+{"key":"drpy_od","name":"🛫┃欧帝┃墙外┃🆚","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/js/欧帝影院.js"},
+{"key":"drpy_dbk","name":"🛫┃独播┃墙外┃🆚","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/ixinshang/dr_py/branch/master/js/独播库[飞].js"},
 {"key":"csp_XBPQ_ 零零七","name":"💢零零七","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/branch/master/sub/零零七影视.json"},
 
 {"key":"csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/branch/master/sub/Alist.json"},
@@ -135,17 +137,11 @@
 	}, {
 		"name": "小新",
 		"type": 1,
-		"url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=13270&key=cghkopqtuBFHKQSW38&url=",
-		"ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
-		} 
+		"url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=13270&key=cghkopqtuBFHKQSW38&url="
 	}, {
-		"name": "刚佬",
+		"name": "哥哥们",
 		"type": 1,
-		"url": "http://json.g9.pub:66/?url=",
-		"ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-		} 
+		"url": "http://jiexi.wogg.link/jx.php?config=http://api.xn--sss604efuw.top/jx&url="
 	}, {
 		"name": "777",
 		"type": 0,
@@ -180,7 +176,7 @@
 		"url": "https://yun.ckmov.com/?url=",
 		"ext": {
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
-		}
+		}  
 	},
 ///////fromFM////////
 {"name":"QIQI","type":0,"url":"https://jx.777jiexi.com/player/?url="},
