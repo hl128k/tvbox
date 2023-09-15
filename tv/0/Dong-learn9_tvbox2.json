@@ -1,6 +1,6 @@
 {
 
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/custom_spider.jar",
+"spider":"https://www.bestpvp.site/tvbox/jar/custom_spider_stable.jar",
 
 "lives":[
 {"name":"综合一","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/TV/tvlive.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png"},
@@ -44,7 +44,9 @@
 
 {"key": "csp_xpath_yinfans", "name": "音范丝┃4K", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://jihulab.com/ymz1231/json/-/main/音范丝.json"},
 
-{"key": "秒看资源","name": "秒看┃切片","type": 1,"api": "https://mkzy.vip/api.php/provide/vod","searchable": 1,"quickSearch": 1,"categories": ["综艺","电视剧","电影","动漫"]},
+//{"key":"drjs_星星影视","name":"星影┃[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/星星影视.js"},
+
+{"key":"csp_xBPQ_星星影视","name":"星星┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/星星影院.json"},
 
 //{"key":"csp_Lgyy","name":"蓝光┃直连","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 
@@ -52,13 +54,14 @@
 
 {"key":"py_cctv","name": "央视┃片库","type": 3,"api":"py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/py/央视片库.py"},
 
-{"key": "drpy_js_大豆","name": "大豆┃影视","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大豆.js"},
+//{"key": "drpy_js_大豆","name": "大豆┃[js]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/大豆影视.js"},
 
-{"key": "星辰","name": "星辰┃BPQ","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/星辰.json"},
+{"key": "星辰","name": "星辰┃BPQ","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/星辰影视.json"},
 
 {"key": "零度","name": "零度┃BPQ","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/零度.json"},
 
-{"key": "drpy_js_子子影视","name": "子子┃[js]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/子子影视.js"},
+//{"key": "drpy_js_子子影视","name": "子子┃[js]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/子子影视.js"},
+{"key": "drpy_js_子子影视","name": "子子┃[js]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/子子影视.js"},
 
 {"key": "酷影","name": "泰泰┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 
