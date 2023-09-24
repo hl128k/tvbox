@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.kgithub.com/gaotianliuyun/gao/master/jar/custom_spider.jar;md5;8ebaf83ea4ffc0082680d3c8484479f2",
+  "spider": "https://raw.kgithub.com/gaotianliuyun/gao/master/jar/custom_spider.jar;md5;798e7a90aeed6a5cecb1f5b923f3dd9e",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -8,7 +8,8 @@
       "type": 3,
       "api": "csp_NiNi",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "proxy": true
     },
     {
       "key": "星星",
@@ -16,7 +17,8 @@
       "type": 3,
       "api": "csp_Star",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "proxy": true
     },
     {
       "key": "玩偶",
