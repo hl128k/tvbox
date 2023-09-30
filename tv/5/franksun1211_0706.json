@@ -11,10 +11,11 @@
     {
       "name": "直播",
       "type": 0,
-      //"url": "https://agit.ai/guot54/ygbh/branch/master/zB/pro.txt",
+      //"url": "https://raw.gitmirror.com/bluefriendCN/set/main/live.txt",
+      //"url": "https://agit.ai/guot54/ygbh/branch/master/zB/pro.txt",    
       //"url": "https://agit.ai/138001380000/MHQTV/branch/master/TV/230107.txt",  	    
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/CR.txt",    
-      //"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/mitv.txt",     
+      //"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/CR.txt",    
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/mitv.txt",     
       //"url": "https://agit.ai/guot54/ygbh/branch/master/zB/zB.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     }
@@ -93,10 +94,10 @@
 
 {"key": "蘑菇","name": "🍄┃陌陌姐姐┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gvideo.me/api.php/app/","jar":"https://agit.ai/alanchaotang/if/branch/main/jar/tang.jar"},
 {"key": "csp_mdd","name": "🥚┃蛋蛋妹妹┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://app.mengdandan.com/xgapp.php/v1/","jar":"https://agit.ai/alanchaotang/if/branch/main/jar/tang.jar"},
-{"key":"电影港","name":"🧲电影港","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/branch/master/sub/电影港磁力.json"},
-{"key":"BT天堂","name":"🧲BT天堂","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/branch/master/sub/BT天堂.json"},
-{"key":"极影网","name":"🧲极影网","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/branch/master/sub/极影网.json"},
-{"key":"高清MP4","name":"🧲高清MP4","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/branch/master/sub/高清MP4.json"},
+{"key":"电影港","name":"🌎电影港","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/branch/master/sub/电影港磁力.json"},
+{"key":"BT天堂","name":"🌎BT天堂","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/branch/master/sub/BT天堂.json"},
+{"key":"极影网","name":"🌎极影网","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/branch/master/sub/极影网.json"},
+{"key":"高清MP4","name":"🌎高清MP4","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/branch/master/sub/高清MP4.json"},
 
 {"key":"csp_Zxzj","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
 
