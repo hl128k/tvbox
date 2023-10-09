@@ -35,7 +35,7 @@
 //{"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_l0l","name":"🥇If101[js]","type":3,"api":"https://cdn.staticaly.com/gh/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://cdn.staticaly.com/gh/gaotianliuyun/gao/master/js/l0l.js","jar":"https://cdn.staticaly.com/gh/gaotianliuyun/gao/master/jar/custom_spider.jar"},
 //{"key":"AppTT","name":"🥇图图","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://cdn.staticaly.com/gh/gaotianliuyun/gao/master/jar/cs.jar"},
-{"key":"csp_YQKAPP","name":"🌎一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
+{"key":"csp_YQKan","name":"🌎一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"迷你库","name":"Ⓜ️迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 //{"key":"csp_555","name":"5️⃣️555影视","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
 
