@@ -46,7 +46,7 @@
 {"key":"csp_Voflix","name":"🌀Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-
+{"key":"dr_布雷蓝光","name":"💥布雷影视","type":3,"api":"https://agit.ai/alanchaotang/dr_py/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alanchaotang/dr_py/branch/main/js/布雷蓝光.jsd"},
 //{"key":"csp_fantuan","name":"🍙饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 //{"key":"csp_Lgyy","name":"💧蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 {"key":"drpy_js_多瑙影视","name":"💿多瑙影视[js]","type":3,"api":"https://raw.fastgit.org/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.fastgit.org/gaotianliuyun/gao/master/js/多瑙影视.js","playerType":"2","jar":"https://raw.fastgit.org/gaotianliuyun/gao/master/jar/custom_spider.jar"},
