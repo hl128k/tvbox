@@ -3,10 +3,10 @@
 "spider":"https://www.bestpvp.site/tm/stable/custom_spider_stable.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338",
 
 "lives":[
-{"name":"综合一","type":0,"url":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/TV/tvlive.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"综合二","type":0,"url":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/TV/live2.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
-{"name":"综合三","type":0,"url":"http://home.jundie.top:81/ray/tvlive.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
-{"name":"综合四","type":0,"url":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/TV/live4.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
+{"name":"综合一","type":0,"url":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/TV/tv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png"},
+//{"name":"综合二","type":0,"url":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/TV/live2.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
+//{"name":"综合三","type":0,"url":"http://home.jundie.top:81/ray/tvlive.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
+//{"name":"综合四","type":0,"url":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/TV/live4.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
 ],
 
 "wallpaper":"http://maoyingshi.cc/api.php",
@@ -14,69 +14,40 @@
 "sites":[
 //#爬虫#
 
-{"key": "csp_Czsapp", "name": "厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"ext": "https://www.cz0101.com/","filterable": 1},
+{"key": "豆瓣","name": "豆瓣┃推荐","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 
-{"key":"drpy_js_豆瓣","name":" 豆瓣┃推荐","type":3,"api":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/js/drpy.js"},
-
-{"key": "drpy_js_子子影视","name": "子子┃JS","type": 3,"api": "https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy1.min.js","ext": "https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/js/子子影视.js"},
+//{"key":"drpy_js_豆瓣","name":" 豆瓣┃推荐","type":3,"api":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/js/drpy.js"},
 
 {"key": "磁力","name": "荐片┃磁力","type": 3,"playerType": "1","api": "https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy1.min.js","ext": "https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/js/荐片.js"},
 
- {"key": "龟龟","name": "龟龟┃BPQ","type": 3,"api": "csp_XBPQ","playerType": "1","jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","ext": "https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/xBPQ/达达龟.json"},
+{"key": "drpy_js_子子影视","name": "子子┃JS","type": 3,"api": "https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy1.min.js","ext": "https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/js/子子影视.js"},
+
+{"key": "Mino","name": "Mino┃App","type": 3,"api": "csp_AppMao","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"},
+
+{"key": "橘子","name": "橘子┃App","type": 3, "api": "csp_AppMao","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjDcUxPqpfNr0QF4QvE6sExbc1AGIRPUzIPtbexyEhcScOf53TW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KzfJ8GvG6ETdzBCbfFw0WuoidvgjRb4EpUL8NqDk4unKXRBhjcoD99QoAIMsLc24lek3u9uBO+6JFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmfepqhEHQ08b/50BTD4Smp257RWMVpiQ1Tu3ht+MPo7oQAceapuyQGcL2fslXXHVrrb+9pyjtI9Qzph9HFoNJPIj5EXV+qGRI0CjSm9Dbm5nQFlZ6G2jvORw+5LMziXmuxDZH4U7qpnfjh/8hAu18546qyGmiWVI2mfDrKkVmeLq1KFA0rA="},
+
+{"key": "追忆影视","name": "追忆┃影视","type": 3,"jar": "http://xhww.fun:63/小米/ab2.jar;md5;77a7f4d8c203027fe8e07c916276e879","api": "csp_Appto","playerType": 2,"ext":"SgfqwZ7mXT9kHnNF5fEfBFRfJVGiy4+WwnapqG/NY3BxdbcjxuSmnXN/KMdKfEmAbW86nRfRRsx8wG3JuaVRwKtFGrTNs9GKFMjzDysgVx+vXROKpT7GgFNl6mjK8KYx2Cd9N8wv9vOboEhX87E2+ckvZL2uDPkYk9cW+IePzeeW7N1VrtZGAJ5s8cnPumrviNowWKczX9/9g3IUgNAchFGWS8MIHy2LHJ/Jj1upM3boVaFchNX3fkkXpdfPjIHoRSgjQ3AkFnS7tcqEno/ZHQexTvGGwDN760tqsJnQiOJgr6wl3DaOAZpfS75U+i5cpvHkX9cYjCMp7Q33fl5FhFiMZruipNxP3ujfF1Y2sKhANvz+fycqBzvJr5ogkLc1sPDw+St4uFsGkDnmAraX0zPzwwggknimRXeudT7TZz1fk8Pfuh1acXEju5g8H6XPzbsi8KcJskusAiIoPiu86apOh6wNcWuD13IDIfs0RXSn+AkD6ELJFa+hPa1UZ8BddfI0Cd+LV15gKaZg0eiKs9n4t8rasm6x4KpP/XBwYR/kzMIS6aYri42R37koBsuHChJkOdsaRjS0+xUNTuIN8aM9QOWBK4fmoU1f4qYW3Nf/sdICVIh0FflXgHO0NgfE9tenAPWDCtxZia8eo3C4JcR43a7wRgJf3HyA6zcIh7eOs74eDoak9b1wU82+EHNhec3XrkfzSoSpqUzqz2NMtPYe8RU+lRXAiS6xGU8Uq7fYBzLiw/LfCnfoMXPbsQuwGCCy5348lrN3MqK1v/WMxHY2/7iGEDgHZAs/YJ+0Visz0mULi4bau8BJ9z/VYTZ9O67XWYSpZTvMA55rIDee9OwMGqqgRFVYE4xiiSj8JYVHT0WwxSYkcZes5qBL3h6hcCWUZoUXoY3rvNkdweATQ/nvnD5+Z6hvX6eNP4yUJWvB4CwqCI5htdXwTFQH6sdJWOLVK+oQiicDS8Non9FbFfgI6dGG+W5p5reMIfFExV+MdpOs5QWqVaw8tMPEMqKnG"},
+
+{"key": "图图影视","name": "图图┃影视","type": 3,"jar": "http://xhww.fun:63/小米/ab2.jar;md5;77a7f4d8c203027fe8e07c916276e879","api": "csp_APPTT","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "pcnBMY0w5bjNJRkh0anpQKnw2cE1NY1RjR2JBTDVFUGxkTW1FZXdhUkhiVlVzanpQKnxodHRwOi8vMTE5LjEwMS4xNDguMTI1OjU1NjYv"},
 
 {"key": "drpy_js_两个BT","name": "Btto┃JS","type": 3,"api": "https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy1.min.js","ext": "https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/js/两个BT.js","searchable": 1,"quickSearch": 1, "filterable": 1},
 
-{"key":"虎虎","name": "虎虎┃BPQ","type": 3,"api": "csp_XBPQ","jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/xBPQ/虎虎.json"},
-
 {"key": "Xinsj","name": "视觉┃直连","type": 3, "api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.6080yy3.com/"},
 
-{"key":"快看影视","name":"快看┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/xBPQ/快看影视.json"},
+{"key":"快看影视","name":"快看┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/xBPQ/快看影视.json"},
 
 {"key": "csp_FanYY","name": "玩偶┃影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt" },
 
-    {
-      "key": "csp_Ysgc",
-      "name": "影视┃工厂",
-      "type": 3,
-      "api": "csp_Ysgc",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.ysgc.fun"
-    },
+{"key": "csp_Czsapp", "name": "厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"ext": "https://www.cz0101.com/","filterable": 1},
+
+{"key":"红领巾影院","name":"红领┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/xBPQ/红领巾影院.json"},
+
 
  {
-      "key": "速映",
-      "name": "速映┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
-      "ext": {
-        "站名": "速映影视",
-        "主页url": "https://www.suying.lol/",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$5#",
-        "分类url": "https://www.suying.lol/index.php/vod/show/id/{cateId}/page/{catePg}/year/{year}.html",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "搜索模式": "1",
-        "年代": "年份：&&</a>",
-        "地区": "地区：&&</a>",
-        "类型": "类型：&&</a>",
-        "导演": "导演：&&</p>",
-        "主演": "主演：&&</p>",
-        "简介": "eight: 20px;\">&&</p>",
-        "嗅探词": ".m3u8#.mp4#.flv#aliyundrive#alicloudccp",
-        "播放链接": "href=\"&&\""
-      }
-    },
-
-    {
       "key": "淘剧",
       "name": "淘剧┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
-     "jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
       "ext": {
         "主页url": "http://dyxz.tv",
         "数组": "<div class=\"stui-vodlist__box\">&&</div>",
@@ -111,24 +82,10 @@
       }
     },
 
-    {
-      "key": "秒看资源",
-      "name": "秒看┃切片",
-      "type": 1,
-      "api": "https://www.xy1080.net/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "综艺",
-        "电视剧",
-        "电影",
-        "动漫"
-      ]
-    },
 
-{"key":"农民影视〔xBPQ〕","name":"农民┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/xBPQ/农民影视.json"},
+{"key": "酷影","name": "泰泰┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 
-{"key":"csp_xBPQ_星星影视","name":"星星┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1, "jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","ext":"http://127.0.0.1:9978/file/tvbox/星星影院.json"},
+{"key": "新6V","name": "6V┃磁力","type": 3,"api": "csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://www.xb6v.com/"},
 
     {
       "key": "索尼资源",
@@ -174,49 +131,7 @@
       "quickSearch": 1
     },
 
-    {
-      "key": "热播库",
-      "name": "热播┃BPQ",
-      "type": 3,
-      "changeable": 1,
-      "jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": {
-        "主页url": "https://rebozj.pro",
-        "数组": "class=\"stui-vodlist__thumb lazyload&&</a>",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "副标题": "class=\"pic-text text-right\"><b>&&</span>",
-        "搜索模式": "1",
-        "嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com",
-        "搜索url": "https://rebozj.pro/type/id-.html?wd={wd}",
-        "线路数组": "<h4 class=\"title&&/h4>",
-        "线路标题": ">&&<",
-        "播放列表": "<a&&/a>",
-        "播放标题": ">&&<",
-        "影片类型": "类型：&&</p>",
-        "导演": "导演：&&</p>",
-        "主演": "主演：&&</p>",
-        "简介": "display: none;\">&&</span>",
-        "分类": "电视剧$2#电影$1#综艺$3#动漫$4",
-        "分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a",
-        "跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
-      }
-    },
-
-//{"key":"csp_xBPQ_蓝光影院","name":"蓝光┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","ext":"http://127.0.0.1:9978/file/tvbox/xBPQ/蓝光影院.json"},
-
-{"key":"py_cctv","name": "央视┃PY","type": 3,"api":"py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/py/央视片库.py"},
-
-{"key": "零度","name": "零度┃BPQ","type": 3,"api": "csp_XBPQ","playerType": "1","jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","ext": "https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/xBPQ/零度.json"},
-
-{"key": "酷影","name": "泰泰┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
-
-{"key": "新6V","name": "6V┃磁力","type": 3,"api": "csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://www.xb6v.com/"},
-
-{"key": "csp_xpath_yinfans", "name": "音范丝┃4K", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://jihulab.com/ymz1231/json/-/main/音范丝.json"},
+{"key": "csp_xpath_yinfans", "name": "音丝┃4K", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://jihulab.com/ymz1231/json/-/main/音范丝.json"},
 
 {"key":"csp_Dm84","name":"动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -228,37 +143,9 @@
 
 {"key":"csp_Yj1211","name":"️直播┃合集","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"py_cctv","name": "央视┃PY","type": 3,"api":"py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/py/央视片库.py"},
+
 //{"key":"Dy555","name":"555┃TS","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582","jar":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JAR/cs.jar"},
-
-
-//#XBPQ#
-{"key":"视觉影院〔xBPQ〕","name":"视觉┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/xBPQ/视觉影院.json"},
-//{"key": "北极狐影视","name": "北极狐影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/xBPQ/北极狐影视.json"},
-{"key":"红领巾影院","name":"红领┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/xBPQ/红领巾影院.json"},
-//{"key":"csp_xBPQ_555电影","name":"555电影️〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/xBPQ/555电影.json"},
-//{"key":"素白白影视","name":"素白白〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/xBPQ/素白白.json"},
-//{"key":"csp_xBPQ_浮生半日","name":"浮生半日","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/xBPQ/浮生半日.json"},
-//{"key":"csp_xBPQ_ 乐猪","name":"乐猪（xBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/xBPQ/乐猪影视.json"},
-//{"key":"csp_xBPQ_短视频","name":"短视频（xBPQ）","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/xBPQ/短视频.json"},
-//{"key":"csp_xBPQ_追剧达人","name":"追剧达人（xBPQ）","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/xBPQ/追剧达人.json"},
-//{"key":"XBPQ_fant","name":"饭团影院（xBPQ）","type":3,"api":"csp_XBPQ","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/xBPQ/饭团影院.json"},
-//{"key":"XBPQ_fant2","name":"饭团┃高清（xBPQ）","type":3,"api":"csp_XBPQ","filterable":1,"quickSearch":0,"searchable":0,"ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/xBPQ/饭团影视HD.json"},
-
-
-//{"key":"drpy_js_360影视","name":"360影视[js]","type":3,"api":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/js/360影视.js"},
-//{"key":"drpy_js_奇珍异兽","name":"爱奇艺 [js]","type":3,"api":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/js/奇珍异兽.js"},
-//{"key":"drpy_js_优酷","name":"优酷影视[js]","type":3,"api":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/js/优酷.js"},
-//{"key":"drpy_js_腾云驾雾","name":"腾讯影视[js]","type":3,"api":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/js/腾云驾雾.js"},
-//{"key":"drpy_js_百忙无果","name":" 芒果影视[js]","type":3,"api":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/js/百忙无果.js"},
-//{"key":"drpy_js_菜狗","name":"搜狗影视[js]","type":3,"api":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/js/菜狗.js"},
-//{"key":"drpy_js_蓝光影院","name":"蓝光影院[js]","type":3,"api":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/js/蓝光影院.js"},
-//{"key":"drpy_js_DJ音乐","name":"DJ音乐[js]","type":3,"api":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/js/DJ音乐.js","playerType":"2"},
-//{"key":"drpy_js_海盗听书","name":" 海盗听书[js]","type":3,"api":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/js/海盗听书.js","playerType":"2"},
-//{"key":"drpy_js_听书网","name":"听书网[js]","type":3,"api":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/js/听书网.js","playerType":"2"},
-//{"key":"drpy_js_有声小说","name":"有声小说[js]","type":3,"api":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/js/有声小说吧.js","playerType":"2"},
-//{"key":"drpy_js_斗鱼直播","name":"斗鱼直播[js]","type":3,"api":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/js/斗鱼直播.js"},
-//{"key":"drpy_js_虎牙直播","name":"虎牙直播[js]","type":3,"api":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/js/虎牙直播.js"},
-//{"key":"drpy_js_JustLive","name":"Just直播[js]","type":3,"api":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/JS/js/JustLive.js"},
 
 //#XB#
 //{"key": "演唱会","name": "演唱会  （XB）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/XB/演唱会.json"},
