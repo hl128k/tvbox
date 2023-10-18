@@ -30,7 +30,7 @@
 {"key":"csp_Czsapp","name":"🥇厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🥇Cokemv","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},		
 {"key":"dr_荐片","name":"🥇荐片","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/branch/master/js/lib/drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/branch/master/js/荐片.js"},
-
+{"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/"},
 {"key":"泥巴","name":"🥇泥巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1,"jar":"https://cdn.staticaly.com/gh/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 //{"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_l0l","name":"🥇If101[js]","type":3,"api":"https://cdn.staticaly.com/gh/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://cdn.staticaly.com/gh/gaotianliuyun/gao/master/js/l0l.js","jar":"https://cdn.staticaly.com/gh/gaotianliuyun/gao/master/jar/custom_spider.jar"},
@@ -53,7 +53,7 @@
 //{"key":"drpy_js_秋霞影视","name":"💿秋霞影视[js]","type":3,"api":"https://cdn.staticaly.com/gh/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://cdn.staticaly.com/gh/gaotianliuyun/gao/master/js/秋霞影视.js","jar":"https://cdn.staticaly.com/gh/gaotianliuyun/gao/master/jar/custom_spider.jar"},		
 //{"key":"csp_DuoX","name":"🌎多线","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"农民","name":"🥝农民","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/branch/master/sub/农民影视.json"},
-{"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/"},
+//{"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/"},
 //{"key":"落叶","name":"🍁落叶","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--yeta099v.online:66/api.php/app/"},
 {"key":"如意","name":"🚀如意","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 //{"key":"多米","name":"🌽️多米","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.dmdh.top/api.php/app/"},
