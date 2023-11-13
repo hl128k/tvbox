@@ -8,19 +8,27 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 with open('./url.json', 'r', encoding='utf-8') as f:
     urlJson = json.load(f)
 nameList = []
-reList = ["https://ghproxy.com/https://raw.githubusercontent.com", "https://cdn.staticaly.com/gh",
-          "https://raw.fastgit.org", "https://raw.kgithub.com", "https://raw.iqiq.io",
-          "https://github.moeyy.xyz/https://raw.githubusercontent.com"]
+reList = ["https://ghproxy.com/https://raw.githubusercontent.com", "https://raw.fgit.cf/",
+          "https://raw.fastgit.org", "https://raw.iqiq.io",
+          "https://github.moeyy.xyz/https://raw.githubusercontent.com", "https://fastly.jsdelivr.net/gh/"]
+reRawList = [False, False,
+          False, False,
+          False, True]
 for item in urlJson:
+    urlName = item["name"]
+    if urlName == "gaotianliuyun_0707":
+        continue
     urlReq = requests.get(item["url"], verify=False)
     for reI in range(len(reList)):
-        urlName = item["name"]
         urlPath = item["path"]
         reqText = urlReq.text
         reqText = reqText.replace("'./", "'" + urlPath) \
-            .replace('"./', '"' + urlPath) \
-            .replace("/raw/", "/") \
-            .replace("'https://github.com", "'" + reList[reI]) \
+            .replace('"./', '"' + urlPath)
+        if reRawList[reI]:
+            reqText = reqText.replace("/raw/", "@")
+        else:
+            reqText = reqText.replace("/raw/", "/")
+        reqText = reqText.replace("'https://github.com", "'" + reList[reI]) \
             .replace('"https://github.com', '"' + reList[reI]) \
             .replace("'https://raw.githubusercontent.com", "'" + reList[reI]) \
             .replace('"https://raw.githubusercontent.com', '"' + reList[reI])
