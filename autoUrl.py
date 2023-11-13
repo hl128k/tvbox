@@ -15,15 +15,14 @@ reRawList = [False, False,
           False, False,
           False, True]
 for item in urlJson:
-    urlName = item["name"]
-    if urlName == "gaotianliuyun_0707":
-        continue
     urlReq = requests.get(item["url"], verify=False)
     for reI in range(len(reList)):
+        urlName = item["name"]
         urlPath = item["path"]
         reqText = urlReq.text
-        reqText = reqText.replace("'./", "'" + urlPath) \
-            .replace('"./', '"' + urlPath)
+        if urlName != "gaotianliuyun_0707":
+            reqText = reqText.replace("'./", "'" + urlPath) \
+                .replace('"./', '"' + urlPath)
         if reRawList[reI]:
             reqText = reqText.replace("/raw/", "@")
         else:
