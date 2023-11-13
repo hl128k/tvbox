@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.iqiq.io/gaotianliuyun/gao/master/jar/custom_spider.jar;md5;18d6103e01c3865caeb7a23e627adb3c",
+  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/custom_spider.jar;md5;18d6103e01c3865caeb7a23e627adb3c",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -27,7 +27,7 @@
       "changeable": 0,
       "ext": {
         "token": "http://127.0.0.1:9978/file/tvfan/token.txt",
-        "filter": "https://raw.iqiq.io/gaotianliuyun/gao/master/json/wogg.json"
+        "filter": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/wogg.json"
       }
     },
     {
@@ -37,7 +37,7 @@
       "api": "csp_Jianpian",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://raw.iqiq.io/gaotianliuyun/gao/master/json/jianpian.json"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/jianpian.json"
     },
     {
       "key": "獨播",
@@ -46,7 +46,7 @@
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://raw.iqiq.io/gaotianliuyun/gao/master/json/duboku.json"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/duboku.json"
     },
     {
       "key": "haiwaikan",
@@ -97,7 +97,7 @@
       "api": "csp_Douban",
       "searchable": 0,
       "changeable": 1,
-      "ext": "https://raw.iqiq.io/gaotianliuyun/gao/master/json/douban.json"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/douban.json"
     },
     {
       "key": "新6V",
@@ -194,7 +194,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://raw.iqiq.io/gaotianliuyun/gao/master/json/chuqiuyu1.json",
+        "json": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/chuqiuyu1.json",
         "type": "帕梅拉#太极拳#广场舞#演唱会",
         "cookie": ""
       }
@@ -234,7 +234,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://raw.iqiq.io/gaotianliuyun/gao/master/json/alist.json"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/alist.json"
     },
     {
       "key": "WebDAV",
@@ -243,7 +243,7 @@
       "api": "csp_WebDAV",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://raw.iqiq.io/gaotianliuyun/gao/master/json/webdav.json"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/webdav.json"
     },
     {
       "key": "七夜",

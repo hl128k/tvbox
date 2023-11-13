@@ -13,11 +13,11 @@
   "sites":[
     
     {"key":"csp_Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://agit.ai/fantaiying/fty/branch/master/json/nmys.json"},
+    {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://agit.ai/fantaiying/fty@branch/master/json/nmys.json"},
     {"key":"csp_NanGua","name":"南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
     {"key":"Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy88.com/"},
     {"key":"迪迪","name":"迪迪","api":"csp_AppYsV2","type":3,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
-    {"key":"贱贱","name":"贱贱","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://agit.ai/fantaiying/dr_py/branch/main/libs/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty/branch/master/JS/js/jp.js"},
+    {"key":"贱贱","name":"贱贱","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://agit.ai/fantaiying/dr_py@branch/main/libs/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty@branch/master/JS/js/jp.js"},
     {"key":"极光","name":"极光","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsK3w=="},
     {"key":"快影","name":"快影","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"http://iosa.xn--654a.cc/api.php/app/"},
     {"key":"追忆","name":"追忆","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZAH4tPWnVF46Ct0RcDCdqQ/iHaxETP6KexDCalbnKb235g2zI+TmNzCM49OFRCWdee3hnULz5M1CsK3w=="},

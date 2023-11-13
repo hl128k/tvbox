@@ -1,9 +1,9 @@
 ﻿{
-"spider":"https://raw.kgithub.com/gaotianliuyun/gao/master/jar/1023.jar;md5;fd295ab17dcb7631145ec8b73d62724f",
+"spider":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/1023.jar;md5;fd295ab17dcb7631145ec8b73d62724f",
 "lives":[{"name":"live","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
-{"key":"lf_js_search","name":"豆瓣","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":1,"api":"https://raw.kgithub.com/gaotianliuyun/gao/master/lib/lf_search3_min.js"},
-{"key":"玩偶弹幕版","name":"玩偶","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/tvfan/token.txt","filter":"https://raw.kgithub.com/gaotianliuyun/gao/master/json/wogg.json","danmu":true}, "timeout":30},
+{"key":"lf_js_search","name":"豆瓣","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":1,"api":"https://raw.iqiq.io/gaotianliuyun/gao/master/lib/lf_search3_min.js"},
+{"key":"玩偶弹幕版","name":"玩偶","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/tvfan/token.txt","filter":"https://raw.iqiq.io/gaotianliuyun/gao/master/json/wogg.json","danmu":true}, "timeout":30},
 {"key":"小纸条_cli","name":"小纸条","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt", "timeout":30},
 {"key":"csp_Sp360","name":"360","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"danmu":true}, "timeout":30},
 {"key":"荐片弹幕版","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}, "timeout":60},
@@ -13,10 +13,10 @@
 {"key":"七夜弹幕版","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/tvfan/token.txt","danmu":true}, "timeout":30},
 {"key":"盘搜弹幕版","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/tvfan/token.txt","danmu":true}, "timeout":30},
 {"key":"易搜弹幕版","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/tvfan/token.txt","danmu":true}, "timeout":30},
-{"key":"csp_Bili","name":"哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"style":{"type":"rect","ratio":1.755},"filterable":1,"changeable":0,"ext":{"json":"https://raw.kgithub.com/gaotianliuyun/gao/master/json/chuqiuyu1.json","cookie": ""}},
-{"key":"lf_js_lf_live","name":"直播","type":3,"api":"https://raw.kgithub.com/gaotianliuyun/gao/master/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.kgithub.com/gaotianliuyun/gao/master/js/lf_live.txt"},
-{"key":"应用商店","name":"应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://raw.kgithub.com/gaotianliuyun/gao/master/json/market.json","style":{"type":"rect","ratio":1}},
-{"key":"push_agent","name":"推送","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://raw.kgithub.com/gaotianliuyun/gao/master/lib/lf_pushagent_min.js","timeout":30,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"}
+{"key":"csp_Bili","name":"哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"style":{"type":"rect","ratio":1.755},"filterable":1,"changeable":0,"ext":{"json":"https://raw.iqiq.io/gaotianliuyun/gao/master/json/chuqiuyu1.json","cookie": ""}},
+{"key":"lf_js_lf_live","name":"直播","type":3,"api":"https://raw.iqiq.io/gaotianliuyun/gao/master/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/js/lf_live.txt"},
+{"key":"应用商店","name":"应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/json/market.json","style":{"type":"rect","ratio":1}},
+{"key":"push_agent","name":"推送","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://raw.iqiq.io/gaotianliuyun/gao/master/lib/lf_pushagent_min.js","timeout":30,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"}
 ],
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
