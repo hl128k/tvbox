@@ -8,9 +8,9 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 with open('./url.json', 'r', encoding='utf-8') as f:
     urlJson = json.load(f)
 nameList = []
-reList = ["https://ghproxy.com/https://raw.githubusercontent.com", "https://raw.fgit.cf/",
-          "https://raw.fastgit.org", "https://raw.iqiq.io",
-          "https://github.moeyy.xyz/https://raw.githubusercontent.com", "https://fastly.jsdelivr.net/gh/"]
+reList = ["https://ghproxy.com/https://raw.githubusercontent.com", "https://raw.fgit.cf",
+          "https://gcore.jsdelivr.net/gh", "https://raw.iqiq.io",
+          "https://github.moeyy.xyz/https://raw.githubusercontent.com", "https://fastly.jsdelivr.net/gh"]
 reRawList = [False, False,
           False, False,
           False, True]
