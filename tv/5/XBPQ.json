@@ -1,5 +1,5 @@
 {
-	"spider": "https://fastly.jsdelivr.net/gh//gaotianliuyun/gao@master/jar/XBPQ.jar;md5;231137143871d75a4495b028ee317672",
+	"spider": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/XBPQ.jar;md5;231137143871d75a4495b028ee317672",
 	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -62,7 +62,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://fastly.jsdelivr.net/gh//gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"ext": "http://103.197.25.136:3836/api.php/app/"
 		},
 		{
@@ -111,7 +111,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"playerType": "2",
-			"jar": "https://fastly.jsdelivr.net/gh//gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_XBPQ",
 			"ext": {
 				"嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
@@ -132,7 +132,7 @@
 			"type": 3,
 			"api": "csp_XBPQ",
 			"playerType": "1",
-			"jar": "https://fastly.jsdelivr.net/gh//gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"ext": {
 				"分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
 				"分类": "最新热榜&今日更新&FREE电影&FREE剧集&FREE动漫&FREE综艺",
@@ -249,7 +249,7 @@
 			"name": "🏡南坊┃影视",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "https://fastly.jsdelivr.net/gh//gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -288,7 +288,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://fastly.jsdelivr.net/gh//gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
 		},
 		{
@@ -296,7 +296,7 @@
 			"name": "🇺🇸美剧┃影视",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "https://fastly.jsdelivr.net/gh//gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -401,7 +401,7 @@
 			"key": "爱看",
 			"name": "❤️爱看┃BPQ",
 			"type": 3,
-			"jar": "https://fastly.jsdelivr.net/gh//gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_XBPQ",
 			"ext": {
 				"主页url": "https://www.3ayy.com",
@@ -437,7 +437,7 @@
 			"name": "☁️云播┃BPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "https://fastly.jsdelivr.net/gh//gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"ext": {
 
 				"影片类型": "分类：&&主演",
@@ -471,7 +471,7 @@
 			"name": "⚡️速映┃BPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "https://fastly.jsdelivr.net/gh//gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"ext": {
 				"站名": "速映影视",
 				"主页url": "http://www.suying.life/",
@@ -496,7 +496,7 @@
 			"name": "🍑淘剧┃BPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "https://fastly.jsdelivr.net/gh//gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"ext": {
 				"主页url": "http://dyxz.tv",
 				"数组": "<div class=\"stui-vodlist__box\">&&</div>",
@@ -547,7 +547,7 @@
 			"type": 3,
 			"api": "csp_XBPQ",
 			"playerType": "1",
-			"jar": "https://fastly.jsdelivr.net/gh//gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"ext": {
 				"数组": "class=\"top&&</li",
 				"请求头": "AppleCoreMedia/1.0.0.17D50 (iPhone; U; CPU OS 13_3_2 like Mac OS X; zh_cn)",
@@ -594,7 +594,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"jar": "https://fastly.jsdelivr.net/gh//gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"playerType": "2",
 			"api": "csp_XBPQ",
 			"ext": {
@@ -635,7 +635,7 @@
 			"name": "🍄蘑菇┃BPQ",
 			"type": 3,
 			"changeable": 1,
-			"jar": "https://fastly.jsdelivr.net/gh//gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_XBPQ",
 			"playerType": "2",
 			"ext": {
@@ -659,7 +659,7 @@
 			"name": "🐢龟龟┃BPQ",
 			"type": 3,
 			"changeable": 1,
-			"jar": "https://fastly.jsdelivr.net/gh//gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_XBPQ",
 			"playerType": "2",
 			"ext": {
@@ -680,7 +680,7 @@
 			"key": "双黄",
 			"name": "🥚双黄┃BPQ",
 			"type": 3,
-			"jar": "https://fastly.jsdelivr.net/gh//gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_XBPQ",
 			"ext": {
 				"嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
@@ -697,7 +697,7 @@
 			"key": "蜗牛",
 			"name": "🐌蜗牛┃BPQ",
 			"type": 3,
-			"jar": "https://fastly.jsdelivr.net/gh//gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_XBPQ",
 			"ext": {
 				"分类url": "https://www.yizhiwo.cc/vodshow/{cateId}--{area}------{catePg}---{year}.html;;au0",
@@ -712,7 +712,7 @@
 			"name": "🔥热播┃BPQ",
 			"type": 3,
 			"changeable": 1,
-			"jar": "https://fastly.jsdelivr.net/gh//gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_XBPQ",
 			"playerType": "1",
 			"ext": {
