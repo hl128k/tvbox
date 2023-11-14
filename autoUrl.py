@@ -12,7 +12,7 @@ reList = ["https://ghproxy.com/https://raw.githubusercontent.com", "https://raw.
           "https://gcore.jsdelivr.net/gh", "https://raw.iqiq.io",
           "https://github.moeyy.xyz/https://raw.githubusercontent.com", "https://fastly.jsdelivr.net/gh"]
 reRawList = [False, False,
-          False, False,
+          True, False,
           False, True]
 for item in urlJson:
     urlReq = requests.get(item["url"], verify=False)
