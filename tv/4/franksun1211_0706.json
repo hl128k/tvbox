@@ -47,10 +47,13 @@
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_多瑙影视","name":"💿多瑙影视[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/多瑙影视.js","playerType":"2","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/custom_spider.jar"},
 
-{"key":"农民","name":"🥝农民","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/branch/master/sub/农民影视.json"},
+//{"key":"农民","name":"🥝农民","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/branch/master/sub/农民影视.json"},
 {"key":"如意","name":"🚀如意","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 {"key":"爱迪","name":"🍟爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
-
+{"key":"drpy_js_奇珍异兽","name":"🐨┃爱奇艺┃官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/branch/main/libs/drpy2.min.js","ext":"https://agit.ai/alanchaotang/dr_py/branch/main/js/奇珍异兽.js"},
+{"key": "dr_腾云驾雾","name": "🐧┃腾讯视频┃官源","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/alanchaotang/dr_py/branch/main/js/腾云驾雾.js"},
+{"key": "dr_优酷","name": "⛽┃优酷TV┃官源","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/alanchaotang/dr_py/branch/main/js/优酷.js"},
+{"key": "dr_菜狗","name": "🐶┃搜狗TV┃官源","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/alanchaotang/dr_py/branch/main/js/菜狗.js"},
 //////////////////////////////////////////////////////////////////////////
 //{"key":"csp_XYQBiu_17kan","name":"🏆🏀17kan","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/MaooXB/17kan.json"},
 {"key":"dr_JRKAN直播","name":"🏆🏆🏀JRKAN直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/branch/master/js/JRKAN直播.js"},
