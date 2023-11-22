@@ -4,8 +4,8 @@
 //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/blob/main/APP/JAR/Yoursmile.jar?raw=true",
 //"spider": "https://agit.ai/Yoursmile7/TVBox/branch/master/Yoursmile.jar",
 {
-	"spider": "https://agit.ai/Yoursmile7/TVBox/branch/master/Yoursmile.jar",
-	//"spider": "https://ghproxy.com/https://raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar",
+	//"spider": "https://agit.ai/Yoursmile7/TVBox/branch/master/Yoursmile.jar",
+	"spider": "https://ghproxy.com/https://raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [
     {
@@ -28,6 +28,7 @@
 {"key":"csp_Lib","name":"🥇Lib","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.fun/"},
 {"key":"drpy_js_libvio","name":"🥇LibVio(js)","type":3,"api":"https://agit.ai/alanchaotang/if/branch/main/js/lib/drpy2.min.js","ext":"https://agit.ai/alanchaotang/if/branch/main/js/libvio.js", "quickSearch":1, "changeable":1, "timeout":30},
 {"key":"csp_Czsapp","name":"🥇厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy88.com/"},
+//{"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy88.com/"},
 {"key":"dr_荐片","name":"🥇荐片","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/branch/master/js/lib/drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/branch/master/js/荐片.js"},
 {"key":"泥巴","name":"🥇泥巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 {"key":"drpy_js_l0l","name":"🥇If101","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/l0l.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/custom_spider.jar"},
