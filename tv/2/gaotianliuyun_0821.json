@@ -1,5 +1,5 @@
 {
-"spider":"https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/fan.txt;md5;778bdff929e3ec4192bd3ffc116c5eb3",
+"spider":"https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/fan.txt;md5;4d0c466a2f079b0b55c138d738076244",
 "lives":[{"name":"初秋语•综合","type":0,"url":"https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"番茄•综合","type":0,"url":"http://fanqie.gq/a/1701859592.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YanG•综合","type":0,"url":"https://fongmi.cachefly.net/YanG-1989/m3u/main/Gather.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -7,6 +7,7 @@
 {"name":"YueChan•综合","type":0,"url":"https://fongmi.cachefly.net/YueChan/Live/main/IPTV.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Yoursmile•综合","type":0,"url":"https://agit.ai/Yoursmile7/TVBox@branch/master/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"饭太硬•综合","type":0,"url":"https://agit.ai/fantaiying/0@branch/main/tvlive.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"肥猫•综合","type":0,"url":"http://我不是.肥猫.live/TV/tvzb.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"初秋语•电台","type":0,"url":"https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/radio.txt","playerType":1},
@@ -30,6 +31,7 @@
 {"key":"玩偶哥哥","name":"玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
 {"key":"csp_Aid","name":"急救┃指南","type":3,"api":"csp_FirstAid","searchable":1,"quickSearch":1,"changeable":0,"style": { "type": "rect", "ratio":3.8}},
 
+{"key":"看球","name":"看球┃体育","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"},"jar":"https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/ok1208.nogo.png;md5;646CF6D3210EF5334BBD29C2D15DEA85", "timeout":30},
 {"key":"玩偶弹幕版","name":"玩偶哥哥┃弹幕","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0, "ext": {"token": "http://127.0.0.1:9978/file/TV/token.txt","filter": "https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/json/wogg.json","danmu" : true},"jar":"https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/ok1208.nogo.png;md5;646CF6D3210EF5334BBD29C2D15DEA85", "timeout":30},
 {"key":"玩偶表哥弹幕","name":"玩偶表哥┃弹幕","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "ext": {"token": "http://127.0.0.1:9978/file/TV/token.txt","cookie": "http://127.0.0.1:9978/file/TV/quark.txt","danmu" : true},"jar":"https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/ok1208.nogo.png;md5;646CF6D3210EF5334BBD29C2D15DEA85", "timeout":30},
 {"key":"sp360","name":"360┃弹幕","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"ext":  {"danmu": true},"jar":"https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/ok1208.nogo.png;md5;646CF6D3210EF5334BBD29C2D15DEA85", "timeout":30},
