@@ -40,7 +40,7 @@
 //{"key": "XYQH_电影港","name": "🧲电影港","type": 3,"playerType": 1,"jar": "https://jihulab.com/duomv/xduo/-/main/spider.txt","api": "csp_XYQHiker","ext": "https://jihulab.com/dimaston1/4k/-/main/json/电影港.json"},
 {"key":"csp_DiDuan","name":"🥇低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Zxzj","name":"🥇在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
-{"key":"索尼","name":"🥇索尼","type":0,"api":"https://suoniapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"索尼","name":"🥇索尼","type":0,"api":"https://suoniapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"✌两个BT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"极光","name":"☀极光","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsK3w=="},
 {"key": "drpy_js_if101","name": " 🥇If101","type": 3,"api": "https://raw.iqiq.io/heroaku/drpy/master/libs/drpy2.min.js","ext": "https://raw.iqiq.io/heroaku/TVboxo/main/Js/if101.js","jar": "https://raw.iqiq.io/heroaku/TVboxo/main/Jar/xo1.jar"},    
