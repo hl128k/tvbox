@@ -158,15 +158,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_Bttoo",
-            "name": "🍄比特┃直连",
-            "type": 3,
-            "api": "csp_Bttwoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "电影",
             "name": "电影┃App",
             "type": 3,
