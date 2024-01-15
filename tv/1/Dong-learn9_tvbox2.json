@@ -58,13 +58,6 @@
     ],
     "sites": [
         {
-            "key": "drpy_js_豆瓣",
-            "name": " 豆瓣┃[js]",
-            "type": 3,
-            "api": "https://raw.fgit.cf/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js",
-            "ext": "https://raw.fgit.cf/Dong-learn9/TVBox-zyjk/main/JS/js/drpy.js"
-        },
-        {
             "key": "豆瓣",
             "name": "豆瓣┃SP",
             "type": 3,
@@ -91,6 +84,38 @@
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/荐片.js"
         },
         {
+            "key": "荐片弹幕版",
+            "name": "弹幕|荐片",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar",
+            "ext": ".https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/jianpian.json$$$1",
+            "timeout": 60
+        },
+        {
+            "key": "天天",
+            "name": "弹幕|天天",
+            "type": 3,
+            "api": "csp_TTian",
+            "playerType": 1,
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar",
+            "ext": "http://op.ysdqjs.cn$$$null$$$1"
+        },
+        {
+            "key": "Bdys_spider",
+            "name": "弹幕|哔滴",
+            "api": "csp_Bdys01",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master//jar/pg.jar",
+            "ext": "https://www.bdys03.com/$$$null$$$1"
+        },
+        {
             "key": "南坊",
             "name": "南坊┃App",
             "type": 3,
@@ -99,6 +124,25 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
+        },
+        {
+            "key": "星星",
+            "name": "星星┃影视",
+            "type": 3,
+            "api": "csp_App",
+            "playerType": 2,
+            "jar": "http://tv.nxog.top/m/jar.php?id=ou",
+            "ext": "http://tv.nxog.top/m/EXT/5.json"
+        },
+        {
+            "key": "电影",
+            "name": "电影┃App",
+            "type": 3,
+            "api": "csp_AppSK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
         },
         {
             "key": "九六",
@@ -131,16 +175,6 @@
             "filterable": 1
         },
         {
-            "key": "电影",
-            "name": "电影┃App",
-            "type": 3,
-            "api": "csp_AppSK",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
-        },
-        {
             "key": "drpy_js_子子影视",
             "name": "子子┃[js]",
             "type": 3,
@@ -156,7 +190,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://agit.ai/guot54/ygbh/branch/master/XB/dyg.json",
-            "jar": "https://agit.ai/guot54/ygbh/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+            "jar": "https://agit.ai/guot54/ygbh/branch/master/JAR/spider.txt"
         },
         {
             "key": "新6V",
@@ -467,6 +501,19 @@
             "type": 3,
             "api": "https://raw.fgit.cf/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy2.min.js",
             "ext": "https://raw.fgit.cf/Dong-learn9/TVBox-zyjk/main/JS/js/量子资源.js"
+        },
+        {
+            "key": "熊掌",
+            "name": "熊掌┃采集",
+            "type": 1,
+            "api": "https://xzcjz.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "categories": [
+                "连续剧",
+                "动漫"
+            ]
         },
         {
             "key": "猫农民",
