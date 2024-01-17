@@ -23,6 +23,7 @@
   ],
 
 	"sites":[
+
 {"key":"csp_DouDou","name":"🔍豆瓣推荐","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_Lib","name":"🥇LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pro/"},
 {"key":"csp_Czsapp","name":"🥇厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy88.com/"},
@@ -57,7 +58,54 @@
 {"key":"如意","name":"🚀如意","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 {"key":"爱迪","name":"🍟爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 {"key": "drpy_js_欧乐影院","name": " 🎑欧乐影院[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/heroaku/drpy/master/libs/drpy2.min.js","playerType":2,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Js/欧乐影院.js","jar": "https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Jar/xo1.jar"},
-
+{ "key": "csp_XYQHiker_‍dyx","name": "🚢电影港磁力4k","type": 3,"viewType": 1,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://qu.ax/QyZg.json"},
+{"key": "csp_日后","name": "🌜三思","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/wanda/4k/-/main/json/348影视.json"},
+{
+      "key": "csp_SNzy",
+      "name": "🐉索尼",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },
+{
+            "key": "js豆瓣1",
+            "name": "🌈免费接口，请勿贩售 公众号：宝盒没宝",
+            "type": 3,
+            "api": "https://agit.ai/guot54/ygbhx/branch/master/lib/drpy2.min.js",
+            "ext": "https://agit.ai/guot54/ygbh/branch/master/JS/29_022812_drpy.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },		
 //////////////////////////////////////////////////////////////////////////
 //{"key":"csp_XYQBiu_17kan","name":"🏆🏀17kan","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/MaooXB/17kan.json"},
 {"key":"dr_JRKAN直播","name":"🏆🏆🏀JRKAN直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/branch/master/js/JRKAN直播.js"},
