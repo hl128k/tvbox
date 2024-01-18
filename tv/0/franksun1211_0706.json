@@ -96,16 +96,7 @@
         "欧美综艺"
       ]
     },
-{
-            "key": "js豆瓣1",
-            "name": "🌈免费接口，请勿贩售 公众号：宝盒没宝",
-            "type": 3,
-            "api": "https://agit.ai/guot54/ygbhx/branch/master/lib/drpy2.min.js",
-            "ext": "https://agit.ai/guot54/ygbh/branch/master/JS/29_022812_drpy.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },		
+    
 //////////////////////////////////////////////////////////////////////////
 //{"key":"csp_XYQBiu_17kan","name":"🏆🏀17kan","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/MaooXB/17kan.json"},
 {"key":"dr_JRKAN直播","name":"🏆🏆🏀JRKAN直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/branch/master/js/JRKAN直播.js"},
@@ -130,8 +121,8 @@
 {"key":"drpy_js_NyaFun","name":"🥇💢NyaFun动漫[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/NyaFun.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/fanty.jar"},
 {"key":"drpy_js_爱弹幕","name":"🥇💢爱弹幕动漫[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/爱弹幕.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/fanty.jar"},
 {"key":"drpy_js_58动漫","name":"🥇💢58动漫[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/58动漫.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/fanty.jar"},
-{"key":"drpy_js_风车动漫","name":"💢风车动漫[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/风车动漫.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/fanty.jar"},
- {"key": "魔都","name": "🥇💢魔都","type": 0,"api": "https://www.moduzy.com/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
+//{"key":"drpy_js_风车动漫","name":"💢风车动漫[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/风车动漫.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/fanty.jar"},
+ {"key": "魔都","name": "🥇💢魔都","type": 0,"api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
 //{"key":"drpy_js_Anime1动畫","name":"动漫 | Anime1动畫[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/Anime1动畫.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/fanty.jar"},
 ////////////////////////////////////////////////////////////////////////////////
 //{"key": "csp_New6v","name": "🧲新6V","jar":"https://qu.ax/qokd.jpg","type": 3,"api": "csp_New6v","searchable": 1,"viewType": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.66ss.org"},
@@ -217,6 +208,7 @@
 {"name":"MIAO","type":0,"url":"http://www.miaoys.cc/vip/?url="},
 {"name":"JXJS","type":0,"url":"https://jxjson.cf/?url="},
 {"name":"BOJX","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","header":{"User-Agent":"okhttp/4.1.0"}},
+{"name":"modu","type":0,"url":"https://jiexi.modujx01.com/?url="},
 
 
 ///////from X /////////
