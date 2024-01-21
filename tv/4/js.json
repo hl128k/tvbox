@@ -1,5 +1,5 @@
 {
-"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;b041e5e06205dfe90ae5e3451ebe74d5",
+"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;2924f2b9e4587a8057af85af1f380be1",
 "lives":[{"name":"初秋语","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"live","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
@@ -11,8 +11,7 @@
 {"key":"drpy_js_新片场","name":"新片 | 新片场[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/新片场.js"},
 {"key":"drpy_js_短剧网","name":"短剧 | 短剧网[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/短剧网.js"},
 {"key":"lf_js_p2p","name":"路飞 | 磁力[js]","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_p2p2_min.js","timeout":30},
-{"key":"lf_js_lf_live","name":"路飞 | 直播[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/lf_live.txt"},
-{"key":"drpy_js_直播大全","name":"电视 | 直播大全[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/live2cms.js","style":{ "type":"oval"},"changeable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/live2mv_data.json"},
+{"key":"lf_js_lf_live","name":"电视 | 直播[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/lf_live.txt"},
 
 {"key": "996影院","name": "影视 | 996[jar]","type": 3,"api": "csp_Cs1369","searchable": 1,"changeable": 1},
 {"key": "FirstAid","name": "科普 | 急救[jar]","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}},
@@ -65,6 +64,7 @@
 {"key":"drpy_js_阿布影院","name":"影视 | 阿布影院[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/阿布影院.js"},
 {"key":"drpy_js_电影先生","name":"影视 | 电影先生[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/电影先生.js"},
 {"key":"drpy_js_落攻阁影视","name":"影视 | 落攻阁影视[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/落攻阁影视.js"},
+{"key":"drpy_js_喵次元","name":"影视 | 喵次元[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/喵次元.js"},
 
 {"key":"drpy_js_69美剧","name":"影视 | 69美剧[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/69美剧.js"},
 {"key":"drpy_js_兄弟影视","name":"影视 | 兄弟影视[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/兄弟影视.js"},
