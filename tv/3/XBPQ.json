@@ -1,5 +1,5 @@
 {
-"spider":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
+"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
     "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
     "sites":[
         {
@@ -60,7 +60,7 @@
             "key":"赞赞",
             "name":"➕赞赞┃切片",
             "type":3,
-            "jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "api":"csp_AppYsV2",
             "ext":"http://111.230.51.151:2323/api.php/app/",
             "searchable":1,
@@ -71,7 +71,7 @@
             "key":"亮亮",
             "name":"💡主源┃无广",
             "type":3,
-            "jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "api":"csp_AppYsV2",
             "ext":"http://xiutan.shiyifacai.com/zuoan/api.php/app/",
             "searchable":1,
@@ -82,7 +82,7 @@
             "key":"加速",
             "name":"🐰加速┃APP",
             "type":3,
-            "jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "api":"csp_AppYsV2",
             "searchable":1,
             "quickSearch":1,
@@ -92,7 +92,7 @@
             "key":"蚂蚁",
             "name":"🍉主源┃无广",
             "type":3,
-            "jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "api":"csp_AppYsV2",
             "searchable":1,
             "quickSearch":1,
@@ -154,7 +154,7 @@
             "changeable":0,
             "quickSearch":1,
             "playerType":"2",
-            "jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "api":"csp_XBPQ",
             "ext":{
                 "嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4",
@@ -175,7 +175,7 @@
             "type":3,
             "api":"csp_XBPQ",
             "playerType":"2",
-            "jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "ext":{
                 "主页url": "https://www.3ayy.com",
         "简介": "module-info-introduction\">&&</p>",
@@ -211,7 +211,7 @@
             "type":3,
             "api":"csp_XBPQ",
             "playerType":"2",
-            "jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "ext":{
                 "分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html",
                 "分类":"FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿",
@@ -231,7 +231,7 @@
             "name":"🛀03影┃BPQ",
             "type":3,
             "api":"csp_XBPQ",
-            "jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "playerType":"2",
             "ext":{
                 "主页url":"https://www.03yy.co",
@@ -297,7 +297,7 @@
             "name":"🐦乌鸦┃影视",
             "type":3,
             "api":"csp_XBPQ",
-            "jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "searchable":1,
             "playerType":2,
             "quickSearch":1,
@@ -346,7 +346,7 @@
             "searchable":1,
             "quickSearch":1,
             "changeable":1,
-            "jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "playerType":"2",
             "api":"csp_XBPQ",
             "ext":{
@@ -386,7 +386,7 @@
             "key":"双黄",
             "name":"🥚双黄┃BPQ",
             "type":3,
-            "jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "api":"csp_XBPQ",
             "ext":{
                 "嗅探词":"v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
@@ -403,7 +403,7 @@
             "key":"茶杯",
             "name":"🍵茶杯┃BPQ",
             "type":3,
-            "jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "api":"csp_XBPQ",
             "ext":{
                 "嗅探词":"v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
@@ -420,7 +420,7 @@
             "name":"🔥热播┃BPQ",
             "type":3,
             "changeable":1,
-            "jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "api":"csp_XBPQ",
             "playerType":"1",
             "ext":{
@@ -457,7 +457,7 @@
             },
             "quickSearch":0,
             "api":"csp_XBPQ",
-            "jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
+            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
             "ext":{
                 "主页url":"https://www.xsmp3.com",
                 "数组二次截取":"<ul id=\"post_list_box\">&&</ul",
@@ -492,7 +492,7 @@
             },
             "quickSearch":0,
             "api":"csp_XBPQ",
-            "jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
+            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
             "ext":{
                 "主页url":"https://www.psmp3.com",
                 "数组二次截取":"<ul id=\"post_list_box\">&&</ul",
@@ -534,7 +534,7 @@
             "name":"🍰小鸭┃网盘",
             "type":3,
             "playerType":"1",
-            "jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "api":"csp_AList",
             "searchable":1,
             "quickSearch":0,

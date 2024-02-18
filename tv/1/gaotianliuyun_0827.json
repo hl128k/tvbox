@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.fgit.cf/gaotianliuyun/gao/master/jar/custom_spider.jar;md5;303eadd615ea122247a00e08689f0787",
+  "spider": "https://raw.kkgithub.com/gaotianliuyun/gao/master/jar/custom_spider.jar;md5;303eadd615ea122247a00e08689f0787",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -9,7 +9,7 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://raw.fgit.cf/gaotianliuyun/gao/master/json/market.json"
+      "ext": "https://raw.kkgithub.com/gaotianliuyun/gao/master/json/market.json"
     },
     {
       "key": "泥巴",
@@ -36,7 +36,7 @@
       "changeable": 0,
       "ext": {
         "token": "影視天下第一",
-        "filter": "https://raw.fgit.cf/gaotianliuyun/gao/master/json/wogg.json"
+        "filter": "https://raw.kkgithub.com/gaotianliuyun/gao/master/json/wogg.json"
       }
     },
     {
@@ -46,7 +46,7 @@
       "api": "csp_Jianpian",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://raw.fgit.cf/gaotianliuyun/gao/master/json/jianpian.json"
+      "ext": "https://raw.kkgithub.com/gaotianliuyun/gao/master/json/jianpian.json"
     },
     {
       "key": "獨播",
@@ -55,7 +55,7 @@
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://raw.fgit.cf/gaotianliuyun/gao/master/json/duboku.json"
+      "ext": "https://raw.kkgithub.com/gaotianliuyun/gao/master/json/duboku.json"
     },
     {
       "key": "haiwaikan",
@@ -122,7 +122,7 @@
       "api": "csp_Douban",
       "searchable": 0,
       "changeable": 1,
-      "ext": "https://raw.fgit.cf/gaotianliuyun/gao/master/json/douban.json"
+      "ext": "https://raw.kkgithub.com/gaotianliuyun/gao/master/json/douban.json"
     },
     {
       "key": "新6V",
@@ -220,7 +220,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://raw.fgit.cf/gaotianliuyun/gao/master/json/bili.json",
+        "json": "https://raw.kkgithub.com/gaotianliuyun/gao/master/json/bili.json",
         "type": "帕梅拉#太极拳#广场舞#演唱会",
         "cookie": ""
       }
@@ -260,7 +260,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://raw.fgit.cf/gaotianliuyun/gao/master/json/alist.json"
+      "ext": "https://raw.kkgithub.com/gaotianliuyun/gao/master/json/alist.json"
     },
     {
       "key": "WebDAV",
@@ -269,7 +269,7 @@
       "api": "csp_WebDAV",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://raw.fgit.cf/gaotianliuyun/gao/master/json/webdav.json"
+      "ext": "https://raw.kkgithub.com/gaotianliuyun/gao/master/json/webdav.json"
     },
     {
       "key": "JustLive",
