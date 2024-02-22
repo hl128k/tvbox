@@ -3,7 +3,7 @@
 ##from alan-X
 {"key": "豆瓣","name":"🔍豆瓣推荐","type":3,"api":"https://agit.ai/alanchaotang/dr_py@branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alanchaotang/if@branch/main/js/豆瓣.js"},
 //{"key":"csp_DouDou","name":"🔍豆瓣推荐","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://gcore.jsdelivr.net/gh/bluefriendCN/bin@main/Yoursmile.jar"},
-{"key":"csp_Lib","name":"🥇LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.la/","jar":"https://agit.ai/Yoursmile7/TVBox@branch/master/Yoursmile.jar"},  
+{"key":"csp_Lib","name":"🥇LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pw/","jar":"https://agit.ai/Yoursmile7/TVBox@branch/master/Yoursmile.jar"},  
 {
       "key": "js_荐片",
       "name": "🥇荐片",
