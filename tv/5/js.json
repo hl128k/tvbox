@@ -1,5 +1,5 @@
 {
-"spider":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/pg.jar;md5;fb3f154f8056eb85d209c5b16ff15da6",
+"spider":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/pg.jar;md5;831e95476da617ee8f58f5ffdada0b09",
 "lives":[{"name":"初秋语","type":0,"url":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Ray","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
@@ -246,6 +246,7 @@
 
 {"key":"drpy_js_爱看机器人","name":"影视 | 爱看机器人[js]","type":3,"api":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js/爱看机器人.js"},
 {"key":"drpy_js_ikanbot2","name":"影视 | 爱看机器人2[js]","type":3,"api":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js/ikanbot2.js"},
+{"key":"drpy_js_jsapi2","name":"影视 | 百度测试[js]","type":3,"api":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js/jsapi2.js"},
 {"key":"drpy_js_139影视","name":"影视 | 139影视[js]","type":3,"api":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js/139影视.js"},
 {"key":"drpy_js_348电影网","name":"影视 | 348电影网[js]","type":3,"api":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js/348电影网.js"},
 {"key":"drpy_js_4K电影网","name":"影视 | 4K电影网[js]","type":3,"api":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js/4K电影网.js"},
