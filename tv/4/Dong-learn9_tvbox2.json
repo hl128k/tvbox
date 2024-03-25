@@ -1,5 +1,5 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711305426162/fan.txt;md5;602fb3226d777850053484cdeb2f3296",
     "lives": [
         {
             "name": "—车—",
@@ -77,16 +77,6 @@
             "changeable": 1
         },
         {
-            "key": "苹果",
-            "name": "苹果┃影视",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "酷看",
             "name": "酷看┃秒播",
             "type": 3,
@@ -98,7 +88,7 @@
         },
         {
             "key": "Bdys_spider",
-            "name": "弹幕|哔滴",
+            "name": "弹幕┃哔滴",
             "api": "csp_Bdys01",
             "type": 3,
             "filterable": 1,
@@ -138,7 +128,7 @@
             "key": "drpy_js_子子影视",
             "name": "子子┃[js]",
             "type": 3,
-            "api": " https://xhdwc.tk/lib/drpy2.min.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/子子影视.js"
         },
         {
@@ -173,12 +163,12 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://agit.ai/leevi/PiG/branch/master/pg.jar",
+            "jar": "https://jihulab.com/okcaptain/kko/-/main/okpng.txt",
             "timeout": 25
         },
         {
             "key": "白票弹幕版",
-            "name": "白票|弹幕",
+            "name": "白票┃弹幕",
             "type": 3,
             "api": "csp_Cs1369",
             "playerType": 1,
@@ -188,7 +178,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://agit.ai/leevi/PiG/branch/master/pg.jar",
+            "jar": "https://jihulab.com/okcaptain/kko/-/main/okpng.txt",
             "timeout": 25
         },
         {
@@ -377,19 +367,6 @@
             "type": 3,
             "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy2.min.js",
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/量子资源.js"
-        },
-        {
-            "key": "熊掌",
-            "name": "熊掌┃采集",
-            "type": 1,
-            "api": "https://xzcjz.com/api.php/provide/vod/at/xml",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "categories": [
-                "连续剧",
-                "动漫"
-            ]
         },
         {
             "key": "csp_XYQHiker_兔小贝",
