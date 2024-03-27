@@ -2,9 +2,9 @@
     "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711305426162/fan.txt;md5;602fb3226d777850053484cdeb2f3296",
     "lives": [
         {
-            "name": "—车—",
+            "name": "Auto",
             "type": 0,
-            "url": "https://weixine.net/tv/ysclive.txt",
+            "url": "https://ghproxy.net/https://weixine.net/tv/ysclive.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -22,7 +22,7 @@
         {
             "name": "—欧—",
             "type": 0,
-            "url": "http://tv.nxog.top/m/tv/live.jpg",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Guovin/TV/master/result.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -57,6 +57,19 @@
         }
     ],
     "sites": [
+        {
+            "key": "厂长",
+            "name": "厂长┃影视",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.czzy77.com/",
+            "timeout": 25
+        },
         {
             "key": "豆瓣",
             "name": "豆瓣┃SP",
@@ -118,11 +131,12 @@
             "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
         },
         {
-            "key": "比特",
-            "name": "比特┃影视",
+            "key": "csp_LiteApple",
+            "name": "苹果┃影视",
             "type": 3,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/bttwo.jar;md5;5b59d2999497d6e0c1eb256bcd77f2c7",
-            "api": "csp_Bttwo"
+            "playerType": "2",
+            "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240327.jar",
+            "api": "csp_LiteApple"
         },
         {
             "key": "drpy_js_子子影视",
@@ -153,37 +167,23 @@
             "ext": "http://www.xb6v.com/"
         },
         {
-            "key": "厂长弹幕版",
-            "name": "厂长┃弹幕",
+            "key": "白嫖",
+            "name": "白飘┃影视",
             "type": 3,
-            "api": "csp_Czzy",
+            "api": "csp_BaiPiao",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "https://jihulab.com/okcaptain/kko/-/main/okpng.txt",
-            "timeout": 25
-        },
-        {
-            "key": "白票弹幕版",
-            "name": "白票┃弹幕",
-            "type": 3,
-            "api": "csp_Cs1369",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "https://jihulab.com/okcaptain/kko/-/main/okpng.txt",
-            "timeout": 25
+            "changeable": 1,
+            "ext": "https://www.baipiaoys.com:9092/"
         },
         {
             "key": "py_cctv",
             "name": "央视┃[py]",
+            "style": {
+                "type": "rect",
+                "ratio": 1.485
+            },
             "type": 3,
             "api": "py_cctv",
             "searchable": 1,
@@ -254,6 +254,17 @@
                 "分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a",
                 "跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
             }
+        },
+        {
+            "key": "两个BT",
+            "name": "2BT┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/两个BT.json"
         },
         {
             "key": "黑狐",
@@ -338,14 +349,12 @@
             }
         },
         {
-            "key": "短剧网",
-            "name": "短剧┃短剧",
+            "key": "种子短剧",
+            "name": "短剧┃种子",
             "type": 3,
-            "api": "csp_Duanjuw",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "https://vip.nxog.top/jar.php?id=ou"
+            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+            "ext": "http://dt.xn--yety82d.love/js/种子短剧.js",
+            "playerType": 2
         },
         {
             "key": "drpy_js_JustLive",
