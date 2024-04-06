@@ -71,16 +71,6 @@
             "timeout": 25
         },
         {
-            "key": "77",
-            "name": "七七┃App",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "酷看",
             "name": "酷看┃秒播",
             "type": 3,
@@ -100,6 +90,18 @@
             "searchable": 1,
             "jar": "https://agit.ai/leevi/PiG@branch/master/pg.jar",
             "ext": "https://www.bdys03.com/$$$null$$$1"
+        },
+        {
+            "key": "Bt0",
+            "name": "不太灵|磁力",
+            "type": 3,
+            "api": "csp_Bt0",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "jar": "https://agit.ai/leevi/PiG@branch/master/pg.jar",
+            "ext": "null$$$null$$$1"
         },
         {
             "key": "原创",
@@ -281,7 +283,7 @@
                 "热门推荐": "1",
                 "起始页": "1",
                 "直接播放": "0",
-                //"倒序播放": "0",
+                "倒序播放": "1",
                 "图片代理": "0",
                 "二次截取": "",
                 "数组": "<div class=\"poster\">&&<div class=\"texto\">",
@@ -317,37 +319,12 @@
             }
         },
         {
-            "key": "初恋",
-            "name": "初云┃BPQ",
+            "key": "影视工厂",
+            "name": "工厂┃BPQ",
             "jar": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "http://video.adminqt.cn/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-                "分类": "电影&剧集&动漫&综艺&短剧",
-                "分类值": "20&22&21&23&2",
-                "数组": "class=\"mo-paxs-5px&&<li",
-                "搜索url": "https://video.adminqt.cn/index.php/vod/search.html?wd={wd}",
-                "搜索数组": "class=\"mo-paxs-5px&&</dt",
-                "搜索列表": "<dl class=\"mo-deta-info mo-cols-rows\">&&</a>",
-                "搜索图片": "data-original=\"&&\"",
-                "搜索链接": "href=\"&&\"",
-                "线路数组": "class=\"mo-movs-btns&&/a>",
-                "播放数组": "ul class=\"mo-movs-item&&</div>",
-                "状态": "<span class=\"mo-situ-rema mo-part-ramp mo-fsxs-12px mo-text-white mo-coxs-center\">&&</span>",
-                "导演": "导演:&&</a",
-                "主演": "主演:&&</li",
-                "简介": "<div class=\"mo-paxs-5px mo-ptxs-0px\">&&</div>",
-                "播放列表": "<li class=\"mo-paxs-5px mo-&&</li>",
-                "播放标题": "target=\"_self\"&&</a",
-                "播放链接": "href=\"&&\"",
-                "简介": "mo-ptxs-0px\">&&</div",
-                "线路标题": "/i>&&<",
-                "标题": "html\">&&</a",
-                "副标题": "mo-coxs-center\">&&</span",
-                "图片": "data-original=\"&&\"",
-                "链接": "href=\"&&\""
-            }
+            "ext": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/xBPQ/影视工厂2.json"
         },
         {
             "key": "热播库",
@@ -375,7 +352,7 @@
                 "导演": "导演：&&</p>",
                 "主演": "主演：&&</p>",
                 "简介": "display: none;\">&&</span>",
-                "分类": "电视剧$2#电影$1#综艺$3#动漫$4",
+                "分类": "国产剧$13#港台剧$14#日韩剧$15#海外剧$16#电影$1#综艺$5#动漫$4#纪录片$3",
                 "分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a",
                 "跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
             }
