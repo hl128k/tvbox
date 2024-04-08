@@ -1,5 +1,5 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711988761126/fan.txt;md5;939c79aa5e93766504d1f7a957d32f24",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712494041762/fan.txt;md5;013794cda7f4898b65b8a7f7382cc5a1",
     "lives": [
         {
             "name": "Auto",
@@ -58,6 +58,15 @@
     ],
     "sites": [
         {
+            "key": "豆瓣",
+            "name": "豆瓣",
+            "type": 3,
+            "api": "csp_DouDou",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
             "key": "厂长",
             "name": "厂长┃影视",
             "type": 3,
@@ -67,8 +76,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.czzy77.com/",
-            "timeout": 25
+            "ext": "https://www.czys01.com/"
+        },
+        {
+            "key": "七七",
+            "name": "七七┃秒播",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "酷看",
@@ -250,7 +268,7 @@
                 "搜索标题": "alt=\"《&&》\"",
                 "搜索链接": "href=\"&&\"",
                 "搜索后缀": "vod",
-                //"线路二次截取": "<ul class=\"nav nav-tabs  dpplay pull-right\">&&</ul>",
+                "线路二次截取": "<ul class=\"nav nav-tabs  dpplay pull-right\">&&</ul>",
                 "线路数组": "<div id=\"download1\"&&/h2>",
                 "线路标题": "<h2>&&<",
                 "播放数组": "<ul class=\"panel down-list thunder1\">&&</ul>",
@@ -283,7 +301,7 @@
                 "热门推荐": "1",
                 "起始页": "1",
                 "直接播放": "0",
-                "倒序播放": "1",
+                "倒序播放": "0",
                 "图片代理": "0",
                 "二次截取": "",
                 "数组": "<div class=\"poster\">&&<div class=\"texto\">",
@@ -295,8 +313,7 @@
                 "线路标题": "class=\'title\'>&&</span>",
                 "线路链接": "href=\"&&\"",
                 "状态": "<div class=\"extra\">&&</div>",
-                "导演": "<div id=\"cast\" class=\"sbox fixidtab\">&&<h2>演员</h2>",
-                "主演": "<h2>演员</h2>&&<div id=\"info",
+                "导演": "<div class=\"persons\">&&演员</h2>[不包含:导演#制片人]",
                 "简介": "<p>&&</p>",
                 "播放二次截取": "id=\'playernotice&&<div class=\"sheader\">[替换:class=\'ajax_mode\'>>>videourls:你我\"name\":1集,\"链洁\":\\&mvsource=0\"和他tables:]",
                 "播放数组": "videourls:&&tables:[替换:url\":>>链洁\":\\&ep=#name\":>>name\":第#}>>\\&source=0\"和他#{>>你我]",
@@ -317,14 +334,6 @@
                 "分类url": "https://www.4kvm.org/{cateId}/page/{catePg};;d0",
                 "分类": "电影$movies#美剧$classify/meiju#国产剧$classify/guochan#韩剧$classify/hanju#番剧$classify/fanju"
             }
-        },
-        {
-            "key": "影视工厂",
-            "name": "工厂┃BPQ",
-            "jar": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/xBPQ/影视工厂2.json"
         },
         {
             "key": "热播库",
@@ -356,6 +365,28 @@
                 "分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a",
                 "跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
             }
+        },
+        {
+            "key": "片吧影院",
+            "name": "片吧┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/xBPQ/片吧影院.json"
+        },
+        {
+            "key": "磁力熊",
+            "name": "磁力熊┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/xBPQ/磁力熊.json"
         },
         {
             "key": "两个BT",
