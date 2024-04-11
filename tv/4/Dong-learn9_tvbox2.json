@@ -510,6 +510,15 @@
             "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy2.min.js",
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/量子资源.js"
         },
+    {
+      "key": "sansan",
+      "name": "⭕️1080P┃解析",
+      "type": 3,
+      "api": "csp_SP33",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
         {
             "key": "csp_XYQHiker_兔小贝",
             "name": "儿童┃启蒙",
@@ -626,6 +635,19 @@
                 "ratio": 3.8
             }
         },
+ {
+      "key": "PanSou",
+      "name": "盘搜┃搜索",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "aliToken": "tvfan/token.txt",
+        "from": "4k|auto|fhd"
+      }
+    },
         {
             "key": "push_agent",
             "name": "手机┃推送",
