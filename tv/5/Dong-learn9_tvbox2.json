@@ -1,5 +1,5 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712494041762/fan.txt;md5;013794cda7f4898b65b8a7f7382cc5a1",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712916456808/fan.txt;md5;29b4ef28be2f88e3ae3f37682e19e309",
     "lives": [
         {
             "name": "Auto",
@@ -132,14 +132,20 @@
             "changeable": 1
         },
         {
-            "key": "玩偶哥哥",
+            "key": "玩偶",
             "name": "玩偶┃弹幕",
             "type": 3,
             "api": "csp_WoGG",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+            "ext": {
+                "aliToken": "tvfan/token.txt",
+                "quarkCookie": "tvfan/cookie.txt",
+                "from": "4k|auto|fhd",
+                "siteUrl": "https://api.wogg.xyz/",
+                "danMu": "弹"
+            }
         },
         {
             "key": "csp_LiteApple",
@@ -510,15 +516,15 @@
             "api": "https://fastly.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JS/lib/drpy2.min.js",
             "ext": "https://fastly.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JS/js/量子资源.js"
         },
-    {
-      "key": "sansan",
-      "name": "⭕️1080P┃解析",
-      "type": 3,
-      "api": "csp_SP33",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
+        {
+            "key": "sansan",
+            "name": "⭕️1080P┃解析",
+            "type": 3,
+            "api": "csp_SP33",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
         {
             "key": "csp_XYQHiker_兔小贝",
             "name": "儿童┃启蒙",
@@ -635,19 +641,19 @@
                 "ratio": 3.8
             }
         },
- {
-      "key": "PanSou",
-      "name": "盘搜┃搜索",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "aliToken": "tvfan/token.txt",
-        "from": "4k|auto|fhd"
-      }
-    },
+        {
+            "key": "PanSou",
+            "name": "盘搜┃搜索",
+            "type": 3,
+            "api": "csp_PanSou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "aliToken": "tvfan/token.txt",
+                "from": "4k|auto|fhd"
+            }
+        },
         {
             "key": "push_agent",
             "name": "手机┃推送",
