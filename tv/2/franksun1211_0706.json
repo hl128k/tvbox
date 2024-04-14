@@ -1,12 +1,14 @@
 {
 "sites":[
 ##from alan-X
-{"key": "豆瓣","name":"🔍豆瓣推荐","type":3,"api":"https://agit.ai/alanchaotang/dr_py@branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alanchaotang/if@branch/main/js/豆瓣.js"},
+{"key":"豆豆","name":"🔍豆瓣推荐","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+//{"key": "豆瓣","name":"🔍豆瓣推荐","type":3,"api":"https://agit.ai/alanchaotang/dr_py@branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alanchaotang/if@branch/main/js/豆瓣.js"},
 //{"key":"csp_DouDou","name":"🔍豆瓣推荐","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://gcore.jsdelivr.net/gh/bluefriendCN/bin@main/Yoursmile.jar"},
-{"key":"csp_Lib","name":"🥇LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pw/","jar":"https://agit.ai/Yoursmile7/TVBox@branch/master/Yoursmile.jar"},  
-{"key":"csp_Jianpian","name":"🥇🧲荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com","jar":"https://agit.ai/Yoursmile7/TVBox@branch/master/Yoursmile.jar"},
-{"key":"csp_DiDuan","name":"🥇低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://agit.ai/Yoursmile7/TVBox@branch/master/Yoursmile.jar"},	
-{"key":"贱贱","name":"🥇🧲贱贱","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://agit.ai/fantaiying/fty@branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty@branch/master/ext/jp.js"},
+{"key":"csp_Lib","name":"🥇LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pw/","jar":"https://github.moeyy.xyz/raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar"},  
+{"key":"csp_Jianpian","name":"🥇🧲荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com","jar":"https://github.moeyy.xyz/raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar"},
+{"key":"csp_DiDuan","name":"🥇低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://github.moeyy.xyz/raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar"},	
+{"key":"贱贱","name":"🥇🧲贱贱","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://gcore.jsdelivr.net/gh/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://gcore.jsdelivr.net/gh/gaotianliuyun/gao/master/js/荐片.js"},
+//{"key":"贱贱","name":"🥇🧲贱贱","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://agit.ai/fantaiying/fty@branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty@branch/master/ext/jp.js"},
 //{"key": "天天","name": "🧸┃天天┃App","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn$$$null$$$1","jar":"https://agit.ai/alanchaotang/if@branch/main/jar/pg.jar;md5;9b30d1d8a5b0656c674590c3c6d2aafe"},
 //{"key": "天天","name": "🥇天天","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn","jar":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac"},
 {"key": "drpy_js_if101","name": "🥇If101","type": 3,"api": "https://gcore.jsdelivr.net/gh/heroaku/drpy@master/libs/drpy2.min.js","ext": "https://gcore.jsdelivr.net/gh/heroaku/TVboxo@main/Js/if101.js"},
@@ -26,8 +28,8 @@
   
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //{"key":"csp_XYQBiu_17kan","name":"🏆🏀17kan","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gcore.jsdelivr.net/gh/franksun1211/TVBOX/main/APP/MaooXB/17kan.json"},
-{"key":"dr_JRKAN直播","name":"🏆🏆🏀JRKAN直播看球","type":3,"api":"https://agit.ai/Yoursmile7/TVBox@branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox@branch/master/js/JRKAN直播.js"},
-{"key":"csp_Kanqiu","name":"🏆🏀88看球","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"https://agit.ai/Yoursmile7/TVBox@branch/master/Yoursmile.jar"},
+{"key":"dr_JRKAN直播","name":"🏆🏆🏀JRKAN直播看球","type":3,"api":"https://gcore.jsdelivr.net/gh/cysk003/Yoursmile7_TVBox/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gcore.jsdelivr.net/gh/cysk003/Yoursmile7_TVBox/master/js/JRKAN直播.js"},
+{"key":"csp_Kanqiu","name":"🏆🏀88看球","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"https://github.moeyy.xyz/raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar"},
 //{"key":"csp_Yj1211","name":"📽️在线直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gcore.jsdelivr.net/gh/bluefriendCN/bin@main/Yoursmile.jar"},
 //{"key":"csp_Kanqiu","name":"🏆🏀88看球","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"https://gcore.jsdelivr.net/gh/bluefriendCN/bin@main/Yoursmile.jar"},
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -67,7 +69,7 @@
 {"key":"一起看 ","name":"🎉一起","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"新6V","name":"🧲新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"},
 //{"key": "巧技二","name": "🛫喵播","type": 3,"api": "csp_qiao2","playerType": 2,"ext": "https://jihulab.com/qiaoji/open/-@main/qiaoji2","jar":"http://cdn.qiaoji8.com/fix24117.jar"},
-{"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/","jar":"https://agit.ai/Yoursmile7/TVBox@branch/master/Yoursmile.jar"},
+{"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/","jar":"https://github.moeyy.xyz/raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar"},
 {"key":"玩偶","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://api.wogg.xyz/","danMu":"弹"}},
 {"key":"畅梦","name":"💤畅梦","type":3,"api":"https://agit.ai/alanchaotang/dr_py@branch/main/libs/drpy2.min.js","ext":"https://agit.ai/alanchaotang/if@branch/main/js/changmeng.js"},
 {"key":"csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://agit.ai/Yoursmile7/TVBox@branch/master/sub/Alist.json"},
