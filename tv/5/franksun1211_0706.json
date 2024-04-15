@@ -28,7 +28,10 @@
   
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //{"key":"csp_XYQBiu_17kan","name":"🏆🏀17kan","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://fastly.jsdelivr.net/gh/franksun1211/TVBOX/main/APP/MaooXB/17kan.json"},
-{"key":"dr_JRKAN直播","name":"🏆🏆🏀JRKAN直播看球","type":3,"api":"https://fastly.jsdelivr.net/gh/cysk003/Yoursmile7_TVBox/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://fastly.jsdelivr.net/gh/cysk003/Yoursmile7_TVBox/master/js/JRKAN直播.js"},
+{"key":"drpy_js_JRKAN直播","name":"🏆🏆🏀JRKAN直播看球","type":3,"api":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js/JRKAN直播.js","jar":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/fanty.jar"},
+
+	
+//{"key":"dr_JRKAN直播","name":"🏆🏆🏀JRKAN直播看球","type":3,"api":"https://fastly.jsdelivr.net/gh/cysk003/Yoursmile7_TVBox/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://fastly.jsdelivr.net/gh/cysk003/Yoursmile7_TVBox/master/js/JRKAN直播.js"},
 {"key":"csp_Kanqiu","name":"🏆🏀88看球","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"https://github.moeyy.xyz/raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar"},
 //{"key":"csp_Yj1211","name":"📽️在线直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://fastly.jsdelivr.net/gh/bluefriendCN/bin@main/Yoursmile.jar"},
 //{"key":"csp_Kanqiu","name":"🏆🏀88看球","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"https://fastly.jsdelivr.net/gh/bluefriendCN/bin@main/Yoursmile.jar"},
