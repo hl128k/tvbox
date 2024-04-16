@@ -1,5 +1,5 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712916456808/fan.txt;md5;29b4ef28be2f88e3ae3f37682e19e309",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713263749769/fan.txt;md5;c84c36278bd8bc95a63449a128074be0",
     "lives": [
         {
             "name": "Auto",
@@ -106,7 +106,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1,
-            "jar": "https://agit.ai/leevi/PiG/branch/master/pg.jar",
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/pg.jar;md5;63350CE21576E80EE520CEFD4DC0401B",
             "ext": "https://www.bdys03.com/$$$null$$$1"
         },
         {
@@ -118,7 +118,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "jar": "https://agit.ai/leevi/PiG/branch/master/pg.jar",
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/pg.jar;md5;63350CE21576E80EE520CEFD4DC0401B",
             "ext": "null$$$null$$$1"
         },
         {
@@ -140,8 +140,8 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "tvfan/token.txt",
-                "quarkCookie": "tvfan/cookie.txt",
+                "aliToken": "http://127.0.0.1:9978/file/tvbox/token.txt",
+                "quarkCookie": "http://127.0.0.1:9978/file/tvbox/token.txt",
                 "from": "4k|auto|fhd",
                 "siteUrl": "https://api.wogg.xyz/",
                 "danMu": "弹"
