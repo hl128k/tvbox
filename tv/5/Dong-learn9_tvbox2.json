@@ -107,7 +107,7 @@
             "quickSearch": 1,
             "searchable": 1,
             "jar": "https://fastly.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/pg.jar;md5;63350CE21576E80EE520CEFD4DC0401B",
-            "ext": "https://www.bdys03.com/$$$null$$$1"
+            "ext": "https://www.yjys.me/$$$null$$$1"
         },
         {
             "key": "Bt0",
@@ -224,6 +224,7 @@
                 "分类url": "https://www.subaibaiys.com/{cateId}/page/{catePg};;aks2",
                 "数组": "<li>&&</li>",
                 "图片": "data-original=\"&&\"",
+                "图片代理": "1",
                 "副标题": "class=\"jidi\"><span>&&</span>",
                 "搜索模式": "1",
                 "搜索url": "https://www.subaibaiys.com/?s={wd}",
@@ -384,6 +385,17 @@
             "ext": "https://fastly.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/xBPQ/片吧影院.json"
         },
         {
+            "key": "影院",
+            "name": "云┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://fastly.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": "https://fastly.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/xBPQ/悠云影视.json"
+        },
+        {
             "key": "磁力熊",
             "name": "磁力熊┃BPQ",
             "type": 3,
@@ -515,15 +527,6 @@
             "type": 3,
             "api": "https://fastly.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JS/lib/drpy2.min.js",
             "ext": "https://fastly.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JS/js/量子资源.js"
-        },
-        {
-            "key": "sansan",
-            "name": "⭕️1080P┃解析",
-            "type": 3,
-            "api": "csp_SP33",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
         },
         {
             "key": "csp_XYQHiker_兔小贝",
