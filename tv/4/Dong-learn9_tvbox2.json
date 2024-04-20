@@ -1,5 +1,5 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713520700942/fan.txt;md5;95301864c68c473ff5ae1ba8cfbc61e2",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713606500967/fan.txt;md5;5d951f2dbd9e24ce7cc82c59d46f8417",
     "lives": [
         {
             "name": "Auto",
@@ -153,7 +153,6 @@
             "name": "苹果┃影视",
             "type": 3,
             "playerType": "2",
-            "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240327.jar",
             "api": "csp_LiteApple"
         },
         {
@@ -171,17 +170,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/ym.jar;md5;33CB609D1D87B8F3703D92FF3590EF15",
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/XYQH/电影港.json"
-        },
-        {
-            "key": "新6V",
-            "name": "6V┃磁力",
-            "type": 3,
-            "api": "csp_SixV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://www.xb6v.com/"
         },
         {
             "key": "白嫖",
@@ -196,14 +186,14 @@
         },
         {
             "key": "py_cctv",
-            "name": "央视影视┃[py]",
+            "name": "央视┃[py]",
             "style": {
                 "type": "rect",
                 "ratio": 1.485
             },
             "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
+            "searchable": 0,
+            "quickSearch": 0,
             "filterable": 1,
             "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/py/央视片库.py",
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/py/央视片库.py"
@@ -228,7 +218,7 @@
                 "副标题": "class=\"jidi\"><span>&&</span>",
                 "搜索模式": "1",
                 "搜索url": "https://www.subaibaiys.com/?s={wd}",
-                "搜索图片": "data-original=\"&&\"",
+                "搜索图片": "src=\"&&\"",
                 "影片年代": "年份：&&</li>",
                 "影片地区": "地区：&&</li>",
                 "影片类型": "类型：&&</li>",
@@ -520,13 +510,30 @@
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/JustLive.js"
         },
         {
-            "key": "drpy_js_量子资源",
-            "name": "量子┃[js]",
+            "key": "量子资源",
+            "name": "量子┃资源",
+            "type": 1,
+            "api": "http://cj.lziapi.com/api.php/provide/vod/",
+            "playurl": "json:https://tvmvip.com/lz2.php?url=",
             "searchable": 1,
             "quickSearch": 1,
-            "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy2.min.js",
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/量子资源.js"
+            "filterable": 0,
+            "categories": [
+                "国产剧",
+                "国产动漫",
+                "泰国剧",
+                "台湾剧",
+                "香港剧",
+                "欧美剧",
+                "韩国剧",
+                "日本剧",
+                "动漫",
+                "体育",
+                "剧情片",
+                "动作片",
+                "爱情片",
+                "喜剧片"
+            ]
         },
         {
             "key": "csp_XYQHiker_兔小贝",
