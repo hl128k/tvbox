@@ -1,13 +1,13 @@
 //以下内容为互联网收集，只为自用。
 {
-  "spider": "https://gcore.jsdelivr.net/gh/liu673cn/box@main/fty.jar;md5;c84c36278bd8bc95a63449a128074be0",
+  "spider": "https://gcore.jsdelivr.net/gh/liu673cn/box@main/fty.jar;md5;5d951f2dbd9e24ce7cc82c59d46f8417",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
    "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
    "sites": [
      {"key": "csp_douban","name": "🌕┃豆瓣┃热播","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
     {"key": "js_豆瓣","name": "🐼┃豆瓣┃推荐","type": 3,"api": "https://gcore.jsdelivr.net/gh/liu673cn/box@main/libs/js/drpy2.min.js","searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://gcore.jsdelivr.net/gh/liu673cn/box@main/libs/js/豆瓣推荐.js"},
      {"key": "csp_KungFu404","name": "🔥设置Token","type": 3,"api": "csp_KungFu404","searchable": 0,"filterable": 0,"changeable": 0,"jar": "https://gcore.jsdelivr.net/gh/liu673cn/box@main/libs/jar/Token.jar","ext": "http://127.0.0.1:9978/file/tvfan/token.txt"},
-    {"key": "商店","name": "🎰┃蜂蜜┃商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://fm.t4tv.hz.cz/json/market.json","jar": "https://gcore.jsdelivr.net/gh/liu673cn/box@main/libs/jar/app.jar"},
+    {"key": "APP商店","name": "🎰┃蜂蜜┃商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://gcore.jsdelivr.net/gh/liu673cn/box@main/libs/market.json","jar": "https://gcore.jsdelivr.net/gh/liu673cn/box@main/libs/jar/app.jar"},
      {"key": "直播转点播","name": "📺︎┃电视┃点播","playerType":1,"type": 3,"api": "https://gcore.jsdelivr.net/gh/liu673cn/box@main/libs/tv/zb.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://gcore.jsdelivr.net/gh/liu673cn/box@main/libs/tv/zb.json"},
     {"key": "虎牙直播js","name": "🐯┃虎牙┃直播","playerType":1,"type": 3,"api": "https://gcore.jsdelivr.net/gh/liu673cn/box@main/libs/js/drpy2.min.js","ext": "https://gcore.jsdelivr.net/gh/liu673cn/box@main/libs/js/虎牙直播.js","style": {  "type": "rect",  "ratio": 1.755},"searchable": 0,"quickSearch": 0,"changeable": 0 },
     {"key": "csp_XYQBiu_斗鱼","name": "🐟┃斗鱼┃直播","playerType":1,"type": 3,"api": "https://gcore.jsdelivr.net/gh/liu673cn/box@main/libs/js/drpy2.min.js","ext": "https://gcore.jsdelivr.net/gh/liu673cn/box@main/libs/js/斗鱼直播.js","style": {  "type": "rect",  "ratio": 1.755},"searchable": 0,"quickSearch": 0,"changeable": 0 },
