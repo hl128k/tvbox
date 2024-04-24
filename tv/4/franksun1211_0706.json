@@ -1,4 +1,5 @@
 {
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713780171700/fan.txt",
 "sites":[
 ##from alan-X
 {"key":"豆豆","name":"🔍豆瓣推荐","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
@@ -22,7 +23,7 @@
 //{"key":"胡胡","name":"🥇胡胡4K","type":3,"api":"csp_WebHH","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
 {"key":"drpy_js_多瑙影视","name":"🥇多瑙影视[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Vivo-Max/drpy-js/main/lib/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Vivo-Max/drpy-js/main/js/多瑙影视.js","playerType":"2"},
 {"key": "csp_日后","name": "🥇三思","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/wanda/4k/-/main/json/348影视.json","jar":"https://jihulab.com/wanda/4k/-/main/jar/yytt.jar"},
-
+{"key":"苹果","name":"🥇小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},	
 {"key":"泥巴","name":"🥇泥巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 {"key": "csp_SNzy","name": "🐉索尼","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","4K电影","篮球","足球"]},
   
@@ -92,7 +93,7 @@
 
 
 
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713693744769/fan.txt",
+
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "lives": [
     {
