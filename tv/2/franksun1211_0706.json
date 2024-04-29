@@ -1,7 +1,10 @@
-{
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713780171700/fan.txt",
-"sites":[
 ##from alan-X
+{
+//"spider":"https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/pg.jar",
+"spider":"https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/fan.txt",
+//"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714125698234/fan.txt",
+"sites":[
+
 {"key":"豆豆","name":"🔍豆瓣推荐","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 //{"key": "豆瓣","name":"🔍豆瓣推荐","type":3,"api":"https://agit.ai/alanchaotang/dr_py@branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alanchaotang/if@branch/main/js/豆瓣.js"},
 //{"key":"csp_DouDou","name":"🔍豆瓣推荐","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://gcore.jsdelivr.net/gh/bluefriendCN/bin@main/Yoursmile.jar"},
