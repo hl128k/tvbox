@@ -1,5 +1,5 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714384409431/fan.txt;md5;2e518d1fe2a0f74638a5f46d18129d3e",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715069751639/fan.txt;md5;ccc15f8c3df51befa578c1ce8632359f",
     "lives": [
         {
             "name": "Auto",
@@ -107,7 +107,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1,
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/pg.jar;md5;63350CE21576E80EE520CEFD4DC0401B",
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/pg.jar;md5;F458A0AB6B0BDDA064B9E1D98E50707F",
             "ext": "https://www.yjys.me/$$$null$$$1"
         },
         {
@@ -132,7 +132,7 @@
                 "aliToken": "http://127.0.0.1:9978/file/tvbox/token.txt",
                 "quarkCookie": "http://127.0.0.1:9978/file/tvbox/token.txt",
                 "from": "4k|auto|fhd",
-                "siteUrl": "https://api.wogg.xyz/",
+                "siteUrl": "https://www.wogg.link/",
                 "danMu": "弹"
             }
         },
@@ -320,6 +320,47 @@
                 "分类": "电影$movies#美剧$classify/meiju#国产剧$classify/guochan#韩剧$classify/hanju#番剧$classify/fanju"
             }
         },
+{
+      "key": "小白",
+      "name": "小白磁┃XBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 1,
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "ext": {
+        "主页url": "https://www.xbw20.com/",
+        "编码": "gb2312",
+        "图片": "data-src=\"&&\"",
+        "标题": "alt=\"&&\"",
+        "副标题": "class=\"time\">&&</label",
+        "分类url": "https://www.xbw20.com/search.asp?page={catePg}&searchword={area}&searchtype=2[https://www.xbw20.com/vod/{cateId}.html]",
+        "分类": "电影$newmovie#电视剧$newTV#4K专区$new4K#动画片$newcartoon",
+        "起始页": 2,
+        "倒序": 1,
+        "播放数组": "迅雷下载</div>&&</div>",
+        "播放列表": "<a&&</a >"
+      }
+    },
+ {
+      "key": "haokongbu",
+      "name": "好恐怖┃XBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://m.haokongbu.top/",
+        "分类url": "https://m.haokongbu.top/{cateId}/index_{catePg}.html[https://m.haokongbu.top/{cateId}/index.html]",
+        "分类": "国产剧$guochanju#港剧$gangju#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#微电影$weidianying#记录片$m_jlp#高清$gaoqing#动漫$donghuapian#台湾$taiwanju#日本$riju#韩国$hanju#欧美$oumeiju#泰国$taiguoju#海外$haiwaiju",
+        "副标题": "class=\"typeset\"&&</i>",
+        "起始页": 2,
+        "倒序": 1,
+        "播放数组": "下载地址</h2>&&</ul>[不包含:网盘]",
+        "播放列表": "<ul>&&</div>[包含:magnet]"
+      },
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968"
+    },
         {
             "key": "热播库",
             "name": "热播┃BPQ",
