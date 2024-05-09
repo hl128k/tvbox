@@ -70,13 +70,22 @@
             "key": "厂长",
             "name": "厂长┃影视",
             "type": 3,
-            "api": "csp_Czsapp",
+            "api": "csp_NewCz",
             "timeout": 15,
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.czzy.top/"
+            "ext": "https://czzy.top/"
+        },
+        {
+            "key": "比特",
+            "name": "比特┃秒播",
+            "type": 3,
+            "api": "csp_Bttwoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "文才影院",
@@ -151,19 +160,15 @@
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/子子影视.js"
         },
         {
-            "key": "csp_XYQHiker_‍dyx",
-            "name": "电影港┃HK",
+            "key": "drpy_js_电影港",
+            "name": "电影港┃[js]",
             "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/ym.jar;md5;33CB609D1D87B8F3703D92FF3590EF15",
-            "ext": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/XYQH/电影港.json"
+            "api": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JS/lib/drpy2.min.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/电影港.js"
         },
         {
             "key": "白嫖",
-            "name": "高清┃影视",
+            "name": "白飘┃影视",
             "type": 3,
             "api": "csp_BaiPiao",
             "playerType": 2,
@@ -233,7 +238,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "主页url": "https://www.padmp4.com/",
+                "主页url": "https://www.dbmp4.com/",
                 "请求头": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
                 "热门推荐": "1",
                 "首页": "电视剧$10",
@@ -245,7 +250,7 @@
                 "标题": "alt=\"《&&》\"",
                 "链接": "href=\"&&\"",
                 "副标题": "rate badge\">&&</span>",
-                "搜索url": "https://www.padmp4.com/search/{wd}-{pg}.html",
+                "搜索url": "https://www.dbmp4.com/search/{wd}-{pg}.html",
                 "搜索模式": "1",
                 "搜索二次截取": "<div id=\"list_all\">&&<div class=\"text-center\">",
                 "搜索数组": "<li>&&</a>",
@@ -270,7 +275,7 @@
                 "播放请求头": "",
                 "免嗅": "0",
                 "分类": "电视剧$10#动作片$1#科幻片$2#爱情片$3#喜剧片$4#恐怖片$5#战争片$6#剧情片$7#记录片$8#动漫$9",
-                "分类url": "https://www.padmp4.com/list/{cateId}-{catePg}.html"
+                "分类url": "https://www.dbmp4.com/list/{cateId}-{catePg}.html"
             }
         },
         {
@@ -320,47 +325,149 @@
                 "分类": "电影$movies#美剧$classify/meiju#国产剧$classify/guochan#韩剧$classify/hanju#番剧$classify/fanju"
             }
         },
-{
-      "key": "小白",
-      "name": "小白磁┃XBPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": 1,
-      "jar": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-      "ext": {
-        "主页url": "https://www.xbw20.com/",
-        "编码": "gb2312",
-        "图片": "data-src=\"&&\"",
-        "标题": "alt=\"&&\"",
-        "副标题": "class=\"time\">&&</label",
-        "分类url": "https://www.xbw20.com/search.asp?page={catePg}&searchword={area}&searchtype=2[https://www.xbw20.com/vod/{cateId}.html]",
-        "分类": "电影$newmovie#电视剧$newTV#4K专区$new4K#动画片$newcartoon",
-        "起始页": 2,
-        "倒序": 1,
-        "播放数组": "迅雷下载</div>&&</div>",
-        "播放列表": "<a&&</a >"
-      }
-    },
- {
-      "key": "haokongbu",
-      "name": "好恐怖┃XBPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "主页url": "https://m.haokongbu.top/",
-        "分类url": "https://m.haokongbu.top/{cateId}/index_{catePg}.html[https://m.haokongbu.top/{cateId}/index.html]",
-        "分类": "国产剧$guochanju#港剧$gangju#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#微电影$weidianying#记录片$m_jlp#高清$gaoqing#动漫$donghuapian#台湾$taiwanju#日本$riju#韩国$hanju#欧美$oumeiju#泰国$taiguoju#海外$haiwaiju",
-        "副标题": "class=\"typeset\"&&</i>",
-        "起始页": 2,
-        "倒序": 1,
-        "播放数组": "下载地址</h2>&&</ul>[不包含:网盘]",
-        "播放列表": "<ul>&&</div>[包含:magnet]"
-      },
-      "jar": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968"
-    },
+        {
+            "key": "小白",
+            "name": "小白┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": 1,
+            "jar": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": {
+                "请求头": "手机",
+                "编码": "GB2312",
+                "副标题": "time\">&&</label>",
+                "数组": "<li>&&</li>",
+                "二次截取": "pic-list pic-list-focus fn-right&&</ol>",
+                "主页url": "https://www.xbw20.com/",
+                "分类url": "https://www.xbw20.com/vod/{cateId}{catePg}.html[https://www.xbw20.com/vod/{cateId}.html]",
+                "分类": "电影$newmovie#电视剧$newTV#4K专区$new4K#动画片$newcartoon",
+                "起始页": 2,
+                "倒序": 1,
+                "播放数组": "迅雷下载</div>&&<script>",
+                "播放列表": "<li><&&</a >",
+                "播放链接": "href=\"&&\"",
+                "播放标题": "tittle=\"&&\"",
+                "筛选": {
+                    "newmovie": [
+                        {
+                            "key": "cateId",
+                            "name": "类型",
+                            "value": [
+                                {
+                                    "n": "全部",
+                                    "v": ""
+                                },
+                                {
+                                    "n": "科幻片",
+                                    "v": "newScience"
+                                },
+                                {
+                                    "n": "动作片",
+                                    "v": "newaction"
+                                },
+                                {
+                                    "n": "恐怖片",
+                                    "v": "newscary"
+                                },
+                                {
+                                    "n": "喜剧片",
+                                    "v": "newcomedy"
+                                },
+                                {
+                                    "n": "爱情片",
+                                    "v": "newromance"
+                                },
+                                {
+                                    "n": "战争片",
+                                    "v": "newwar"
+                                },
+                                {
+                                    "n": "剧情片",
+                                    "v": "newplot"
+                                },
+                                {
+                                    "n": "记录片",
+                                    "v": "newrecord"
+                                }
+                            ]
+                        }
+                    ],
+                    "newTV": [
+                        {
+                            "key": "cateId",
+                            "name": "分类",
+                            "value": [
+                                {
+                                    "n": "分类",
+                                    "v": ""
+                                },
+                                {
+                                    "n": "国产剧",
+                                    "v": "newmainland"
+                                },
+                                {
+                                    "n": "港剧",
+                                    "v": "newtvb"
+                                },
+                                {
+                                    "n": "台剧",
+                                    "v": "newtaiju"
+                                },
+                                {
+                                    "n": "美剧",
+                                    "v": "newoumeiju"
+                                },
+                                {
+                                    "n": "英剧",
+                                    "v": "newyingju"
+                                },
+                                {
+                                    "n": "韩剧",
+                                    "v": "newkorea"
+                                },
+                                {
+                                    "n": "日剧",
+                                    "v": "newriju"
+                                },
+                                {
+                                    "n": "泰剧",
+                                    "v": "newAsia"
+                                },
+                                {
+                                    "n": "印度剧",
+                                    "v": "newyinduju"
+                                },
+                                {
+                                    "n": "新加坡剧",
+                                    "v": "newxinjiapo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "key": "haokongbu",
+            "name": "恐怖┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "主页url": "https://m.haokongbu.top/",
+                "分类url": "https://m.haokongbu.top/{cateId}/index_{catePg}.html[https://m.haokongbu.top/{cateId}/index.html]",
+                "分类": "国产剧$guochanju#港剧$gangju#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#微电影$weidianying#记录片$m_jlp#高清$gaoqing#动漫$donghuapian#台湾$taiwanju#日本$riju#韩国$hanju#欧美$oumeiju#泰国$taiguoju#海外$haiwaiju",
+                "副标题": "class=\"typeset\"&&</i>",
+                "起始页": 2,
+                "倒序": 1,
+                "播放数组": "下载地址</h2>&&</ul>[不包含:网盘]",
+                "播放链接": "href=\"&&\"",
+                "播放列表": "<li>&&</li>[包含:magnet]"
+            },
+            "jar": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968"
+        },
         {
             "key": "热播库",
             "name": "热播┃BPQ",
@@ -424,17 +531,6 @@
             "filterable": 1,
             "jar": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "ext": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/xBPQ/磁力熊.json"
-        },
-        {
-            "key": "两个BT",
-            "name": "2BT┃BPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/xBPQ/两个BT.json"
         },
         {
             "key": "黑狐",
