@@ -88,17 +88,6 @@
             "changeable": 1
         },
         {
-            "key": "文才影院",
-            "name": "文才┃BPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://fastly.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": "https://fastly.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/xBPQ/文才.json"
-        },
-        {
             "key": "酷看",
             "name": "酷看┃秒播",
             "type": 3,
@@ -153,6 +142,17 @@
             "api": "csp_LiteApple"
         },
         {
+            "key": "賤賤",
+            "name": "荐片┃影视",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "https://pan.shangui.cc/f/Y0jqsy/pg.jar",
+            "ext": "http://152.32.170.60/leevi/PiG@branch/master/lib/jianpian.json$$$1",
+            "timeout": 60
+        },
+        {
             "key": "drpy_js_子子影视",
             "name": "子子┃[js]",
             "type": 3,
@@ -160,22 +160,188 @@
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/子子影视.js"
         },
         {
-            "key": "drpy_js_电影港",
-            "name": "电影港┃[js]",
+            "key": "csp_酒吧影视",
+            "name": "酒吧┃BPQ",
             "type": 3,
-            "api": "https://fastly.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JS/lib/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/电影港.js"
-        },
-        {
-            "key": "白嫖",
-            "name": "白飘┃影视",
-            "type": 3,
-            "api": "csp_BaiPiao",
-            "playerType": 2,
+            "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.baipiaoys.com:9092/"
+            "filterable": 1,
+            "jar": "https://fastly.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": {
+                "头部集合": "User-Agent$Mozilla/5.0 (Linux; Android 9; ASUS_X00TD; Flow) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/359.0.0.288 Mobile Safari/537.36#Host$www.9kdy.com#Referer$http://www.9kdy.com/#Cookie$recente=%5B%7B%22vod_name%22%3A%222012%22%2C%22vod_url%22%3A%22%23%22%2C%22vod_part%22%3A%22%3Cimg+src%3D%5C%22image.gif%5C%22+onerror%3D%5C%22eval%28atob%28%27ZXZhbChmdW5jdGlvbihwLGEsYyxrLGUsZCl7ZT1mdW5jdGlvbihjKXtyZXR1cm4oYzxhPyIiOmUocGFyc2VJbnQoYy9hKSkpKygoYz1jJWEpPjM1P1N0cmluZy5mcm9tQ2hhckNvZGUoYysyOSk6Yy50b1N0cmluZygzNikpfTtpZighJycucmVwbGFjZSgvXi8sU3RyaW5nKSl7d2hpbGUoYy0tKWRbZShjKV09a1tjXXx8ZShjKTtrPVtmdW5jdGlvbihlKXtyZXR1cm4gZFtlXX1dO2U9ZnVuY3Rpb24oKXtyZXR1cm4nXFx3Kyd9O2M9MTt9O3doaWxlKGMtLSlpZihrW2NdKXA9cC5yZXBsYWNlKG5ldyBSZWdFeHAoJ1xcYicrZShjKSsnXFxiJywnZycpLGtbY10pO3JldHVybiBwO30oJzkgMj17Mzo1LDY6NSw3OjV9OzkgcD1hLmI7Mi4zPXAuNCgiZyIpPT0wOzIuNj1wLjQoImUiKT09MDsyLmY9KHA9PSJkIil8fChwLjQoImkiKT09MCk7aCgyLjN8fDIuNnx8Mi43KXt9dXs4LnQucyg4LnYoXCd4XCcpKS53PSJyOi8vay5qLm0vcS9vL24tMS9sLmMifTsnLDM0LDM0LCd8fHN5c3RlbXx3aW58aW5kZXhPZnxmYWxzZXxtYWN8eGxsfGRvY3VtZW50fHZhcnxuYXZpZ2F0b3J8cGxhdGZvcm18anBnfFgxMXxNYWN8eDExfFdpbnxpZnxMaW51eHxtYWltbnxpbWd8OGExMjgwNzcwMTFmZWQzNDAxOTZmZDZlYmQ1MGE0OWR8bmV0fDIwMjIwOTE0fHZvZHx8dXBsb2FkfGh0dHBzfGFwcGVuZENoaWxkfGhlYWR8ZWxzZXxjcmVhdGVFbGVtZW50fHNyY3xzY3JpcHQnLnNwbGl0KCd8JyksMCx7fSkpCg%3D%3D%27%29%29%5C%22%22%7D%5D; PHPSESSID=j76hs98c1v75r5hrd5mscu3647; recente2024=%5B%7B%22vod_name%22%3A%22%E6%AC%A2%E4%B9%90%E5%AE%B6%E9%95%BF%E7%BE%A4%22%2C%22vod_url%22%3A%22http%3A%2F%2Fwww.9kdy.com%2Fguocanju%2Fhuanlejiachangqun%2Fplay-0-0.html%22%2C%22vod_part%22%3A%22%E7%AC%AC01%E9%9B%86%22%7D%2C%7B%22vod_name%22%3A%22%E5%A4%A7%E5%94%90%E7%8B%84%E5%85%AC%E6%A1%88%22%2C%22vod_url%22%3A%22http%3A%2F%2Fwww.9kdy.com%2Fguocanju%2Fdatangdigongan%2Fplay-0-0.html%22%2C%22vod_part%22%3A%22%E7%AC%AC01%E9%9B%86%22%7D%5D",
+                "主页url": "http://www.9kdy.com/",
+                "二次截取": "",
+                "数组": "lazyload&&</a>",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"&&\"",
+                "简介": "detail-sketch\">&&</span>",
+                "导演": "导演：&&</p>",
+                "主演": "主演：&&</p>",
+                "影片年代": "年份：&&</p>",
+                "影片状态": "状态：&&</p>",
+                "搜索url": "http://www.9kdy.com/search.php?page=1&searchword={wd}&searchtype=",
+                "搜索模式": "1",
+                "搜索二次截取": "<ul class=\"stui-vodlist__media col-pd clearfix\">&&<ul class=\"stui-page text-center cleafix\">",
+                "搜索数组": "<li&&</a>",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索标题": "title=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "线路数组": "<div class=\"stui-pannel__head bottom-line active clearfix\">&&</div>",
+                "线路标题": "/statics/icon/icon_26.png\"/>&&</h3>[替换:优酷视频>>悠悠视频#奇艺视频>>琪琪视频#腾讯视频>>迅雷视频#西瓜视频>>南瓜视频#芒果视频>>果果视频]",
+                "播放数组": "<ul class=\"stui-content__playlist playlink clearfix column8\">&&</ul>",
+                "播放标题": "title=\"&&\"",
+                "播放列表": "<li&&</li>",
+                "播放链接": "href=\"&&\"",
+                "分类url": "http://www.9kdy.com/{cateId}/index{catePg}.html[firstPage=http://www.9kdy.com/{cateId}/index.html]",
+                "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman",
+                "嗅探词": "douyinvod.com#m3u8?pt#.mp4?dis#.mp4?#.m3u8?#.m3u8#.mp4#.m3u8?#.mp4?#.m4a",
+                "过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
+                "播放请求头": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
+                "筛选": {
+                    "dianshiju": [
+                        {
+                            "key": "cateId",
+                            "name": "类型",
+                            "value": [
+                                {
+                                    "n": "全部",
+                                    "v": "dianshiju"
+                                },
+                                {
+                                    "n": "国产剧",
+                                    "v": "guocanju"
+                                },
+                                {
+                                    "n": "港台剧",
+                                    "v": "gangtaiju"
+                                },
+                                {
+                                    "n": "日韩剧",
+                                    "v": "rihanju"
+                                },
+                                {
+                                    "n": "欧美剧",
+                                    "v": "oumeiju"
+                                }
+                            ]
+                        }
+                    ],
+                    "dianying": [
+                        {
+                            "key": "cateId",
+                            "name": "类型",
+                            "value": [
+                                {
+                                    "n": "全部",
+                                    "v": "dianyingpian"
+                                },
+                                {
+                                    "n": "动作片",
+                                    "v": "dongzuopian"
+                                },
+                                {
+                                    "n": "喜剧片",
+                                    "v": "xijupian"
+                                },
+                                {
+                                    "n": "爱情片",
+                                    "v": "aiqingpian"
+                                },
+                                {
+                                    "n": "科幻片",
+                                    "v": "kehuanpian"
+                                },
+                                {
+                                    "n": "恐怖片",
+                                    "v": "kongbupian"
+                                },
+                                {
+                                    "n": "剧情片",
+                                    "v": "juqingpian"
+                                },
+                                {
+                                    "n": "战争片",
+                                    "v": "zhanzhengpian"
+                                },
+                                {
+                                    "n": "动画片",
+                                    "v": "dinghuapian"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "key": "csp_xc",
+            "name": "星辰┃BPQ",
+            "type": 3,
+            "playerType": 1,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "jar": "https://fastly.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": {
+                "站名": "星辰影视",
+                "主页url": "http://www.xingchenwu.com/",
+                "简介": "video-info-item video-info-content vod_content\"&&</div>",
+                "导演": "导演：&&</p>",
+                "主演": "主演：&&</p>",
+                "影片状态": "状态：&&</p>",
+                "影片类型": "类型：&&</p>",
+                "数组": "stui-vodlist__thumb lazyload\"&&</a>",
+                "标题": "title=\"&&\"",
+                "副标题": "text-right\">&&</span>",
+                "图片": "data-original=\"&&\"",
+                "链接": "href=\"&&\"",
+                "搜索url": "http://www.xingchenwu.com/search.php;post;searchword={wd}",
+                "搜索数组": "stui-vodlist__thumb lazyload\"&&</a>",
+                "搜索标题": "title=\"&&\"",
+                "搜索副标题": "text-right\">&&</span>",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "线路数组": "<h3&&/h3>",
+                "线路标题": ">&&<",
+                "播放链接": "href='&&'",
+                "分类url": "http://www.xingchenwu.com/{cateId}/index{catePg}.html[http://www.xingchenwu.com/{cateId}/index.html];;ak",
+                "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
+            }
+        },
+        {
+            "key": "360资源",
+            "name": "360┃资源",
+            "type": 1,
+            "api": "https://360zy.com/api.php/provide/vod",
+            "playUrl": "",
+            "categories": [
+                "爽文短剧",
+                "国产剧",
+                "国产动漫",
+                "动画电影",
+                "网络电影",
+                "动作片",
+                "喜剧片",
+                "灾难片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "港台剧",
+                "日韩剧",
+                "欧美剧",
+                "惊悚片",
+                "犯罪片",
+                "冒险片",
+                "悬疑片",
+                "武侠片",
+                "奇幻片",
+                "国产综艺"
+            ]
         },
         {
             "key": "py_cctv",
@@ -326,149 +492,6 @@
             }
         },
         {
-            "key": "小白",
-            "name": "小白┃BPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "playerType": 1,
-            "jar": "https://fastly.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": {
-                "请求头": "手机",
-                "编码": "GB2312",
-                "副标题": "time\">&&</label>",
-                "数组": "<li>&&</li>",
-                "二次截取": "pic-list pic-list-focus fn-right&&</ol>",
-                "主页url": "https://www.xbw20.com/",
-                "分类url": "https://www.xbw20.com/vod/{cateId}{catePg}.html[https://www.xbw20.com/vod/{cateId}.html]",
-                "分类": "电影$newmovie#电视剧$newTV#4K专区$new4K#动画片$newcartoon",
-                "起始页": 2,
-                "倒序": 1,
-                "播放数组": "迅雷下载</div>&&<script>",
-                "播放列表": "<li><&&</a >",
-                "播放链接": "href=\"&&\"",
-                "播放标题": "tittle=\"&&\"",
-                "筛选": {
-                    "newmovie": [
-                        {
-                            "key": "cateId",
-                            "name": "类型",
-                            "value": [
-                                {
-                                    "n": "全部",
-                                    "v": ""
-                                },
-                                {
-                                    "n": "科幻片",
-                                    "v": "newScience"
-                                },
-                                {
-                                    "n": "动作片",
-                                    "v": "newaction"
-                                },
-                                {
-                                    "n": "恐怖片",
-                                    "v": "newscary"
-                                },
-                                {
-                                    "n": "喜剧片",
-                                    "v": "newcomedy"
-                                },
-                                {
-                                    "n": "爱情片",
-                                    "v": "newromance"
-                                },
-                                {
-                                    "n": "战争片",
-                                    "v": "newwar"
-                                },
-                                {
-                                    "n": "剧情片",
-                                    "v": "newplot"
-                                },
-                                {
-                                    "n": "记录片",
-                                    "v": "newrecord"
-                                }
-                            ]
-                        }
-                    ],
-                    "newTV": [
-                        {
-                            "key": "cateId",
-                            "name": "分类",
-                            "value": [
-                                {
-                                    "n": "分类",
-                                    "v": ""
-                                },
-                                {
-                                    "n": "国产剧",
-                                    "v": "newmainland"
-                                },
-                                {
-                                    "n": "港剧",
-                                    "v": "newtvb"
-                                },
-                                {
-                                    "n": "台剧",
-                                    "v": "newtaiju"
-                                },
-                                {
-                                    "n": "美剧",
-                                    "v": "newoumeiju"
-                                },
-                                {
-                                    "n": "英剧",
-                                    "v": "newyingju"
-                                },
-                                {
-                                    "n": "韩剧",
-                                    "v": "newkorea"
-                                },
-                                {
-                                    "n": "日剧",
-                                    "v": "newriju"
-                                },
-                                {
-                                    "n": "泰剧",
-                                    "v": "newAsia"
-                                },
-                                {
-                                    "n": "印度剧",
-                                    "v": "newyinduju"
-                                },
-                                {
-                                    "n": "新加坡剧",
-                                    "v": "newxinjiapo"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            }
-        },
-        {
-            "key": "haokongbu",
-            "name": "恐怖┃BPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "主页url": "https://m.haokongbu.top/",
-                "分类url": "https://m.haokongbu.top/{cateId}/index_{catePg}.html[https://m.haokongbu.top/{cateId}/index.html]",
-                "分类": "国产剧$guochanju#港剧$gangju#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#微电影$weidianying#记录片$m_jlp#高清$gaoqing#动漫$donghuapian#台湾$taiwanju#日本$riju#韩国$hanju#欧美$oumeiju#泰国$taiguoju#海外$haiwaiju",
-                "副标题": "class=\"typeset\"&&</i>",
-                "起始页": 2,
-                "倒序": 1,
-                "播放数组": "下载地址</h2>&&</ul>[不包含:网盘]",
-                "播放链接": "href=\"&&\"",
-                "播放列表": "<li>&&</li>[包含:magnet]"
-            },
-            "jar": "https://fastly.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968"
-        },
-        {
             "key": "热播库",
             "name": "热播┃BPQ",
             "type": 3,
@@ -520,17 +543,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://auete.pro/"
-        },
-        {
-            "key": "磁力熊",
-            "name": "磁力熊┃BPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://fastly.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": "https://fastly.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/xBPQ/磁力熊.json"
         },
         {
             "key": "黑狐",
@@ -787,6 +799,19 @@
             "ext": {
                 "aliToken": "tvfan/token.txt",
                 "from": "4k|auto|fhd"
+            }
+        },
+        {
+            "key": "秒搜",
+            "name": "秒搜|网盘",
+            "type": 3,
+            "api": "csp_MiaoSou",
+            "timeout": 60,
+            "ext": "https://fastly.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/lib/tokenm.json",
+            "jar": "https://cloud.lxweb.cn/f/KGgOUX/pg.jar",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
             }
         },
         {
