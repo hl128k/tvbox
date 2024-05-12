@@ -153,17 +153,6 @@
             "api": "csp_LiteApple"
         },
         {
-            "key": "賤賤",
-            "name": "荐片┃影视",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "https://pan.shangui.cc/f/Xq7mid/pg.jar",
-            "ext": "http://152.32.170.60/leevi/PiG@branch/master/lib/jianpian.json$$$1",
-            "timeout": 60
-        },
-        {
             "key": "Xunlei8",
             "name": "磁力┃影视",
             "type": 3,
@@ -172,6 +161,17 @@
             "jar": "https://pan.shangui.cc/f/Xq7mid/pg.jar",
             "timeout": 60
         },
+    {
+      "key": "贱贱",
+      "name": "荐片┃JS",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": "1",
+      "api": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JS/lib/drpy.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JS/js/荐片.js"
+    },
         {
             "key": "达达龟",
             "name": "达达┃JS",
