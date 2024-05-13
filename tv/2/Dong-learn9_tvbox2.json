@@ -1,5 +1,5 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715368504642/fan.txt;md5;2a085160a4140e1697c5d6393901ec7e",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715563882517/fan.txt;md5;e85e180ec8caae0d38c78a021a2494e0",
     "lives": [
         {
             "name": "ipv6",
@@ -105,19 +105,8 @@
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1,
-            "jar": "https://pan.shangui.cc/f/Xq7mid/pg.jar",
+            "jar": "https://pan.shangui.cc/f/XqMqHd/pg.jar",
             "ext": "https://www.yjys.me/$$$null$$$1"
-        },
-        {
-            "key": "白嫖",
-            "name": "白飘┃影视",
-            "type": 3,
-            "api": "csp_BaiPiao",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.yjys.me/"
         },
         {
             "key": "原创",
@@ -158,20 +147,20 @@
             "type": 3,
             "api": "csp_Xunlei8",
             "changeable": 1,
-            "jar": "https://pan.shangui.cc/f/Xq7mid/pg.jar",
+            "jar": "https://pan.shangui.cc/f/XqMqHd/pg.jar",
             "timeout": 60
         },
-    {
-      "key": "贱贱",
-      "name": "荐片┃JS",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "1",
-      "api": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JS/lib/drpy.min.js",
-      "ext": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JS/js/荐片.js"
-    },
+        {
+            "key": "贱贱",
+            "name": "荐片┃JS",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "playerType": "1",
+            "api": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JS/lib/drpy.min.js",
+            "ext": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JS/js/荐片.js"
+        },
         {
             "key": "达达龟",
             "name": "达达┃JS",
@@ -217,6 +206,15 @@
             "playerType": "1",
             "jar": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "ext": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/xBPQ/素白白.json"
+        },
+        {
+            "key": "csp_xBPQ_白嫖影视",
+            "name": "白嫖┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "1",
+            "jar": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/xBPQ/白嫖影视.json"
         },
         {
             "key": "mp4影视",
@@ -311,7 +309,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "jar": "https://pan.shangui.cc/f/Xq7mid/pg.jar",
+            "jar": "https://pan.shangui.cc/f/XqMqHd/pg.jar",
             "ext": "http://152.32.170.60/leevi/PiG@branch/master/lib/tokenm.json$$$null$$$proxy$$$1",
             "style": {
                 "type": "list",
