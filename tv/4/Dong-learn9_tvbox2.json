@@ -1,5 +1,5 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716299041896/fan.txt;md5;70471410f8e5a1bf20eb64b6b402e5c2",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545043733/fan.txt;md5;8a6d3aafbfc1769dd1939f98742d5b06",
     "lives": [
         {
             "name": "ipv6",
@@ -109,16 +109,6 @@
             "ext": "https://www.yjys.me/$$$null$$$1"
         },
         {
-            "key": "原创",
-            "name": "原创┃影视",
-            "type": 3,
-            "api": "csp_YCyz",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "玩偶",
             "name": "玩偶┃弹幕",
             "type": 3,
@@ -187,6 +177,17 @@
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/酒吧影视.json"
         },
         {
+            "key": "小镇",
+            "name": "小镇┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/电影小镇.json"
+        },
+        {
             "key": "csp_xc",
             "name": "星辰┃BPQ",
             "type": 3,
@@ -197,6 +198,17 @@
             "filterable": 0,
             "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/星辰影视2.json"
+        },
+        {
+            "key": "csp_红狐狸影视",
+            "name": "狐狸┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": {
+                "分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+            }
         },
         {
             "key": "csp_xBPQ_素白",
@@ -289,6 +301,33 @@
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/淘剧.json"
         },
         {
+            "key": "mp4",
+            "name": "MP4┃磁力",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "playerType": 2,
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XYQH.jar;md5;81544697BC790013FC5BB1D2939BF0B6",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/XYQH/mp4影视.json"
+        },
+        {
+            "key": "新6v",
+            "name": "6V┃磁力",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "playerType": 2,
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XYQH.jar;md5;81544697BC790013FC5BB1D2939BF0B6",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/XYQH/6V电影.json"
+        },
+        {
+            "key": "电影港",
+            "name": "电影港┃磁力",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "playerType": 2,
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XYQH.jar;md5;81544697BC790013FC5BB1D2939BF0B6",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/XYQH/电影港.json"
+        },
+        {
             "key": "drpy_js_JustLive",
             "name": " 直播┃JS",
             "type": 3,
@@ -310,11 +349,57 @@
             "filterable": 1,
             "timeout": 60,
             "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/pg.jar",
-            "ext": "http://152.32.170.60/leevi/PiG/branch/master/lib/tokenm.json$$$null$$$proxy$$$1",
+            "ext": "http://152.32.170.60/leevi/PiG/branch/master/lib/tokenm.json$$$null$$$192.168.101.1:1080$$$1",
             "style": {
                 "type": "list",
                 "ratio": 1.1
             }
+        },
+        {
+            "key": "49zy",
+            "name": "49┃资源",
+            "type": 1,
+            "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "categories": [
+                "短剧",
+                "国产剧",
+                "纪录片",
+                "欧美剧",
+                "香港剧",
+                "动作片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "喜剧片",
+                "动画片",
+                "犯罪片",
+                "韩国剧",
+                "动漫",
+                "电影",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "台湾剧",
+                "国产动漫",
+                "日本动漫",
+                "欧美动漫",
+                "泰国剧",
+                "日剧",
+                "电影解说",
+                "奇幻片",
+                "灾难片",
+                "悬疑片",
+                "其他片",
+                "体育赛事",
+                "海外剧"
+            ]
         },
         {
             "key": "量子资源",
@@ -406,7 +491,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XYQH.jar",
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XYQH.jar;md5;81544697BC790013FC5BB1D2939BF0B6",
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/XYQH/儿童启蒙.json"
         },
         {
