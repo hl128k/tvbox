@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/hackyjso/TVbox/main/jar/custom_spider.txt",
+  "spider": "https://gitee.com/hackyjso/TVbox@main/jar/custom_spider.txt",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -9,7 +9,7 @@
       "api": "csp_Douban",
       "searchable": 0,
       "changeable": 1,
-      "ext": "https://gitee.com/hackyjso/TVbox/main/json/douban.json"
+      "ext": "https://gitee.com/hackyjso/TVbox@main/json/douban.json"
     },
     {
       "key": "ziji2",
@@ -28,7 +28,7 @@
       "name": "💘配置┃中心💘",
       "type": 3,
       "api": "csp_Wexconfig",
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/wex.jar",
       "searchable": 0,
       "changeable": 0,
       "indexs": 0,
@@ -41,7 +41,7 @@
       "key": "Wexduanjuvop",
       "name": "💘短剧2┃直连💘",
       "type": 3,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/wex.jar",
       "api": "csp_Wexduanjuvop",
       "searchable": 1,
       "changeable": 1
@@ -51,7 +51,7 @@
       "name": "💘短剧3┃直连💘",
       "type": 3,
       "api": "csp_Wexduanjuhema",
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/wex.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -59,7 +59,7 @@
       "key": "Wexduanjuv1mp",
       "name": "💘短剧4┃直连💘",
       "type": 3,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/wex.jar",
       "api": "csp_Wexduanjuvmp",
       "searchable": 1,
       "changeable": 1
@@ -68,7 +68,7 @@
       "key": "Wexduanjuquark",
       "name": "💘短劇┃夸克💘",
       "type": 3,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/wex.jar",
       "api": "csp_Wexduanjuquark",
       "searchable": 1,
       "changeable": 1,
@@ -109,7 +109,7 @@
     {
       "key": "玩偶1",
       "name": "💘玩偶┃综合4K💘",
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/wex.jar",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -119,7 +119,7 @@
       "key": "Wexyingchao",
       "name": "💘影巢┃综合4K💘",
       "type": 3,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/wex.jar",
       "api": "csp_Wexyingchao",
       "searchable": 1,
       "changeable": 1
@@ -130,7 +130,7 @@
       "type": 3,
       "api": "csp_Wextudou",
       "searchable": 1,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/wex.jar",
       "changeable": 1
     },
     {
@@ -157,14 +157,14 @@
       "api": "csp_Jianpian",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://gitee.com/hackyjso/TVbox/main/json/jianpian.json"
+      "ext": "https://gitee.com/hackyjso/TVbox@main/json/jianpian.json"
     },
     {
       "key": "天天",
       "name": "💘天天┃弹幕💘",
       "type": 3,
       "api": "csp_TTian",
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wypg.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/wypg.jar",
       "playerType": 1,
       "changeable": 2,
       "ext": "http://op.ysdqjs.cn$$$null$$$1"
@@ -181,7 +181,7 @@
       "key": "Wexxpgtv",
       "name": "💘苹果┃App💘",
       "type": 3,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/wex.jar",
       "api": "csp_Wexxpgtv",
       "searchable": 1,
       "changeable": 1
@@ -191,7 +191,7 @@
       "name": "💘花花┃App💘",
       "type": 3,
       "api": "csp_Wexhuayang",
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/wex.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -199,7 +199,7 @@
       "key": "Wexkukantv",
       "name": "💘酷看┃App💘",
       "type": 3,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/wex.jar",
       "api": "csp_Wexkukantv",
       "searchable": 1,
       "changeable": 1
@@ -207,7 +207,7 @@
     {
       "key": "Wexjiajia",
       "name": "💘佳佳┃App💘",
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/wex.jar",
       "type": 3,
       "api": "csp_Wexjiajia",
       "searchable": 1,
@@ -219,7 +219,7 @@
       "name": "💘南瓜|直连💘",
       "type": 3,
       "api": "csp_NanGua",
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/pg.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/pg.jar",
       "searchable": 1,
       "changeable": 1,
       "ext": "null$$$1"
@@ -231,7 +231,7 @@
       "api": "csp_Wexxiongdiys",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/ou.jar"
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/ou.jar"
     },
     {
       "key": "腐剧视频",
@@ -240,13 +240,13 @@
       "api": "csp_WexFujutv",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/ou.jar"
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/ou.jar"
     },
     {
       "key": "Wexhanxiaoquan",
       "name": "💘韩圈┃App💘",
       "type": 3,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/wex.jar",
       "api": "csp_Wexhanxiaoquan",
       "searchable": 1,
       "changeable": 1
@@ -255,7 +255,7 @@
       "key": "Wexhanjutv",
       "name": "💘韩剧┃App💘",
       "type": 3,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/wex.jar",
       "api": "csp_Wexhanjutv",
       "searchable": 1,
       "changeable": 1
@@ -283,8 +283,8 @@
       "key": "drjs_子子影视",
       "name": "💘子子┃直连💘",
       "type": 3,
-      "api": "https://gitee.com/hackyjso/TVbox/main/drpy_js/libs/drpy.min.js",
-      "ext": "https://gitee.com/hackyjso/TVbox/main/drpy_js/js/子子影视.js"
+      "api": "https://gitee.com/hackyjso/TVbox@main/drpy_js/libs/drpy.min.js",
+      "ext": "https://gitee.com/hackyjso/TVbox@main/drpy_js/js/子子影视.js"
     },
     {
       "key": "subai",
@@ -319,7 +319,7 @@
     },
     {
       "key": "csp_CandyMuj_taoju",
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/lem1225.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/lem1225.jar",
       "name": "💘淘剧┃直连",
       "type": 3,
       "api": "csp_CandyMuj_taoju",
@@ -331,8 +331,8 @@
       "key": "drjs_人人影视",
       "name": "💘人人┃直连💘",
       "type": 3,
-      "api": "https://gitee.com/hackyjso/TVbox/main/drpy_js/libs/drpy.min.js",
-      "ext": "https://gitee.com/hackyjso/TVbox/main/drpy_js/js/人人影视.js"
+      "api": "https://gitee.com/hackyjso/TVbox@main/drpy_js/libs/drpy.min.js",
+      "ext": "https://gitee.com/hackyjso/TVbox@main/drpy_js/js/人人影视.js"
     },
     {
       "key": "骚火电影",
@@ -341,8 +341,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://gitee.com/hackyjso/TVbox/main/drpy_js/libs/drpy2.min.js",
-      "ext": "https://gitee.com/hackyjso/TVbox/main/drpy_js/js/saohuo.js"
+      "api": "https://gitee.com/hackyjso/TVbox@main/drpy_js/libs/drpy2.min.js",
+      "ext": "https://gitee.com/hackyjso/TVbox@main/drpy_js/js/saohuo.js"
     },
     {
       "key": "naikan",
@@ -367,15 +367,15 @@
       "key": "drjs_8号影院",
       "name": "💘8号┃嗅探💘",
       "type": 3,
-      "api": "https://gitee.com/hackyjso/TVbox/main/drpy_js/libs/drpy.min.js",
-      "ext": "https://gitee.com/hackyjso/TVbox/main/drpy_js/js/8号影院.js"
+      "api": "https://gitee.com/hackyjso/TVbox@main/drpy_js/libs/drpy.min.js",
+      "ext": "https://gitee.com/hackyjso/TVbox@main/drpy_js/js/8号影院.js"
     },
     {
       "key": "drjs_热播库",
       "name": "💘热播库┃嗅探💘",
       "type": 3,
-      "api": "https://gitee.com/hackyjso/TVbox/main/drpy_js/libs/drpy.min.js",
-      "ext": "https://gitee.com/hackyjso/TVbox/main/drpy_js/js/热播库.js"
+      "api": "https://gitee.com/hackyjso/TVbox@main/drpy_js/libs/drpy.min.js",
+      "ext": "https://gitee.com/hackyjso/TVbox@main/drpy_js/js/热播库.js"
     },
     {
       "key": "Jugege",
@@ -391,7 +391,7 @@
       "key": "热播",
       "name": "💘热播┃直连💘",
       "type": 3,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/fix24318.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/fix24318.jar",
       "api": "csp_TTian",
       "playerType": 2,
       "ext": "http://v.rbotv.cn"
@@ -400,7 +400,7 @@
       "key": "Lib",
       "name": "💘Lib┃直连💘",
       "type": 3,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/fix24318.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/fix24318.jar",
       "api": "csp_Lib",
       "searchable": 1,
       "quickSearch": 1,
@@ -415,25 +415,25 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://gitee.com/hackyjso/TVbox/main/json/星辰影视.json"
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://gitee.com/hackyjso/TVbox@main/json/星辰影视.json"
     },
     {
       "key": "js_ddys",
       "name": "💘低端┃外剧💘",
       "type": 3,
-      "api": "https://gitee.com/hackyjso/TVbox/main/drpy_js/libs/drpy2.min.js",
+      "api": "https://gitee.com/hackyjso/TVbox@main/drpy_js/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/hackyjso/TVbox/main/drpy_js/js/ddys.js"
+      "ext": "https://gitee.com/hackyjso/TVbox@main/drpy_js/js/ddys.js"
     },
     {
       "key": "SeedHub",
       "name": "🧲SeedHub┃磁力🧲",
       "type": 3,
       "api": "csp_SeedHub",
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wyog1.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/wyog1.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -443,7 +443,7 @@
       "name": "🧲迅雷┃磁力🧲",
       "type": 3,
       "api": "csp_Xunlei8",
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wyog1.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/wyog1.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -453,7 +453,7 @@
       "name": "🧲Mp4┃磁力🧲",
       "type": 3,
       "api": "csp_Mp4Mov",
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wyog1.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/wyog1.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -463,7 +463,7 @@
       "name": "🧲酷吧┃磁力🧲",
       "type": 3,
       "api": "csp_KubaCL",
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wyog1.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/wyog1.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -473,7 +473,7 @@
       "name": "🧲美剧┃磁力🧲",
       "type": 3,
       "api": "csp_MeijuTT",
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wyog1.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/wyog1.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -548,7 +548,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://gitee.com/hackyjso/TVbox/main/json/bili.json",
+        "json": "https://gitee.com/hackyjso/TVbox@main/json/bili.json",
         "type": "帕梅拉#太极拳#广场舞#演唱会",
         "cookie": ""
       }
@@ -569,14 +569,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://gitee.com/hackyjso/TVbox/main/json/酷奇MV.json"
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://gitee.com/hackyjso/TVbox@main/json/酷奇MV.json"
     },
     {
       "key": "open_视聚场",
       "name": " 💘央视网┃直连💘",
       "type": 3,
-      "api": "https://gitee.com/hackyjso/TVbox/main/js/cntv_open.js",
+      "api": "https://gitee.com/hackyjso/TVbox@main/js/cntv_open.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -586,11 +586,11 @@
       "key": "cctv",
       "name": "💘CCTV｜大全💘",
       "type": 3,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/HCCX.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/HCCX.jar",
       "api": "csp_CCTV",
       "searchable": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/hackyjso/TVbox/main/json/央视大全.json"
+      "ext": "https://gitee.com/hackyjso/TVbox@main/json/央视大全.json"
     },
     {
       "key": "横版影院",
@@ -609,17 +609,17 @@
       "name": "📚幼小┃衔接📚",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wyxy.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/wyxy.jar",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/hackyjso/TVbox/main/json/哔哩幼小.json"
+      "ext": "https://gitee.com/hackyjso/TVbox@main/json/哔哩幼小.json"
     },
     {
       "key": "open_兔小贝",
       "name": "📚兔小贝📚",
       "type": 3,
-      "api": "https://gitee.com/hackyjso/TVbox/main/js/tuxiaobei_open.js",
+      "api": "https://gitee.com/hackyjso/TVbox@main/js/tuxiaobei_open.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -629,7 +629,7 @@
       "key": "open_贝乐虎",
       "name": "📚贝乐虎📚",
       "type": 3,
-      "api": "https://gitee.com/hackyjso/TVbox/main/js/ubestkid_open.js",
+      "api": "https://gitee.com/hackyjso/TVbox@main/js/ubestkid_open.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -640,7 +640,7 @@
       "name": "📚少儿┃教育📚",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/fan1.txt",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/fan1.txt",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -648,7 +648,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/hackyjso/TVbox/main/json/少儿教育.json"
+      "ext": "https://gitee.com/hackyjso/TVbox@main/json/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -662,8 +662,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/hackyjso/TVbox/main/json/小学课堂.json",
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/fan1.txt"
+      "ext": "https://gitee.com/hackyjso/TVbox@main/json/小学课堂.json",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/fan1.txt"
     },
     {
       "key": "初中课堂",
@@ -677,8 +677,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/hackyjso/TVbox/main/json/初中课堂.json",
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/fan1.txt"
+      "ext": "https://gitee.com/hackyjso/TVbox@main/json/初中课堂.json",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/fan1.txt"
     },
     {
       "key": "高中教育",
@@ -692,14 +692,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/hackyjso/TVbox/main/json/高中课堂.json",
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/fan1.txt"
+      "ext": "https://gitee.com/hackyjso/TVbox@main/json/高中课堂.json",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/fan1.txt"
     },
     {
       "key": "js_爱上你听书网",
       "name": "📚️┃听书┃爱尚📚️",
       "type": 3,
-      "api": "https://gitee.com/hackyjso/TVbox/main/drpy_js/libs/drpy2.min.js",
+      "api": "https://gitee.com/hackyjso/TVbox@main/drpy_js/libs/drpy2.min.js",
       "changeable": 0,
       "style": {
         "type": "rect",
@@ -711,43 +711,43 @@
       "key": "js_博看听书",
       "name": "📚️┃听书┃博看📚️",
       "type": 3,
-      "api": "https://gitee.com/hackyjso/TVbox/main/drpy_js/libs/drpy2.min.js",
+      "api": "https://gitee.com/hackyjso/TVbox@main/drpy_js/libs/drpy2.min.js",
       "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1
       },
-      "ext": "https://gitee.com/hackyjso/TVbox/main/drpy_js/js/bokan.js"
+      "ext": "https://gitee.com/hackyjso/TVbox@main/drpy_js/js/bokan.js"
     },
     {
       "key": "js_海洋听书",
       "name": "📚️┃听书┃海洋📚️",
       "type": 3,
-      "api": "https://gitee.com/hackyjso/TVbox/main/drpy_js/libs/drpy2.min.js",
+      "api": "https://gitee.com/hackyjso/TVbox@main/drpy_js/libs/drpy2.min.js",
       "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1
       },
-      "ext": "https://gitee.com/hackyjso/TVbox/main/drpy_js/js/sea.js"
+      "ext": "https://gitee.com/hackyjso/TVbox@main/drpy_js/js/sea.js"
     },
     {
       "key": "js_六月听书",
       "name": "📚️┃听书┃六月📚️",
       "type": 3,
-      "api": "https://gitee.com/hackyjso/TVbox/main/drpy_js/libs/drpy2.min.js",
+      "api": "https://gitee.com/hackyjso/TVbox@main/drpy_js/libs/drpy2.min.js",
       "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1
       },
-      "ext": "https://gitee.com/hackyjso/TVbox/main/drpy_js/js/6yue.js"
+      "ext": "https://gitee.com/hackyjso/TVbox@main/drpy_js/js/6yue.js"
     },
     {
       "key": "js_有声小说",
       "name": "📚️┃听书┃有声📚️",
       "type": 3,
-      "api": "https://gitee.com/hackyjso/TVbox/main/drpy_js/libs/drpy2.min.js",
+      "api": "https://gitee.com/hackyjso/TVbox@main/drpy_js/libs/drpy2.min.js",
       "changeable": 0,
       "style": {
         "type": "rect",
@@ -759,13 +759,13 @@
       "key": "js_中华听书网",
       "name": "📚️┃听书┃中华📚️",
       "type": 3,
-      "api": "https://gitee.com/hackyjso/TVbox/main/drpy_js/libs/drpy2.min.js",
+      "api": "https://gitee.com/hackyjso/TVbox@main/drpy_js/libs/drpy2.min.js",
       "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1
       },
-      "ext": "https://gitee.com/hackyjso/TVbox/main/drpy_js/js/zhonghua.js"
+      "ext": "https://gitee.com/hackyjso/TVbox@main/drpy_js/js/zhonghua.js"
     },
     {
       "key": "JustLive",
@@ -804,7 +804,7 @@
       "name": "🌐格斗┃给力🌐",
       "type": 3,
       "api": "csp_Wexwuxiang",
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/wex.jar",
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -817,7 +817,7 @@
       "name": "🌐88┃看球🌐",
       "type": 3,
       "api": "csp_Kanqiu",
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/wex.jar",
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -828,7 +828,7 @@
       "key": "企鹅体育xp",
       "name": "🐧大鹅┃看球🐧",
       "type": 3,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/wex.jar",
       "api": "csp_XPath",
       "style": {
         "type": "list"
@@ -836,17 +836,17 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitcode.net/wexfnw/wex/-/master/qie.json"
+      "ext": "https://gitcode.net/wexfnw/wex/-@master/qie.json"
     },
     {
       "key": "js_武享吧",
       "name": "🥎┃格斗┃直播🥎",
       "type": 3,
-      "api": "https://gitee.com/hackyjso/TVbox/main/drpy_js/libs/drpy2.min.js",
+      "api": "https://gitee.com/hackyjso/TVbox@main/drpy_js/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitee.com/hackyjso/TVbox/main/drpy_js/js/武享吧.js"
+      "ext": "https://gitee.com/hackyjso/TVbox@main/drpy_js/js/武享吧.js"
     },
     {
       "key": "Wexliyuan",
@@ -854,7 +854,7 @@
       "type": 3,
       "api": "csp_Wexliyuan",
       "searchable": 1,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/wex.jar",
       "changeable": 0,
       "style": {
         "type": "rect",
@@ -866,7 +866,7 @@
       "name": "💘跳舞┃教学💘",
       "type": 3,
       "api": "csp_Wextangdou",
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/wex.jar",
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -906,7 +906,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wyz1.jar"
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/wyz1.jar"
     },
     {
       "key": "相声",
@@ -919,7 +919,7 @@
       },
       "quickSearch": 0,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/XBPQ.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/XBPQ.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
       "ext": {
         "主页url": "https://www.xsmp3.com",
         "数组二次截取": "<ul id=\"post_list_box\">&&</ul",
@@ -954,7 +954,7 @@
       },
       "quickSearch": 0,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/XBPQ.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
+      "jar": "https://gitee.com/hackyjso/TVbox@main/jar/XBPQ.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
       "ext": {
         "主页url": "https://www.psmp3.com",
         "数组二次截取": "<ul id=\"post_list_box\">&&</ul",
@@ -1118,7 +1118,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/hackyjso/TVbox/main/json/alist.json"
+      "ext": "https://gitee.com/hackyjso/TVbox@main/json/alist.json"
     },
     {
       "key": "WebDAV",
@@ -1127,7 +1127,7 @@
       "api": "csp_WebDAV",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/hackyjso/TVbox/main/json/webdav.json"
+      "ext": "https://gitee.com/hackyjso/TVbox@main/json/webdav.json"
     },
     {
       "key": "易搜",
