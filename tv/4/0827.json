@@ -1,5 +1,5 @@
 {
-  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/custom_spider.jar;md5;ab9462dae7ab186527c41a163641cf14",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/custom_spider.jar;md5;ab9462dae7ab186527c41a163641cf14",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -9,7 +9,7 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/market.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/market.json"
     },
     {
       "key": "泥巴",
@@ -36,7 +36,7 @@
       "changeable": 0,
       "ext": {
         "token": "影視天下第一",
-        "filter": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/wogg.json"
+        "filter": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/wogg.json"
       }
     },
     {
@@ -46,7 +46,7 @@
       "api": "csp_Jianpian",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/jianpian.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/jianpian.json"
     },
     {
       "key": "獨播",
@@ -55,7 +55,7 @@
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/duboku.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/duboku.json"
     },
     {
       "key": "haiwaikan",
@@ -106,7 +106,7 @@
       "api": "csp_Douban",
       "searchable": 0,
       "changeable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/douban.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/douban.json"
     },
     {
       "key": "新6V",
@@ -204,7 +204,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/bili.json",
+        "json": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/bili.json",
         "type": "帕梅拉#太极拳#广场舞#演唱会",
         "cookie": ""
       }
@@ -213,7 +213,7 @@
       "key": "bili_open",
       "name": "哔哩貓",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/cat/js/bili_open.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/cat/js/bili_open.js",
       "searchable": 1,
       "changeable": 0,
       "ext": {
@@ -244,7 +244,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/alist.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/alist.json"
     },
     {
       "key": "WebDAV",
@@ -253,7 +253,7 @@
       "api": "csp_WebDAV",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/webdav.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/webdav.json"
     },
     {
       "key": "JustLive",
