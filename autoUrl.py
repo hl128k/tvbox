@@ -19,10 +19,11 @@ def main():
                  True, False,
                  False, True]
     for item in urlJson:
-        reqText = get_json(item["url"])
+        urlData = get_json(item["url"])
         for reI in range(len(reList)):
             urlName = item["name"]
             urlPath = item["path"]
+            reqText = urlData
             if urlName != "gaotianliuyun_0707":
                 reqText = reqText.replace("'./", "'" + urlPath) \
                     .replace('"./', '"' + urlPath)
