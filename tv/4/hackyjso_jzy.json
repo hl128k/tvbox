@@ -1,6 +1,6 @@
 {
   "spider": "https://gitee.com/hackyjso/TVbox/main/jar/custom_spider.txt",
-  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
       "key": "豆瓣",
@@ -37,15 +37,24 @@
         "ratio": 1.43
       }
     },
-    {
-      "key": "Wexduanjuvop",
-      "name": "💘短剧2┃直连💘",
-      "type": 3,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
-      "api": "csp_Wexduanjuvop",
-      "searchable": 1,
-      "changeable": 1
-    },
+      {
+        "key": "我的阿里",
+        "name": "💘我的┃阿里💘",
+        "type": 3,
+        "api": "csp_MyAli",
+        "jar": "https://gitee.com/hackyjso/TVbox/main/jar/danmu.jar",
+        "searchable": 0,
+        "quickSearch": 0,
+        "filterable": 0,
+        "indexs": 0,
+        "ext": {
+          "token": "file://TV/ali_token.txt"
+        },
+        "style": {
+          "type": "list"
+        },
+        "timeout": 30
+      },
     {
       "key": "Wexduanjuhema",
       "name": "💘短剧3┃直连💘",
@@ -77,6 +86,24 @@
       }
     },
     {
+      "key": "ShiJue",
+      "name": "💘珏珏┃弹幕💘",
+      "type": 3,
+      "api": "csp_ShiJue",
+      "filterable": 1,
+      "searchable": 1,
+      "ext": "https://www.80yy3.com/"
+    },
+    {
+      "key": "Wexkukantv",
+      "name": "💘酷看┃App💘",
+      "type": 3,
+      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
+      "api": "csp_Wexkukantv",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "Zuiju",
       "name": "💘好剧┃弹幕💘",
       "type": 3,
@@ -95,6 +122,35 @@
       "ext": "https://www.bttwoo.com/"
     },
     {
+      "key": "laikan",
+      "name": "💘莱莱┃弹幕💘",
+      "type": 3,
+      "api": "csp_Naikan",
+      "filterable": 1,
+      "searchable": 1,
+      "ext": "https://lkvod.us/"
+    },
+    {
+      "key": "賤賤",
+      "name": "💘贱贱┃直连💘",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "changeable": 1,
+      "playerType": 1,
+      "ext": "https://gitee.com/hackyjso/TVbox/main/json/jianpian.json"
+    },
+    {
+      "key": "天天",
+      "name": "💘天天┃弹幕💘",
+      "type": 3,
+      "api": "csp_TTian",
+      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wypg.jar",
+      "playerType": 1,
+      "changeable": 2,
+      "ext": "http://op.ysdqjs.cn$$$null$$$1"
+    },
+    {
       "key": "玩偶",
       "name": "💘玩偶┃阿里4K💘",
       "type": 3,
@@ -105,6 +161,26 @@
         "token": "",
         "url": "https://www.wogg.net/"
       }
+    },
+    {
+      "key": "drjs_子子影视",
+      "name": "💘子子┃直连💘",
+      "type": 3,
+      "api": "https://gitee.com/hackyjso/TVbox/main/drpy_js/libs/drpy.min.js",
+      "ext": "https://gitee.com/hackyjso/TVbox/main/drpy_js/js/子子影视.js"
+    },
+    {
+      "key": "subai",
+      "name": "💘素素┃弹幕💘",
+      "type": 3,
+      "api": "csp_Subaibai",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "header": {
+        "Referer": "https://www.subaibaiys.com/"
+      },
+      "ext": "https://www.subaibaiys.com/"
     },
     {
       "key": "玩偶1",
@@ -133,15 +209,93 @@
       "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
       "changeable": 1
     },
-    {
-      "key": "laikan",
-      "name": "💘莱莱┃直连💘",
-      "type": 3,
-      "api": "csp_Naikan",
-      "filterable": 1,
-      "searchable": 1,
-      "ext": "https://lkvod.us/"
-    },
+      {
+        "key": "土豆弹幕",
+        "name": "💘土豆┃4K弹幕💘",
+        "type": 3,
+        "api": "csp_Wobg",
+        "jar": "https://gitee.com/hackyjso/TVbox/main/jar/danmu.jar",
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "ext": {
+          "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+          "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+          "site": "https://tudou.lvdoui.top",
+          "danmu": true
+        },
+        "timeout": 25
+      },
+      {
+        "key": "玩偶表哥",
+        "name": "💘表哥┃4K弹幕💘",
+        "type": 3,
+        "api": "csp_Wobg",
+        "jar": "https://gitee.com/hackyjso/TVbox/main/jar/danmu.jar",
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "ext": {
+          "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+          "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+          "site": "https://wobge.run.goorm.io/",
+          "danmu": true
+        },
+        "timeout": 25
+      },
+      {
+        "key": "多多弹幕",
+        "name": "💘多多┃4K弹幕💘",
+        "type": 3,
+        "api": "csp_Wobg",
+        "jar": "https://gitee.com/hackyjso/TVbox/main/jar/danmu.jar",
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "ext": {
+          "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+          "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+          "site": "https://tv.yydsys.top/",
+          "danmu": true
+        },
+        "timeout": 25
+      },
+      {
+        "key": "团长弹幕",
+        "name": "💘团长┃4K弹幕💘",
+        "type": 3,
+        "api": "csp_Tzfile",
+        "jar": "https://gitee.com/hackyjso/TVbox/main/jar/danmu.jar",
+        "searchable": 1,
+        "filterable": 1,
+        "changeable": 1,
+        "ext": {
+          "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+          "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+          "danmu": true
+        },
+        "timeout": 25
+      },
+
+      {
+        "key": "阿里合集",
+        "name": "💘阿里┃合集💘",
+        "type": 3,
+        "jar": "https://gitee.com/hackyjso/TVbox/main/jar/danmu.jar",
+        "api": "csp_AliShare",
+        "searchable": 1,
+        "changeable": 0,
+        "filterable": 0,
+        "indexs": 0,
+        "ext": {
+          "token": "file://TV/ali_token.txt",
+          "share": "file://TV/阿里集合.json"
+        },
+        "style": {
+          "type": "list"
+        },
+        "timeout": 30
+      },
     {
       "key": "FreeOK",
       "name": " 💘FreeOK┃弹幕💘",
@@ -149,25 +303,6 @@
       "api": "csp_Freeok",
       "ext": "https://www.freeok.pro/",
       "嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/"
-    },
-    {
-      "key": "賤賤",
-      "name": "💘贱贱┃直连💘",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://gitee.com/hackyjso/TVbox/main/json/jianpian.json"
-    },
-    {
-      "key": "天天",
-      "name": "💘天天┃弹幕💘",
-      "type": 3,
-      "api": "csp_TTian",
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wypg.jar",
-      "playerType": 1,
-      "changeable": 2,
-      "ext": "http://op.ysdqjs.cn$$$null$$$1"
     },
     {
       "key": "南瓜",
@@ -196,15 +331,6 @@
       "changeable": 1
     },
     {
-      "key": "Wexkukantv",
-      "name": "💘酷看┃App💘",
-      "type": 3,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
-      "api": "csp_Wexkukantv",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "Wexjiajia",
       "name": "💘佳佳┃App💘",
       "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
@@ -213,7 +339,6 @@
       "searchable": 1,
       "changeable": 1
     },
-
     {
       "key": "NanGua",
       "name": "💘南瓜|直连💘",
@@ -259,42 +384,6 @@
       "api": "csp_Wexhanjutv",
       "searchable": 1,
       "changeable": 1
-    },
-    {
-      "key": "厂",
-      "name": "💘源源┃弹幕💘",
-      "type": 3,
-      "api": "csp_Czzy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.cz233.com/"
-    },
-    {
-      "key": "ShiJue",
-      "name": "💘珏珏┃弹幕💘",
-      "type": 3,
-      "api": "csp_ShiJue",
-      "filterable": 1,
-      "searchable": 1,
-      "ext": "https://www.80yy3.com/"
-    },
-    {
-      "key": "drjs_子子影视",
-      "name": "💘子子┃直连💘",
-      "type": 3,
-      "api": "https://gitee.com/hackyjso/TVbox/main/drpy_js/libs/drpy.min.js",
-      "ext": "https://gitee.com/hackyjso/TVbox/main/drpy_js/js/子子影视.js"
-    },
-    {
-      "key": "subai",
-      "name": "💘素素┃弹幕💘",
-      "type": 3,
-      "api": "csp_Subaibai",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.subaibaiys.com/"
     },
     {
       "key": "本地",
@@ -388,26 +477,6 @@
       "ext": "https://www.jugege.cc/"
     },
     {
-      "key": "热播",
-      "name": "💘热播┃直连💘",
-      "type": 3,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/fix24318.jar",
-      "api": "csp_TTian",
-      "playerType": 2,
-      "ext": "http://v.rbotv.cn"
-    },
-    {
-      "key": "Lib",
-      "name": "💘Lib┃直连💘",
-      "type": 3,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/fix24318.jar",
-      "api": "csp_Lib",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://www.libvio.pw/static/js/playerconfig.js"
-    },
-    {
       "key": "XBPQ_星辰",
       "name": "💘辰辰┃嗅探💘",
       "type": 3,
@@ -493,13 +562,6 @@
       "api": "csp_PiaoHua",
       "searchable": 1,
       "changeable": 0
-    },
-    {
-      "key": "drpy_js_百忙无果",
-      "name": "💘果果┃官源💘",
-      "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
     },
     {
       "key": "drpy_js_优酷",
@@ -591,18 +653,6 @@
       "searchable": 0,
       "filterable": 0,
       "ext": "https://gitee.com/hackyjso/TVbox/main/json/央视大全.json"
-    },
-    {
-      "key": "横版影院",
-      "name": "💕短剧💕",
-      "type": 1,
-      "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "短剧"
-      ]
     },
     {
       "key": "幼儿教育",
