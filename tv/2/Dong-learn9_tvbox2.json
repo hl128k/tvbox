@@ -1,5 +1,5 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716742624054/fan.txt;md5;31e6192040d63714d063d5a5aba287a9",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716886207700/fan.txt;md5;f102160567e405c643a05358ec9d8f0c9",
     "lives": [
         {
             "name": "ipv6",
@@ -76,7 +76,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://czzy.top/"
+            "ext": "https://www.czys.top/"
         },
         {
             "key": "比特",
@@ -229,6 +229,60 @@
             "ext": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/xBPQ/白嫖影视.json"
         },
         {
+            "key": "蘑菇",
+            "name": "蘑菇┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": {
+                "主页url": "https://www.moguys.work/",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+                "搜索url": "https://www.moguys.work/vodsearch/-------------.html?wd={wd}",
+                "分类url": "https://www.moguys.work/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;ak"
+            }
+        },
+        {
+            "key": "saohuo",
+            "name": "骚火┃BPQ",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 0,
+            "quickSearch": 1,
+            "playerType": "2",
+            "api": "csp_XBPQ",
+            "jar": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": {
+                "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
+                "分类url": "https://saohuo.tv/list/{cateId}-{catePg}.html;;vr1au0",
+                "倒序": "1",
+                "分类": "动漫$4#电影$1#电视剧$2#港剧$21#韩剧$22#台剧$26#日剧$24#美剧$23",
+                "数组二次截取": "class=\"v_list\">&&</ul>",
+                "数组": "\"v_img\"&&/div>",
+                "标题": "title=\"&&\"",
+                "副标题": "v_note\"&&</div",
+                "跳转播放链接": "<iframe*src=\"&&\"",
+                "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
+                "三次跳转播放链接": "\"url\"*\"&&\""
+            }
+        },
+        {
+            "key": "csp_看客网",
+            "name": "看客┃BPQ",
+            "type": 3,
+            "playerType": "1",
+            "api": "csp_XBPQ",
+            "jar": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": {
+                "分类url": "https://kanke.cc/Show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;ax",
+                "分类": "剧库$1#影库$2#番剧$4#记录$3",
+                "数组二次截取": "class=\"pic-list&&</ul",
+                "数组": "<li>&&</li",
+                "线路数组": "class=\"py-tabs&&</select>"
+            }
+        },
+        {
             "key": "XBPQ_4k影视",
             "name": "影视┃BPQ",
             "jar": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
@@ -315,52 +369,6 @@
             },
             "changeable": 0,
             "ext": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JS/js/JustLive.js"
-        },
-        {
-            "key": "49zy",
-            "name": "49┃资源",
-            "type": 1,
-            "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "categories": [
-                "短剧",
-                "国产剧",
-                "纪录片",
-                "欧美剧",
-                "香港剧",
-                "动作片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "喜剧片",
-                "动画片",
-                "犯罪片",
-                "韩国剧",
-                "动漫",
-                "电影",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺",
-                "台湾剧",
-                "国产动漫",
-                "日本动漫",
-                "欧美动漫",
-                "泰国剧",
-                "日剧",
-                "电影解说",
-                "奇幻片",
-                "灾难片",
-                "悬疑片",
-                "其他片",
-                "体育赛事",
-                "海外剧"
-            ]
         },
         {
             "key": "量子资源",
