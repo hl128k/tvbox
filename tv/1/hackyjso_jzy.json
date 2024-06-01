@@ -1,6 +1,7 @@
 {
   "spider": "https://gitee.com/hackyjso/TVbox/main/jar/custom_spider.txt",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "logo": "https://gitee.com/hackyjso/TVbox/main/logo.gif",
   "sites": [
     {
       "key": "豆瓣",
@@ -37,24 +38,24 @@
         "ratio": 1.43
       }
     },
-      {
-        "key": "我的阿里",
-        "name": "💘我的┃阿里💘",
-        "type": 3,
-        "api": "csp_MyAli",
-        "jar": "https://gitee.com/hackyjso/TVbox/main/jar/danmu.jar",
-        "searchable": 0,
-        "quickSearch": 0,
-        "filterable": 0,
-        "indexs": 0,
-        "ext": {
-          "token": "file://TV/ali_token.txt"
-        },
-        "style": {
-          "type": "list"
-        },
-        "timeout": 30
+    {
+      "key": "我的阿里",
+      "name": "💘我的┃阿里💘",
+      "type": 3,
+      "api": "csp_MyAli",
+      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/danmu.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "indexs": 0,
+      "ext": {
+        "token": "file://TV/ali_token.txt"
       },
+      "style": {
+        "type": "list"
+      },
+      "timeout": 30
+    },
     {
       "key": "Wexduanjuhema",
       "name": "💘短剧3┃直连💘",
@@ -102,14 +103,6 @@
       "api": "csp_Wexkukantv",
       "searchable": 1,
       "changeable": 1
-    },
-    {
-      "key": "Zuiju",
-      "name": "💘好剧┃弹幕💘",
-      "type": 3,
-      "api": "csp_Zuiju",
-      "searchable": 1,
-      "quickSearch": 1
     },
     {
       "key": "两个BT",
@@ -209,93 +202,92 @@
       "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
       "changeable": 1
     },
-      {
-        "key": "土豆弹幕",
-        "name": "💘土豆┃4K弹幕💘",
-        "type": 3,
-        "api": "csp_Wobg",
-        "jar": "https://gitee.com/hackyjso/TVbox/main/jar/danmu.jar",
-        "quickSearch": 1,
-        "changeable": 1,
-        "filterable": 1,
-        "ext": {
-          "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-          "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-          "site": "https://tudou.lvdoui.top",
-          "danmu": true
-        },
-        "timeout": 25
+    {
+      "key": "土豆弹幕",
+      "name": "💘土豆┃4K弹幕💘",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/danmu.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "site": "https://tudou.lvdoui.top",
+        "danmu": true
       },
-      {
-        "key": "玩偶表哥",
-        "name": "💘表哥┃4K弹幕💘",
-        "type": 3,
-        "api": "csp_Wobg",
-        "jar": "https://gitee.com/hackyjso/TVbox/main/jar/danmu.jar",
-        "quickSearch": 1,
-        "changeable": 1,
-        "filterable": 1,
-        "ext": {
-          "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-          "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-          "site": "https://wobge.run.goorm.io/",
-          "danmu": true
-        },
-        "timeout": 25
+      "timeout": 25
+    },
+    {
+      "key": "玩偶表哥",
+      "name": "💘表哥┃4K弹幕💘",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/danmu.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "site": "https://wobge.run.goorm.io/",
+        "danmu": true
       },
-      {
-        "key": "多多弹幕",
-        "name": "💘多多┃4K弹幕💘",
-        "type": 3,
-        "api": "csp_Wobg",
-        "jar": "https://gitee.com/hackyjso/TVbox/main/jar/danmu.jar",
-        "quickSearch": 1,
-        "changeable": 1,
-        "filterable": 1,
-        "ext": {
-          "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-          "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-          "site": "https://tv.yydsys.top/",
-          "danmu": true
-        },
-        "timeout": 25
+      "timeout": 25
+    },
+    {
+      "key": "多多弹幕",
+      "name": "💘多多┃4K弹幕💘",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/danmu.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "site": "https://tv.yydsys.top/",
+        "danmu": true
       },
-      {
-        "key": "团长弹幕",
-        "name": "💘团长┃4K弹幕💘",
-        "type": 3,
-        "api": "csp_Tzfile",
-        "jar": "https://gitee.com/hackyjso/TVbox/main/jar/danmu.jar",
-        "searchable": 1,
-        "filterable": 1,
-        "changeable": 1,
-        "ext": {
-          "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-          "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-          "danmu": true
-        },
-        "timeout": 25
+      "timeout": 25
+    },
+    {
+      "key": "团长弹幕",
+      "name": "💘团长┃4K弹幕💘",
+      "type": 3,
+      "api": "csp_Tzfile",
+      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/danmu.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "danmu": true
       },
-
-      {
-        "key": "阿里合集",
-        "name": "💘阿里┃合集💘",
-        "type": 3,
-        "jar": "https://gitee.com/hackyjso/TVbox/main/jar/danmu.jar",
-        "api": "csp_AliShare",
-        "searchable": 1,
-        "changeable": 0,
-        "filterable": 0,
-        "indexs": 0,
-        "ext": {
-          "token": "file://TV/ali_token.txt",
-          "share": "file://TV/阿里集合.json"
-        },
-        "style": {
-          "type": "list"
-        },
-        "timeout": 30
+      "timeout": 25
+    },
+    {
+      "key": "阿里合集",
+      "name": "💘阿里┃合集💘",
+      "type": 3,
+      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/danmu.jar",
+      "api": "csp_AliShare",
+      "searchable": 1,
+      "changeable": 0,
+      "filterable": 0,
+      "indexs": 0,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "share": "file://TV/阿里集合.json"
       },
+      "style": {
+        "type": "list"
+      },
+      "timeout": 30
+    },
     {
       "key": "FreeOK",
       "name": " 💘FreeOK┃弹幕💘",
