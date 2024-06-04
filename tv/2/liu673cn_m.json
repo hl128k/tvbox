@@ -1,6 +1,6 @@
 //以下内容为互联网收集，只为自用。
 {
-  "spider": "https://gcore.jsdelivr.net/gh/liu673cn/box@main/fty.jar;md5;31e6192040d63714d063d5a5aba287a9",
+  "spider": "https://gcore.jsdelivr.net/gh/liu673cn/box@main/fty.jar;md5;6adeb73add2066fe62257d2337084da2",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
    "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
    "sites": [
@@ -20,7 +20,7 @@
     {"key": "csp_XYQ素白白","name": "⛈┃素白白┃影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gcore.jsdelivr.net/gh/liu673cn/box@main/libs/jar/XYQH.jar","ext": "https://gcore.jsdelivr.net/gh/liu673cn/box@main/libs/xyq/素白白.json"},
     {"key": "csp_XYQ电影牛","name": "🍖┃电影牛┃影院","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gcore.jsdelivr.net/gh/liu673cn/box@main/libs/jar/XYQH.jar","ext": "https://gcore.jsdelivr.net/gh/liu673cn/box@main/libs/xyq/电影牛.json"},
 
-    {"key": "玩偶","name": "👽玩偶哥哥┃4K弹幕","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {  "aliToken": "tvfan/token.txt",  "quarkCookie": "tvfan/cookie.txt",  "from": "4k|auto|fhd",  "siteUrl": "https://api.wogg.xyz/",  "danMu": "弹"}
+    {"key": "玩偶","name": "👽玩偶哥哥┃4K弹幕","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {  "aliToken": "tvfan/token.txt",  "quarkCookie": "tvfan/cookie.txt",  "from": "4k|auto|fhd",  "siteUrl": "https://www.wogg.link/",  "danMu": "弹"}
     },
     {"key": "YGP","name": "🚀┃叨观┃新片","type": 3,"api": "csp_YGP","searchable": 0,"quickSearch": 0,"changeable": 0
     },
