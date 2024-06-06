@@ -1,7 +1,6 @@
 {
   "spider": "https://gitee.com/hackyjso/TVbox/main/jar/custom_spider.txt",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
-  "logo": "https://gitee.com/hackyjso/TVbox/main/logo.gif",
   "sites": [
     {
       "key": "豆瓣",
@@ -57,34 +56,13 @@
       "timeout": 30
     },
     {
-      "key": "Wexduanjuhema",
-      "name": "💘短剧3┃直连💘",
+      "key": "Wexduanjuvip",
+      "name": "💘短剧💘",
       "type": 3,
-      "api": "csp_Wexduanjuhema",
       "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
+      "api": "csp_Wexduanjuvip",
       "searchable": 1,
       "changeable": 1
-    },
-    {
-      "key": "Wexduanjuv1mp",
-      "name": "💘短剧4┃直连💘",
-      "type": 3,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
-      "api": "csp_Wexduanjuvmp",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexduanjuquark",
-      "name": "💘短劇┃夸克💘",
-      "type": 3,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
-      "api": "csp_Wexduanjuquark",
-      "searchable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "list"
-      }
     },
     {
       "key": "ShiJue",
@@ -305,11 +283,29 @@
       "ext": "http://ys.changmengyun.com"
     },
     {
-      "key": "Wexxpgtv",
-      "name": "💘苹果┃App💘",
+      "key": "Wexhanxiaoquan",
+      "name": "💘韩圈┃App💘",
       "type": 3,
       "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
-      "api": "csp_Wexxpgtv",
+      "api": "csp_Wexhanxiaoquan",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexdiguatv",
+      "name": "💘好剧┃App💘",
+      "type": 3,
+      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
+      "api": "csp_Wexdiguatv",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexshandian",
+      "name": "💘闪电┃直连💘",
+      "type": 3,
+      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
+      "api": "csp_Wexshandian",
       "searchable": 1,
       "changeable": 1
     },
@@ -342,38 +338,11 @@
       "ext": "null$$$1"
     },
     {
-      "key": "兄弟影视",
-      "name": "💘兄弟┃影视💘",
+      "key": "Wexwencai",
+      "name": "💘文文┃直连💘",
       "type": 3,
-      "api": "csp_Wexxiongdiys",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/ou.jar"
-    },
-    {
-      "key": "腐剧视频",
-      "name": "💘腐剧┃影视💘",
-      "type": 3,
-      "api": "csp_WexFujutv",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/ou.jar"
-    },
-    {
-      "key": "Wexhanxiaoquan",
-      "name": "💘韩圈┃App💘",
-      "type": 3,
+      "api": "csp_Wexwencai",
       "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
-      "api": "csp_Wexhanxiaoquan",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexhanjutv",
-      "name": "💘韩剧┃App💘",
-      "type": 3,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
-      "api": "csp_Wexhanjutv",
       "searchable": 1,
       "changeable": 1
     },
@@ -450,13 +419,6 @@
       "type": 3,
       "api": "https://gitee.com/hackyjso/TVbox/main/drpy_js/libs/drpy.min.js",
       "ext": "https://gitee.com/hackyjso/TVbox/main/drpy_js/js/8号影院.js"
-    },
-    {
-      "key": "drjs_热播库",
-      "name": "💘热播库┃嗅探💘",
-      "type": 3,
-      "api": "https://gitee.com/hackyjso/TVbox/main/drpy_js/libs/drpy.min.js",
-      "ext": "https://gitee.com/hackyjso/TVbox/main/drpy_js/js/热播库.js"
     },
     {
       "key": "Jugege",
@@ -842,19 +804,6 @@
       "changeable": 0
     },
     {
-      "key": "Wexwuxiang",
-      "name": "🌐格斗┃给力🌐",
-      "type": 3,
-      "api": "csp_Wexwuxiang",
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 2
-      }
-    },
-    {
       "key": "看球",
       "name": "🌐88┃看球🌐",
       "type": 3,
@@ -891,52 +840,10 @@
       "ext": "https://gitee.com/hackyjso/TVbox/main/drpy_js/js/武享吧.js"
     },
     {
-      "key": "Wexliyuan",
-      "name": "💘戏曲┃秒播💘",
-      "type": 3,
-      "api": "csp_Wexliyuan",
-      "searchable": 1,
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 2
-      }
-    },
-    {
-      "key": "Wextangdou",
-      "name": "💘跳舞┃教学💘",
-      "type": 3,
-      "api": "csp_Wextangdou",
-      "jar": "https://gitee.com/hackyjso/TVbox/main/jar/wex.jar",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 2
-      }
-    },
-    {
-      "key": "櫻花",
-      "name": "💘櫻花┃动漫💘",
-      "type": 3,
-      "api": "csp_Ying",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "巴士",
       "name": "💘巴士┃动漫💘",
       "type": 3,
       "api": "csp_Dm84",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "異界",
-      "name": "💘異界┃动漫💘",
-      "type": 3,
-      "api": "csp_Ysj",
       "searchable": 1,
       "changeable": 1
     },
@@ -1019,14 +926,6 @@
         "分类url": "https://www.psmp3.com/{cateId}/{catePg}.html;;av",
         "分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
       }
-    },
-    {
-      "key": "Voflix",
-      "name": "💘Voflix┃接口💘",
-      "type": 3,
-      "api": "csp_Voflix",
-      "searchable": 1,
-      "ext": "https://www.voflix.me/"
     },
     {
       "key": "xml_火狐",
