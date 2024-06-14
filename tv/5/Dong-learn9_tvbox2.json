@@ -1,5 +1,5 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717839432492/fan.txt;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26",
+    "spider": "https://fastly.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/fan.jar",
     "lives": [
         {
             "name": "ipv6",
@@ -369,32 +369,6 @@
             },
             "changeable": 0,
             "ext": "https://fastly.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JS/js/JustLive.js"
-        },
-        {
-            "key": "量子资源",
-            "name": "量子┃资源",
-            "type": 1,
-            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-            "playurl": "json:https://tvmvip.com/lz2.php?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "categories": [
-                "国产剧",
-                "国产动漫",
-                "泰国剧",
-                "台湾剧",
-                "香港剧",
-                "欧美剧",
-                "韩国剧",
-                "日本剧",
-                "动漫",
-                "体育",
-                "剧情片",
-                "动作片",
-                "爱情片",
-                "喜剧片"
-            ]
         },
         {
             "key": "360资源",
