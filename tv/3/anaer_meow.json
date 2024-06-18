@@ -1,12 +1,11 @@
 {
-    "updateTime": "2024-06-16 18:02:29",
+    "updateTime": "2024-06-18 22:10:07",
     "wallpapers": [
         "https://bing.img.run/rand.php",
         "https://api.lyiqk.cn/scenery",
         "https://picsum.photos/1920/1080",
         "https://source.unsplash.com/user/erondu/1920x1080",
-        "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-        "https://xn--spsx60cgim8pd.xxooo.cf/"
+        "https://tuapi.eees.cc/api.php?category=fengjing&type=302"
     ],
     "sites": [
         {
@@ -330,22 +329,28 @@
                     "name": "北京卫视",
                     "tvg_name": "北京卫视",
                     "urls": [
-                        "http://39.134.67.185/PLTV/88888888/224/3221225678/index.m3u8",
                         "http://39.134.65.173/PLTV/88888888/224/3221225678/1.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8",
-                        "http://39.134.65.166/PLTV/88888888/224/3221225678/1.m3u8",
-                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8"
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8",
+                        "http://39.134.65.179/PLTV/88888888/224/3221225678/1.m3u8",
+                        "http://39.134.65.164/PLTV/88888888/224/3221225678/1.m3u8"
+                    ]
+                },
+                {
+                    "name": "北京卫视「IPV6」",
+                    "urls": [
+                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8"
                     ]
                 },
                 {
                     "name": "江苏卫视",
                     "tvg_name": "江苏卫视",
                     "urls": [
-                        "http://39.134.67.110/PLTV/88888888/224/3221225938/index.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8",
-                        "http://39.134.66.110/PLTV/88888888/224/3221225503/index.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8",
-                        "http://39.134.66.2/PLTV/88888888/224/3221225503/index.m3u8"
+                        "http://39.134.65.130/PLTV/88888888/224/3221225503/1.m3u8",
+                        "http://39.134.65.173/PLTV/88888888/224/3221225503/1.m3u8",
+                        "http://39.134.65.183/PLTV/88888888/224/3221225503/1.m3u8"
                     ]
                 },
                 {
@@ -353,21 +358,21 @@
                     "tvg_name": "浙江卫视",
                     "urls": [
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8",
-                        "http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8",
-                        "http://39.134.66.2/PLTV/88888888/224/3221225514/index.m3u8",
-                        "http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/1.m3u8"
+                        "http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/1.m3u8",
+                        "http://39.134.65.179/PLTV/88888888/224/3221225514/1.m3u8",
+                        "http://39.134.65.175/PLTV/88888888/224/3221225514/1.m3u8"
                     ]
                 },
                 {
                     "name": "湖南卫视",
                     "tvg_name": "湖南卫视",
                     "urls": [
-                        "http://39.134.65.162/PLTV/88888888/224/3221225506/index.m3u8",
                         "http://39.134.65.181/PLTV/88888888/224/3221225506/1.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8",
-                        "http://39.134.66.110/PLTV/88888888/224/3221225977/index.m3u8",
-                        "http://39.134.66.110/PLTV/88888888/224/3221225506/index.m3u8"
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8",
+                        "http://39.134.65.183/PLTV/88888888/224/3221225506/1.m3u8",
+                        "http://39.134.65.175/PLTV/88888888/224/3221225506/1.m3u8"
                     ]
                 }
             ]
@@ -391,10 +396,10 @@
                     "tvg_name": "CCTV1",
                     "urls": [
                         "http://39.135.137.205/PLTV/88888888/224/3221225816/1.m3u8",
-                        "http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8",
                         "http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8",
                         "http://39.135.133.178:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8",
-                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8"
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8",
+                        "http://39.134.65.141/PLTV/88888888/224/3221225816/1.m3u8"
                     ]
                 },
                 {
@@ -402,10 +407,10 @@
                     "tvg_name": "CCTV3",
                     "urls": [
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8",
-                        "http://39.134.67.226/PLTV/88888888/224/3221225799/index.m3u8",
-                        "http://39.134.65.175/PLTV/88888888/224/3221225799/index.m3u8",
-                        "http://39.134.65.181/PLTV/88888888/224/3221225799/index.m3u8",
-                        "http://39.134.66.46/PLTV/88888888/224/3221225799/index.m3u8"
+                        "http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8",
+                        "http://39.134.65.141/PLTV/88888888/224/3221225799/1.m3u8",
+                        "http://39.134.65.179/PLTV/88888888/224/3221225799/1.m3u8",
+                        "http://39.134.65.181/PLTV/88888888/224/3221225799/1.m3u8"
                     ]
                 },
                 {
@@ -421,22 +426,22 @@
                     "name": "CCTV-5+体育赛事",
                     "tvg_name": "CCTV5+",
                     "urls": [
-                        "http://39.134.65.181/PLTV/88888888/224/3221225507/index.m3u8",
-                        "http://39.134.65.173/PLTV/88888888/224/3221225507/index.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8",
-                        "http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8",
-                        "http://39.134.65.183/PLTV/88888888/224/3221225507/index.m3u8"
+                        "http://39.134.67.6:80/wh7f454c46tw2029879648_2093826562/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/15903942991.m3u8",
+                        "http://39.134.67.6:80/wh7f454c46tw2029879648_2093826562/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/1590394299-1.m3u8",
+                        "http://39.134.65.181/PLTV/88888888/224/3221225507/1.m3u8",
+                        "http://39.134.65.173/PLTV/88888888/224/3221225507/1.m3u8"
                     ]
                 },
                 {
                     "name": "CCTV-5体育",
                     "tvg_name": "CCTV5",
                     "urls": [
-                        "http://39.134.66.2/PLTV/88888888/224/3221225818/index.m3u8",
-                        "http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8",
-                        "http://39.134.67.226/PLTV/88888888/224/3221225818/index.m3u8",
-                        "http://39.134.65.179/PLTV/88888888/224/3221225818/index.m3u8"
+                        "http://39.134.65.181/PLTV/88888888/224/3221225818/1.m3u8",
+                        "http://39.134.65.173/PLTV/88888888/224/3221225818/1.m3u8",
+                        "http://39.134.65.141:80/PLTV/88888888/224/3221225818/1.m3u8",
+                        "http://39.134.65.179/PLTV/88888888/224/3221225818/1.m3u8"
                     ]
                 },
                 {
@@ -444,21 +449,28 @@
                     "tvg_name": "CCTV6",
                     "urls": [
                         "http://39.134.65.177/PLTV/88888888/224/3221225814/1.m3u8",
-                        "http://39.134.65.181/PLTV/88888888/224/3221225814/index.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8",
-                        "http://39.134.66.2/PLTV/88888888/224/3221225814/index.m3u8",
-                        "http://39.134.65.173/PLTV/88888888/224/3221225814/index.m3u8"
+                        "http://39.134.65.181/PLTV/88888888/224/3221225814/1.m3u8",
+                        "http://39.134.65.183/PLTV/88888888/224/3221225814/1.m3u8",
+                        "http://39.134.65.175/PLTV/88888888/224/3221225814/1.m3u8"
+                    ]
+                },
+                {
+                    "name": "CCTV-8K超高清",
+                    "urls": [
+                        "http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/4/224/3221228132/1.m3u8",
+                        "https://pi.0472.org/live/cctv8k.m3u8?token=241703"
                     ]
                 },
                 {
                     "name": "CCTV-8电视剧",
                     "tvg_name": "CCTV8",
                     "urls": [
-                        "http://39.134.65.181/PLTV/88888888/224/3221225795/index.m3u8",
-                        "http://39.134.66.2/PLTV/88888888/224/3221225795/index.m3u8",
-                        "http://39.134.65.175/PLTV/88888888/224/3221225795/index.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8",
-                        "http://39.134.65.177/PLTV/88888888/224/3221225795/1.m3u8"
+                        "http://39.134.65.177/PLTV/88888888/224/3221225795/1.m3u8",
+                        "http://39.134.65.181/PLTV/88888888/224/3221225795/1.m3u8",
+                        "http://39.134.65.173/PLTV/88888888/224/3221225795/1.m3u8",
+                        "http://39.134.65.183/PLTV/88888888/224/3221225795/1.m3u8"
                     ]
                 }
             ]
