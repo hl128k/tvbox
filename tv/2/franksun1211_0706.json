@@ -1,8 +1,9 @@
 ##from alan-X
 {
 //"spider":"https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/pg.jar",
-"spider":"https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/fan.txt",
+//"spider":"https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/fan.txt",
 //"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714125698234/fan.txt",
+"spider":"https://gcore.jsdelivr.net/gh/bluefriendCN/bin@main/Yoursmile.jar",
 "sites":[
 
 {"key":"豆豆","name":"🔍豆瓣推荐","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
