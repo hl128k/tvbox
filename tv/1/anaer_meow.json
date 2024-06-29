@@ -1,5 +1,5 @@
 {
-    "updateTime": "2024-06-28 21:43:31",
+    "updateTime": "2024-06-29 18:18:58",
     "wallpapers": [
         "https://bing.img.run/rand.php",
         "https://api.lyiqk.cn/scenery",
@@ -583,6 +583,7 @@
                     "tvg_name": "游戏风云",
                     "urls": [
                         "http://60.27.20.217:4022/rtp/225.1.1.135:5002",
+                        "http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000011&IASHttpSessionId=OTT19019320240419154124000281&yang-1989",
                         "http://guany.myds.me:25852/udp/233.50.201.183:5140"
                     ]
                 }
@@ -1434,6 +1435,7 @@
         "milai.mp4",
         "tjx.m3u8",
         "txmov2.a.yximgs.com",
+        "xiaohai.mp4",
         "xiaoxin.m3u8",
         "xyfd.m3u8",
         "xyqf.m3u8",
