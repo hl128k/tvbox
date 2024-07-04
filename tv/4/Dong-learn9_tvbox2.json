@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/fan.jar",
+    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/fan.jar;md5;5640a8ad5bd5face5679bd8d6d73d44a",
     "lives": [
         {
             "name": "ipv6",
@@ -126,7 +126,7 @@
             "type": 3,
             "api": "csp_Xunlei8",
             "changeable": 1,
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/pg.jar",
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/pg.jar;md5;47F17E8C59B4687E50FDA4F62908C95B",
             "timeout": 60
         },
         {
@@ -575,7 +575,7 @@
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/pg.jar",
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/pg.jar;md5;47F17E8C59B4687E50FDA4F62908C95B",
             "ext": "https://fm.t4tv.hz.cz/json/market.json"
         },
         {
