@@ -1,5 +1,5 @@
 {
-    "updateTime": "2024-07-09 19:39:41",
+    "updateTime": "2024-07-11 21:28:12",
     "wallpapers": [
         "https://bing.img.run/rand.php",
         "https://api.lyiqk.cn/scenery",
@@ -10,305 +10,308 @@
     ],
     "sites": [
         {
-            "key": "ad1116ca9a9b3057570066086c9c9698",
-            "name": "①非凡",
-            "type": 1,
-            "api": "http://ffzy4.tv/api.php/provide/vod/"
-        },
-        {
-            "key": "cf97f252cca094245f27f5ddce5a995f",
-            "name": "②非凡",
-            "type": 1,
-            "api": "http://ffzy2.tv/api.php/provide/vod/"
-        },
-        {
-            "key": "f33c5418eb69aab4b65b8925ca7f55d6",
-            "name": "③影图",
-            "type": 1,
-            "api": "https://cj.vodimg.top/api.php/provide/vod/"
-        },
-        {
-            "key": "e9857f1b117dc5c1e4750bcc36da6e35",
-            "name": "④阿里",
-            "type": 1,
-            "api": "http://aliys.cn:90/api.php/provide/vod/"
-        },
-        {
-            "key": "c8af26ef0238ad65540ef8c8a2a1d738",
-            "name": "⑤量子",
-            "type": 1,
-            "api": "https://cj.lziapi.com/api.php/provide/vod/"
-        },
-        {
             "key": "411fd4fd74ef8361869eb302bd0a9ba1",
-            "name": "⑥1080",
+            "name": "①1080",
             "type": 0,
             "api": "https://api.1080zyku.com/inc/ldg_api_all.php"
         },
         {
+            "key": "f33c5418eb69aab4b65b8925ca7f55d6",
+            "name": "②影图",
+            "type": 1,
+            "api": "https://cj.vodimg.top/api.php/provide/vod/"
+        },
+        {
             "key": "f6938ae0ad85f4907983945a086626f9",
-            "name": "⑦1080",
+            "name": "③1080",
             "type": 0,
             "api": "https://api.1080zyku.com/inc/api.php"
         },
         {
-            "key": "992ae5cbb1c5c2b16e7d2858d94a9384",
-            "name": "⑧1080",
+            "key": "c79db0e3e5d758257648211297323b96",
+            "name": "④票厂",
             "type": 1,
-            "api": "https://api.1080zyku.com/inc/api_mac10.php"
+            "api": "http://101.43.119.105:88/api.php/provide/vod/"
         },
         {
-            "key": "8d10cad25b52a4e0ffe865c724d829db",
-            "name": "⑨小猫咪",
+            "key": "d86de5ce99a1b966e619cb35115256dd",
+            "name": "⑤光速",
             "type": 1,
-            "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/"
+            "api": "http://tv.52ddw.com/api.php/provide/vod/"
         },
         {
-            "key": "2d50e74976a7802fd673d75738bce50e",
-            "name": "⑩1080",
+            "key": "fb24b229a7bd5dcbb3068807a4cd7828",
+            "name": "⑥壹梦",
             "type": 1,
-            "api": "https://api.1080zyku.com/inc/apijson.php"
+            "api": "http://110.42.99.99:3976/api.php/provide/vod/",
+            "filterable": 0
         },
         {
-            "key": "a794df941b177a5eb1e4e991fb5eaccb",
-            "name": "⑪非凡",
-            "type": 1,
-            "api": "http://www.ffzy.tv/api.php/provide/vod/"
+            "key": "b7487279afa65ff49847bc43f8aa8def",
+            "name": "⑦无尽",
+            "type": 0,
+            "api": "https://api.wujinapi.net/api.php/provide/vod/at/xml"
         },
         {
-            "key": "bd8fe60943cf1e350c1498fcb09981ea",
-            "name": "⑫金鹰",
-            "type": 1,
-            "api": "https://jyzyapi.com/provide/vod/"
+            "key": "1a217dd1a106df937e230b605726d197",
+            "name": "⑧极速",
+            "type": 0,
+            "api": "https://jszyapi.com/api.php/provide/vod/at/xml"
         },
         {
-            "key": "3a565658ffb7ec926e61756240866e64",
-            "name": "⑬无尽",
-            "type": 1,
-            "api": "https://api.wujinapi.com/api.php/provide/vod/"
+            "key": "f1c74641510fb9d80b159427337c34cc",
+            "name": "⑨天空",
+            "type": 0,
+            "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml"
         },
         {
-            "key": "740e5d81e28de3ab97eab19f0ce6cf1d",
-            "name": "⑭暴风",
-            "type": 1,
-            "api": "https://bfzyapi.com/api.php/provide/vod/"
-        },
-        {
-            "key": "b76a940e9785b5348840472552e70374",
-            "name": "⑮红牛",
-            "type": 1,
-            "api": "https://www.hongniuzy2.com/api.php/provide/vod/"
-        },
-        {
-            "key": "bfe3ee93fb2c0bfe6371e81055b6beb9",
-            "name": "⑯光速",
-            "type": 1,
-            "api": "https://api.guangsuapi.com/api.php/provide/vod/"
-        },
-        {
-            "key": "f392a6508debf453628b2713b0ee0a47",
-            "name": "⑰樱花",
-            "type": 1,
-            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/"
-        },
-        {
-            "key": "de35b0afa75598ab506891123e6d8cb8",
-            "name": "⑱索尼",
-            "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod/"
-        },
-        {
-            "key": "a31ffacb5ccc0e8d3f073b488fe7a9f6",
-            "name": "⑲虎牙",
-            "type": 1,
-            "api": "https://www.huyaapi.com/api.php/provide/vod/"
-        },
-        {
-            "key": "813b76169106affb1fb9655f46f07034",
-            "name": "⑳映迷",
-            "type": 1,
-            "api": "https://www.inmi.app/api.php/provide/vod/"
-        },
-        {
-            "key": "82d3dd9e4265b105d8c5e37bb0b33d11",
-            "name": "㉑飞刀",
-            "type": 1,
-            "api": " http://www.feidaozy.com/api.php/provide/vod/"
+            "key": "e173267b0d7e1f1a1189c22c3bb7b556",
+            "name": "⑩淘片",
+            "type": 0,
+            "api": "https://taopianapi.com/cjapi/mc10/vod/xml.html"
         },
         {
             "key": "f59d574caa113ec2f87dff4654cd7fe5",
-            "name": "㉒飞刀",
+            "name": "⑪飞刀",
             "type": 1,
             "api": "http://www.feidaozy.com/api.php/provide/vod/"
         },
         {
+            "key": "73b5c89acc8a7c24118857fc514e9218",
+            "name": "⑫非凡",
+            "type": 1,
+            "api": "http://ffzy3.tv/api.php/provide/vod/"
+        },
+        {
+            "key": "0d23b4cc8869bd14096aab5c2f39b05a",
+            "name": "⑬量子",
+            "type": 1,
+            "api": "https://cj.lzcaiji.com/api.php/provide/vod/",
+            "filterable": 0
+        },
+        {
+            "key": "45f417ea49b036131ab41733a5eb92a0",
+            "name": "⑭U酷",
+            "type": 0,
+            "api": "https://api.ukuapi.com/api.php/provide/vod/at/xml"
+        },
+        {
+            "key": "31597ad10cc5a818d578b91694259fe9",
+            "name": "⑮飘零",
+            "type": 0,
+            "api": "https://p2100.net/api.php/provide/vod/at/xml"
+        },
+        {
+            "key": "0bb5e6bbc093809e9bc7228a0b9a8e9a",
+            "name": "⑯最大",
+            "type": 0,
+            "api": "https://api.zuidapi.com/api.php/provide/vod/at/xml"
+        },
+        {
+            "key": "812d8c0f5b76f176d07d869338a91c52",
+            "name": "⑰华为",
+            "type": 0,
+            "api": "https://hw8.live/api.php/provide/vod/at/xml"
+        },
+        {
+            "key": "5c768286e6045c44abdfae6fd627b9fc",
+            "name": "⑱天翼",
+            "type": 1,
+            "api": "https://www.911ysw.top/tianyi.php/provide/vod/"
+        },
+        {
+            "key": "bbada9fa837946d45a16732de3794b40",
+            "name": "⑲卧龙",
+            "type": 0,
+            "api": "https://collect.wolongzyw.com/api.php/provide/vod/at/xml"
+        },
+        {
+            "key": "a794df941b177a5eb1e4e991fb5eaccb",
+            "name": "⑳非凡",
+            "type": 1,
+            "api": "http://www.ffzy.tv/api.php/provide/vod/"
+        },
+        {
+            "key": "24963d347905c8866d5b5af6785692eb",
+            "name": "㉑快车",
+            "type": 1,
+            "api": "https://caiji.kczyapi.com/api.php/provide/vod/"
+        },
+        {
+            "key": "e5df2aa0492ba0d57b047c1cdf009001",
+            "name": "㉒360",
+            "type": 1,
+            "api": "https://360zy.tv/api.php/provide/vod/"
+        },
+        {
+            "key": "fae1b4e30330e2d6a14415c9dc41a36a",
+            "name": "㉓量子",
+            "type": 1,
+            "api": "https://lzizy7.com/api.php/provide/vod/"
+        },
+        {
+            "key": "22b29de9a6f08ee88f8e2a5e54235b75",
+            "name": "㉔小黄人",
+            "type": 1,
+            "api": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod/"
+        },
+        {
+            "key": "958c26cff19d1e4fe9629850b83c6138",
+            "name": "㉕卧龙",
+            "type": 1,
+            "api": "https://wolongzyw.com/api.php/provide/vod/"
+        },
+        {
+            "key": "f7e6221370ca441104c81be9a4c6c877",
+            "name": "㉖卧龙",
+            "type": 1,
+            "api": "https://collect.wolongzy.cc/api.php/provide/vod/"
+        },
+        {
+            "key": "22b29de9a6f08ee88f8e2a5e54235b75",
+            "name": "㉗小黄人",
+            "type": 1,
+            "api": "https://iqyi.xiaohuangrentv.com/api.php/provide/vod/"
+        },
+        {
             "key": "1888a596a87e1f08cc02fa1432bd41ff",
-            "name": "㉓映迷",
+            "name": "㉘映迷",
             "type": 0,
             "api": "https://www.inmi.app/api.php/provide/vod/at/xml"
         },
         {
-            "key": "3886c37bc1172dd034bb2d02a8c29106",
-            "name": "㉔宝片",
+            "key": "19ed357ef752b731fe10174559282819",
+            "name": "㉙黑木耳",
             "type": 1,
-            "api": "https://zpsps.com/api.php/provide/vod/"
-        },
-        {
-            "key": "4522a9bee637912b39876407dd4ba81e",
-            "name": "㉕光速",
-            "type": 1,
-            "api": "http://api.guangsuapi.com/api.php/provide/vod/"
-        },
-        {
-            "key": "5df752820b133e0e7b9ba6634e3f7dbb",
-            "name": "㉖闪电",
-            "type": 1,
-            "api": "https://sdzyapi.com/api.php/provide/vod/"
-        },
-        {
-            "key": "ab3bf9fa62999ca7507b351526c2feed",
-            "name": "㉗暴风",
-            "type": 1,
-            "api": "https://app.bfzyapi.com/api.php/provide/vod/"
-        },
-        {
-            "key": "ff4cf4c30f7471e440d0d870e560b2d4",
-            "name": "㉘鱼乐",
-            "type": 1,
-            "api": "https://api.ylzy.me/api.php/provide/vod/"
-        },
-        {
-            "key": "018e7f159a11515f277be39e5d59db9d",
-            "name": "㉙OK",
-            "type": 1,
-            "api": "https://okzyw9.com/api.php/provide/vod/"
-        },
-        {
-            "key": "08770a213d5c282a0fe20bf7648a9aba",
-            "name": "㉚非凡",
-            "type": 1,
-            "api": "https://api.ffzyapi.com/api.php/provide/vod/"
-        },
-        {
-            "key": "30e07a544ffe9b6069a1ba66d6442ca9",
-            "name": "㉛樱花",
-            "type": 1,
-            "api": "https://api.apiyhzy.com/api.php/provide/vod/"
-        },
-        {
-            "key": "34712d70104d3cdae7b92a0278d2dddb",
-            "name": "㉜七之",
-            "type": 1,
-            "api": "https://cdk.centos.chat/api.php/provide/vod/"
-        },
-        {
-            "key": "4d6422f0a2bc81fc9606ecc2d97208eb",
-            "name": "㉝非凡",
-            "type": 1,
-            "api": "http://ffzy.tv/api.php/provide/vod/"
-        },
-        {
-            "key": "57fbe335c0594ecd87490580949e04f8",
-            "name": "㉞乐视",
-            "type": 1,
-            "api": "https://leshiapi.com/api.php/provide/vod/"
-        },
-        {
-            "key": "6b89937eff774fdb0533180727011b38",
-            "name": "㉟U酷",
-            "type": 1,
-            "api": "https://api.ukuapi.com/api.php/provide/vod/"
-        },
-        {
-            "key": "94e14ff1175b81ead5b1f707a64ffbec",
-            "name": "㊱优质",
-            "type": 1,
-            "api": "https://api.1080zyku.com/inc/api_mac10_all.php"
-        },
-        {
-            "key": "b954276569fe5d54ca57cf5cd6358465",
-            "name": "㊲飞马",
-            "type": 1,
-            "api": "http://rise.eu.org/api.php/provide/vod/"
-        },
-        {
-            "key": "b9b8345a1d11cc2cd5a80e63b4e149d0",
-            "name": "㊳闪电",
-            "type": 1,
-            "api": "https://xsd.sdzyapi.com/api.php/provide/vod/"
-        },
-        {
-            "key": "d09daf6b15ef9ed1f4fc5aff8b87e40a",
-            "name": "㊴秒播",
-            "type": 1,
-            "api": "https://api.zeqaht.com/api.php/provide/vod/"
-        },
-        {
-            "key": "da904713267090d8a4c57c77e8edee1d",
-            "name": "㊵左岸",
-            "type": 1,
-            "api": "https://cj.wanbu.cc/api.php/provide/vod/",
-            "playUrl": "https://cj.wanbu.cc/jmza.php?url="
-        },
-        {
-            "key": "ef763a837d779012d8451f816f881188",
-            "name": "㊶百度",
-            "type": 1,
-            "api": "https://api.apibdzy.com/api.php/provide/vod/"
-        },
-        {
-            "key": "f333ebedb73901ca466a8ebc6aeab0da",
-            "name": "㊷淘片",
-            "type": 1,
-            "api": "https://taopianapi.com/cjapi/mc/vod/json/m3u8.html"
-        },
-        {
-            "key": "f6caf772f14e1c162c765a2e47df6028",
-            "name": "㊸最大",
-            "type": 1,
-            "api": "http://zuidazy.me/api.php/provide/vod/"
+            "api": "https://json.heimuer.xyz/api.php/provide/vod/",
+            "filterable": 0
         },
         {
             "key": "2d1c842069c209b9323d69ae14b86aa9",
-            "name": "㊹黑木耳",
+            "name": "㉚黑木耳",
             "type": 1,
             "api": "https://heimuer.tv/api.php/provide/vod/"
         },
         {
             "key": "4d4c1fdabb6494801c97f06183730c9d",
-            "name": "㊺暴风",
+            "name": "㉛暴风",
             "type": 1,
             "api": "https://app.dybfun.com/api.php/provide/vod/"
         },
         {
-            "key": "54059ea43bd9649eaf4d7fdbf9df99e4",
-            "name": "㊻爱酷",
-            "type": 1,
-            "api": "https://cj.json.icu/aiku.php/provide/vod/"
-        },
-        {
             "key": "586988bfe45003b498b97ca0ca34c33f",
-            "name": "㊼丽丽",
+            "name": "㉜丽丽",
             "type": 1,
             "api": "https://lililili.cc/api.php/provide/vod/"
         },
         {
             "key": "6ec3df1ac4a846f4b80db8599cbebe23",
-            "name": "㊽金鹰",
+            "name": "㉝金鹰",
             "type": 1,
             "api": "https://jinyingzy.com/api.php/provide/vod/"
         },
         {
             "key": "77791ef659e8282af587e24e7b0c18a5",
-            "name": "㊾墨斗",
+            "name": "㉞墨斗",
             "type": 1,
             "api": "https://www.mdzyapi.com/api.php/provide/vod/"
         },
         {
             "key": "a7309ad5614fb7c13fa6d3e49639f8be",
-            "name": "㊿丫丫",
+            "name": "㉟丫丫",
             "type": 1,
             "api": "https://yayazy2.com/api.php/provide/vod/"
+        },
+        {
+            "key": "b4d4414ba19c27a00bf907d34b47bc3d",
+            "name": "㊱艾旦",
+            "type": 1,
+            "api": "https://www.lovedan.net/api.php/provide/vod/"
+        },
+        {
+            "key": "bee6d0d20fdb5af011b13c3050558404",
+            "name": "㊲量子",
+            "type": 1,
+            "api": "http://23.224.183.18/api.php/provide/vod/"
+        },
+        {
+            "key": "37229107c7570f76555dbc031d9ab2f2",
+            "name": "㊳量子",
+            "type": 1,
+            "api": "http://cj.lziapi.com/api.php/provide/vod/",
+            "filterable": 0
+        },
+        {
+            "key": "d76e6a4dd10a8e038439df2458b56e9d",
+            "name": "㊴极速",
+            "type": 1,
+            "api": "https://jszyapi.com/api.php/provide/vod/"
+        },
+        {
+            "key": "e750d6da567daae09c179aec32891d63",
+            "name": "㊵最大",
+            "type": 1,
+            "api": "https://api.zuidapi.com/api.php/provide/vod/"
+        },
+        {
+            "key": "f23b71d83be4dc05a3113596e482d0f4",
+            "name": "㊶飞速",
+            "type": 1,
+            "api": "https://www.feisuzyapi.com/api.php/provide/vod/"
+        },
+        {
+            "key": "06fdd171f4a96048cf4963e595b004e9",
+            "name": "㊷华为",
+            "type": 1,
+            "api": "https://hw8.live/api.php/provide/vod/"
+        },
+        {
+            "key": "09b1d50c0474260ef24afb0edb852d53",
+            "name": "㊸花旗",
+            "type": 0,
+            "api": "https://seacms.huaqi.live/zyapi.php"
+        },
+        {
+            "key": "2e09f5d3c72313bd3841890000f5d6c5",
+            "name": "㊹八戒",
+            "type": 1,
+            "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php"
+        },
+        {
+            "key": "875e8c408861f731af4dd35cd3b6d2ce",
+            "name": "㊺光速",
+            "type": 0,
+            "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml"
+        },
+        {
+            "key": "a3e7b5eed275b2a0a1144c653c3f3a29",
+            "name": "㊻虎牙",
+            "type": 0,
+            "api": "https://www.huyaapi.com/api.php/provide/vod/at/xml"
+        },
+        {
+            "key": "fa0b0ba727d8897660debb57af83cfe0",
+            "name": "㊼新浪",
+            "type": 0,
+            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml"
+        },
+        {
+            "key": "a925e6649d546c8010772e4167916b9f",
+            "name": "㊽八戒",
+            "type": 0,
+            "api": "http://cj.bajiecaiji.com/inc/api.php"
+        },
+        {
+            "key": "cf97f252cca094245f27f5ddce5a995f",
+            "name": "㊾非凡",
+            "type": 1,
+            "api": "http://ffzy2.tv/api.php/provide/vod/"
+        },
+        {
+            "key": "1c5cdb5c52397569692bf3e78ed494b2",
+            "name": "㊿火狐",
+            "type": 0,
+            "api": "https://hhzyapi.com/api.php/provide/vod/at/xml"
         }
     ],
     "lives": [
