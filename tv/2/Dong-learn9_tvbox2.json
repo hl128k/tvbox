@@ -1,5 +1,5 @@
 {
-    "spider": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/fan.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6",
+    "spider": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/fan.jar;md5;71d846866f2ceb9666ba114e5963983f",
     "lives": [
         {
             "name": "ipv6",
@@ -58,13 +58,6 @@
     ],
     "sites": [
         {
-            "key": "drpy_js_豆瓣",
-            "name": " 豆瓣┃[js]",
-            "type": 3,
-            "api": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JS/lib/drpy.min.js",
-            "ext": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JS/js/drpy.js"
-        },
-        {
             "key": "豆瓣",
             "name": "豆瓣",
             "type": 3,
@@ -72,6 +65,13 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
+        },
+        {
+            "key": "drpy_js_豆瓣",
+            "name": " 豆瓣┃[js]",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/drpy.js"
         },
         {
             "key": "厂长",
@@ -83,7 +83,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://czzy.top/"
+            "ext": "https://www.czys.pro/"
         },
         {
             "key": "比特",
@@ -116,7 +116,7 @@
                 "aliToken": "http://127.0.0.1:9978/file/tvbox/token.txt",
                 "quarkCookie": "http://127.0.0.1:9978/file/tvbox/cookie.txt",
                 "from": "4k|auto|fhd",
-                "siteUrl": "https://www.wogg.link/",
+                "siteUrl": "https://www.wogg.net/",
                 "danMu": "弹"
             }
         },
@@ -133,7 +133,7 @@
             "type": 3,
             "api": "csp_Xunlei8",
             "changeable": 1,
-            "jar": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/pg.jar;md5;6C10FDAF8B53D213E25B090B55FBB3CA",
+            "jar": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/pg.jar;md5;2EA7BC2067F0FFECF9A07F81D704D4E1",
             "timeout": 60
         },
         {
@@ -145,32 +145,21 @@
             "changeable": 1,
             "playerType": "1",
             "api": "https://gitlab.com/fantaiying/ext/-@main/drpy2.min.js",
-            "ext": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JS/js/荐片.js"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/荐片.js"
         },
         {
             "key": "达达龟",
             "name": "达达┃JS",
             "type": 3,
             "api": "https://gitlab.com/fantaiying/ext/-@main/drpy2.min.js",
-            "ext": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JS/js/达达龟.js"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/达达龟.js"
         },
         {
             "key": "drpy_js_子子影视",
             "name": "子子┃JS",
             "type": 3,
             "api": "https://gitlab.com/fantaiying/ext/-@main/drpy2.min.js",
-            "ext": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JS/js/子子影视.js"
-        },
-        {
-            "key": "可可",
-            "name": "可可┃多线",
-            "type": 3,
-            "api": "csp_Kekys",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/子子影视.js"
         },
         {
             "key": "csp_酒吧影视",
@@ -663,7 +652,7 @@
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "jar": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/pg.jar;md5;6C10FDAF8B53D213E25B090B55FBB3CA",
+            "jar": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/pg.jar;md5;2EA7BC2067F0FFECF9A07F81D704D4E1",
             "ext": "https://fm.t4tv.hz.cz/json/market.json"
         },
         {
