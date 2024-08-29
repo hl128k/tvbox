@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/fan.jar;md5;67D1780EE22D022E0551FB8DE5DB17B6",
+    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/fan.jar;md5;ca2df82cc6006f2ecfa065159243d880",
     "lives": [
         {
             "name": "live",
@@ -29,7 +29,7 @@
             "key": "drpy_js_豆瓣",
             "name": "豆瓣┃[js]",
             "type": 3,
-            "api": "https://gitlab.com/fantaiying/ext/-/main/drpy2.min.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js",
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/drpy.js",
             "searchable": 1,
             "quickSearch": 0,
@@ -58,22 +58,6 @@
             "changeable": 1
         },
         {
-            "key": "玩偶",
-            "name": "玩偶┃弹幕",
-            "type": 3,
-            "api": "csp_WoGG",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "aliToken": "http://127.0.0.1:9978/file/tvbox/token.txt",
-                "quarkCookie": "http://127.0.0.1:9978/file/tvbox/cookie.txt",
-                "from": "4k|auto|fhd",
-                "siteUrl": "https://www.wogg.net/",
-                "danMu": "弹"
-            }
-        },
-        {
             "key": "csp_LiteApple",
             "name": "苹果┃影视",
             "type": 3,
@@ -97,15 +81,58 @@
             "quickSearch": 1,
             "changeable": 1,
             "playerType": "1",
-            "api": "https://gitlab.com/fantaiying/ext/-/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/荐片.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/荐片.js"
         },
         {
             "key": "drpy_js_子子影视",
             "name": "子子┃JS",
             "type": 3,
-            "api": "https://gitlab.com/fantaiying/ext/-/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/子子影视.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/子子影视.js"
+        },
+        {
+            "key": "drpy_js_毒蛇",
+            "name": "毒蛇┃影视",
+            "type": 3,
+            "api": "https://git.acwing.com/iduoduo/orange/-/main/drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/毒蛇电影.js"
+        },
+        {
+            "key": "hipy_js_4K-AV",
+            "name": "4K┃JS",
+            "type": 3,
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/4K-AV.js"
+        },
+        {
+            "key": "drpy_js_网飞猫",
+            "name": "耐菲┃卡特",
+            "type": 3,
+            "api": "https://git.acwing.com/iduoduo/orange/-/main/drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/网飞TV.js"
+        },
+        {
+            "key": "hipy_js_多多追剧[优]",
+            "name": "多多┃追剧",
+            "type": 3,
+            "api": "https://git.acwing.com/iduoduo/orange/-/main/drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://git.acwing.com/iduoduo/orange/-/main/drpy_js/%E5%A4%9A%E5%A4%9A%E8%BF%BD%E5%89%A7[%E4%BC%98].js"
         },
         {
             "key": "csp_酒吧影视",
@@ -275,7 +302,7 @@
             "api": "csp_XBPQ",
             "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "ext": {
-                "分类url": "https://kanke.cc/Show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;ax",
+                "分类url": "https://kmeiju.com/Show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;ax",
                 "分类": "剧库$1#影库$2#番剧$4#记录$3",
                 "数组二次截取": "class=\"pic-list&&</ul",
                 "数组": "<li>&&</li",
@@ -299,18 +326,6 @@
             "api": "csp_XBPQ",
             "playerType": "1",
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/热播库.json"
-        },
-        {
-            "key": "黑狐",
-            "name": "黑狐┃BPQ",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "playerType": "2",
-            "api": "csp_XBPQ",
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/黑狐影院.json"
         },
         {
             "key": "淘剧",
@@ -351,7 +366,7 @@
             "key": "drpy_js_JustLive",
             "name": " 直播┃JS",
             "type": 3,
-            "api": "https://gitlab.com/fantaiying/ext/-/main/drpy2.min.js",
+            "api": "https://git.acwing.com/iduoduo/orange/-/main/drpy_libs/drpy2.min.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -414,6 +429,17 @@
             "filterable": 1,
             "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/py/央视片库.py",
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/py/央视片库.py"
+        },
+        {
+            "key": "hipy_js_央视大全",
+            "name": "央视┃大全",
+            "type": 3,
+            "api": "https://git.acwing.com/iduoduo/orange/-/main/drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://git.acwing.com/iduoduo/orange/-/main/drpy_js/%E5%A4%A7%E5%85%A8%E5%A4%AE%E8%A7%86[%E5%A4%AE].js"
         },
         {
             "key": "csp_XYQHiker_兔小贝",
