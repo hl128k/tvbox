@@ -37,6 +37,22 @@ def main():
                 .replace('"https://raw.githubusercontent.com', '"' + reList[reI])
             fp = open("./tv/" + str(reI) + "/" + urlName + ".json", "w+", encoding='utf-8')
             fp.write(reqText)
+
+    collectionJson = {
+        "urls": []
+    }
+    for item in urlJson:
+        if "_" in item["name"]:
+            urlItem = {
+                "url": "./"+ item["name"] + ".json",
+                "name": item["name"]
+            }
+            collectionJson["urls"].append(urlItem)
+    collectionJson_data = json.dumps(collectionJson, ensure_ascii=False, indent=4)
+    for reI in range(len(reList)):
+        fp = open("./tv/" + str(reI) + "/collection.json", "w+", encoding='utf-8')
+        fp.write(collectionJson_data)
+
     now = datetime.datetime.now()
     fp = open('README.md', "w+", encoding='utf-8')
     fp.write("# 提示\n\n")
