@@ -1,6 +1,6 @@
 {
     "about": "主要自用, 有问题 可访问https://github.com/anaer/Meow",
-    "updateTime": "2024-08-26 20:15:22",
+    "updateTime": "2024-09-10 13:13:28",
     "wallpapers": [
         "https://bing.img.run/rand.php",
         "https://api.lyiqk.cn/scenery",
@@ -327,10 +327,10 @@
                         "http://111.14.181.15:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0",
                         "http://61.136.67.238:50085/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0",
                         "http://117.27.190.42:9998/tsfile/live/23268_1.m3u8?key=txiptv&playlive=1&authid=0",
-                        "http://223.112.219.174:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0",
                         "http://1.24.190.98:10080/hls/66/index.m3u8",
                         "http://218.3.138.25:1111/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0",
-                        "http://58.41.27.144:18888/udp/239.45.3.146:5140"
+                        "http://58.41.27.144:18888/udp/239.45.3.146:5140",
+                        "http://58.48.37.158:1111/tsfile/live/0107_1.m3u8"
                     ]
                 },
                 {
@@ -346,7 +346,7 @@
                         "http://117.27.190.42:9998/tsfile/live/23257_1.m3u8?key=txiptv&playlive=1&authid=0",
                         "http://61.138.128.226:19901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0",
                         "http://1.24.190.98:10080/hls/68/index.m3u8",
-                        "http://223.112.219.174:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0"
+                        "http://218.3.138.25:1111/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0"
                     ]
                 },
                 {
@@ -370,15 +370,15 @@
                     "tvg_name": "浙江卫视",
                     "urls": [
                         "http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8",
-                        "http://58.220.219.14:9901/tsfile/live/0124_1.m3u8",
                         "http://61.141.202.118:9901/tsfile/live/0124_1.m3u8",
                         "http://218.241.192.50:8808/rtp/239.3.1.137:8036",
                         "http://111.14.181.15:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0",
                         "http://61.136.67.238:50085/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0",
                         "http://61.138.128.226:19901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0",
-                        "http://223.112.219.174:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0",
                         "http://124.128.73.58:9901/tsfile/live/0124_1.m3u8?key=txiptv",
-                        "http://218.3.138.25:1111/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0"
+                        "http://218.3.138.25:1111/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0",
+                        "http://58.41.27.144:18888/udp/239.45.3.178:5140",
+                        "http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8"
                     ]
                 },
                 {
@@ -391,10 +391,10 @@
                         "http://117.27.190.42:9998/tsfile/live/23276_1.m3u8?key=txiptv&playlive=1&authid=0",
                         "http://61.136.67.238:50085/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0",
                         "http://61.138.128.226:19901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0",
-                        "http://223.112.219.174:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0",
                         "http://218.3.138.25:1111/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0",
                         "http://124.128.73.58:9901/tsfile/live/0128_1.m3u8?key=txiptv",
-                        "http://58.41.27.144:18888/udp/239.45.3.228:5140"
+                        "http://58.41.27.144:18888/udp/239.45.3.228:5140",
+                        "http://223.151.51.74:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0"
                     ]
                 }
             ]
@@ -419,12 +419,12 @@
                         "http://111.160.17.2:59901/tsfile/live/0001_1.m3u8",
                         "http://218.241.192.50:8808/rtp/239.3.1.129:8008",
                         "http://111.14.181.15:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0",
-                        "http://webmail.axxe.top:4022/rtp/239.3.1.129:8008",
                         "http://36.35.16.98:9901/tsfile/live/0001_18.m3u8",
-                        "http://183.3.134.56:9901/tsfile/live/0001_1.m3u8",
                         "http://124.128.73.58:9901/tsfile/live/0001_1.m3u8?key=txiptv",
                         "http://60.10.225.157:555/rtp/239.253.92.83:8012",
-                        "http://122.224.232.218:8888/rtp/233.50.201.118:5140"
+                        "http://122.224.232.218:8888/rtp/233.50.201.118:5140",
+                        "http://117.27.190.42:9998/tsfile/live/23232_1.m3u8?key=txiptv&playlive=1&authid=0",
+                        "http://61.136.67.238:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0"
                     ]
                 },
                 {
@@ -440,9 +440,6 @@
                     "name": "CCTV-4K超高清",
                     "tvg_name": "CCTV4K",
                     "urls": [
-                        "http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8",
-                        "http://113.96.179.241/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8",
-                        "http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8",
                         "http://159.75.85.63:8654/telegram@feiyangdigital-gudou-cctv4k.m3u8",
                         "http://159.75.85.63:8654/telegram@feiyangdigital-ysp-cctv4k.m3u8"
                     ]
@@ -456,11 +453,10 @@
                         "http://123.138.216.44:9902/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0",
                         "http://1.24.190.98:10080/hls/16/index.m3u8",
                         "http://kms.erfiy.com:8884/udp/225.0.4.73:7980",
-                        "http://122.224.232.218:8888/rtp/233.50.201.220:5140",
                         "http://58.57.21.166:9901/tsfile/live/0016_1.m3u8",
                         "http://117.27.190.42:9998/tsfile/live/23248_1.m3u8?key=txiptv&playlive=1&authid=0",
-                        "http://fxgm.fxjf.work:19901/tsfile/live/0016_1.m3u8",
-                        "http://www.furymax.top:85/rtp/239.254.96.234:9484"
+                        "http://www.furymax.top:85/rtp/239.254.96.234:9484",
+                        "http://120.234.5.29:6000/udp/239.20.0.203:2204"
                     ]
                 },
                 {
@@ -468,15 +464,15 @@
                     "tvg_name": "CCTV5",
                     "urls": [
                         "http://58.220.219.14:9901/tsfile/live/0005_1.m3u8",
-                        "http://111.160.17.2:59901/tsfile/live/1002_1.m3u8",
                         "http://218.241.192.50:8808/rtp/239.3.1.173:8001",
                         "http://111.14.181.15:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0",
                         "http://36.35.16.98:9901/tsfile/live/0005_1.m3u8",
                         "http://36.35.16.98:9901/tsfile/live/0016_1.m3u8",
-                        "http://183.3.134.56:9901/tsfile/live/0005_1.m3u8",
                         "http://60.10.225.157:555/rtp/239.253.92.181:6046",
                         "http://60.10.225.157:555/rtp/239.253.92.82:8013",
-                        "http://122.224.232.218:8888/rtp/233.50.201.197:5140"
+                        "http://122.224.232.218:8888/rtp/233.50.201.197:5140",
+                        "http://gmxw.7766.org:808/hls/93/index.m3u8",
+                        "http://58.220.219.14:9901/tsfile/live/0005_1.m3u8?key=txiptv"
                     ]
                 },
                 {
@@ -490,25 +486,19 @@
                     ]
                 },
                 {
-                    "name": "CCTV-8K超高清",
-                    "urls": [
-                        "https://pi.0472.org/live/cctv8k.m3u8?token=241703"
-                    ]
-                },
-                {
                     "name": "CCTV-8电视剧",
                     "tvg_name": "CCTV8",
                     "urls": [
                         "http://58.220.219.14:9901/tsfile/live/0008_1.m3u8",
-                        "http://111.160.17.2:59901/tsfile/live/0008_1.m3u8",
                         "http://218.241.192.50:8808/rtp/239.3.1.175:8001",
                         "http://111.14.181.15:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0",
                         "http://123.138.216.44:9902/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0",
-                        "http://webmail.axxe.top:4022/rtp/239.3.1.175:8001",
                         "http://36.35.16.98:9901/tsfile/live/0001_41.m3u8",
                         "http://58.17.48.228:808/hls/25/index.m3u8",
                         "http://60.10.225.157:555/rtp/239.253.92.195:6060",
-                        "http://122.224.232.218:8888/rtp/233.50.201.199:5140"
+                        "http://122.224.232.218:8888/rtp/233.50.201.199:5140",
+                        "http://gmxw.7766.org:808/hls/96/index.m3u8",
+                        "http://117.27.190.42:9998/tsfile/live/23239_1.m3u8?key=txiptv&playlive=1&authid=0"
                     ]
                 }
             ]
@@ -521,10 +511,7 @@
                     "tvg_name": "CHC动作电影",
                     "urls": [
                         "http://nas.hssvm.com:8888/udp/225.1.1.215:5002",
-                        "http://ik6.iptv8.net:8888/rtp/225.1.4.208:1261",
-                        "http://www.yao87.com:4022/udp/239.76.245.243:1234",
-                        "http://fxgm.fxjf.work:19901/tsfile/live/1015_1.m3u8",
-                        "http://www.erbao1981.top:8188/udp/239.76.245.243:1234"
+                        "http://ik6.iptv8.net:8888/rtp/225.1.4.208:1261"
                     ]
                 },
                 {
@@ -533,34 +520,7 @@
                     "urls": [
                         "http://nas.hssvm.com:8888/udp/225.1.1.213:5002",
                         "http://ik6.iptv8.net:8888/rtp/225.1.4.209:1262",
-                        "http://www.yao87.com:4022/udp/239.76.245.241:1234",
-                        "http://fxgm.fxjf.work:19901/tsfile/live/1014_1.m3u8",
                         "http://www.erbao1981.top:8188/udp/239.76.245.241:1234"
-                    ]
-                },
-                {
-                    "name": "CHC影迷电影",
-                    "tvg_name": "CHC高清电影",
-                    "urls": [
-                        "http://www.erbao1981.top:8188/udp/239.76.245.242:1234"
-                    ]
-                },
-                {
-                    "name": "动作电影",
-                    "urls": [
-                        "https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.m3u8"
-                    ]
-                }
-            ]
-        },
-        {
-            "group": "游戏",
-            "channels": [
-                {
-                    "name": "游戏风云",
-                    "tvg_name": "游戏风云",
-                    "urls": [
-                        "http://guany.myds.me:25852/udp/233.50.201.183:5140"
                     ]
                 }
             ]
@@ -568,13 +528,6 @@
         {
             "group": "资讯",
             "channels": [
-                {
-                    "name": "FOX",
-                    "tvg_name": "FOX",
-                    "urls": [
-                        "https://jmp2.uk/SamsungTVPlus/USBA300024TN.m3u8"
-                    ]
-                },
                 {
                     "name": "凤凰中文",
                     "tvg_name": "凤凰中文",
@@ -594,13 +547,13 @@
                         "http://wouu.net:9977/udp/239.93.0.118:2191",
                         "http://wouu.net:9977/udp/239.93.1.4:2191",
                         "http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0",
-                        "http://www.yao87.com:4022/udp/239.76.246.135:1234",
                         "http://122.224.232.218:8888/rtp/233.50.200.192:5140",
                         "http://nas.jumping.wang:5555/rtp/239.93.0.118:2191",
                         "http://117.27.190.42:9998/tsfile/live/23279_1.m3u8",
                         "http://www.erbao1981.top:8188/udp/239.76.246.134:1234",
                         "http://61.221.215.25:8800/hls/47/index.m3u8",
-                        "https://dl.zhoujie218.top/new/fhx.php?id=fhzx"
+                        "https://dl.zhoujie218.top/new/fhx.php?id=fhzx",
+                        "http://udnhls.skilldns.com:80/fhzx-cn.m3u8"
                     ]
                 }
             ]
