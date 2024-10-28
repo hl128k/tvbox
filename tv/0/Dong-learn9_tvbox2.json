@@ -1,26 +1,35 @@
 {
-    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/fan.jar;md5;74A1BF23B9D08AD9F3483D1D73105A93",
+    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/fan.txt;md5;8851819289f80deae32319080028db3b",
+    "wallpaper": "https://深色壁纸.xxooo.cf/",
     "lives": [
         {
-            "name": "live",
+            "name": "一",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt",
+            "url": "https://gitlab.com/fantaiying/ext/-/main/id.txt",
             "playerType": 1,
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "二",
+            "type": 0,
+            "url": "https://ghp.ci/raw.githubusercontent.com/Dong-learn9/AutoIPTV/master/output/user_result.txt",
+            "playerType": 1,
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
-            "name": "live2",
+            "name": "三",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u",
             "playerType": 1,
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
-            "name": "IPV6",
+            "name": "直播",
             "type": 0,
-            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+            "url": "https://tv.iill.top/m3u/Live",
             "playerType": 1
         }
     ],
@@ -45,17 +54,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.czys.pro/"
-        },
-        {
-            "key": "酷看",
-            "name": "酷看┃秒播",
-            "type": 3,
-            "api": "csp_Kkys",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
+            "ext": "https://czzy.top/"
         },
         {
             "key": "csp_LiteApple",
@@ -63,15 +62,6 @@
             "type": 3,
             "playerType": "2",
             "api": "csp_LiteApple"
-        },
-        {
-            "key": "Xunlei8",
-            "name": "磁力┃影视",
-            "type": 3,
-            "api": "csp_Xunlei8",
-            "changeable": 1,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/pg.jar;md5;7C03297C89AA832F88092D4567664AD8",
-            "timeout": 60
         },
         {
             "key": "贱贱",
@@ -111,17 +101,6 @@
             "filterable": 1,
             "order_num": 0,
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/4K-AV.js"
-        },
-        {
-            "key": "drpy_js_网飞猫",
-            "name": "耐菲┃卡特",
-            "type": 3,
-            "api": "https://git.acwing.com/iduoduo/orange/-/main/drpy_libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/网飞TV.js"
         },
         {
             "key": "hipy_js_多多追剧[优]",
@@ -220,18 +199,6 @@
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/速播.json"
         },
         {
-            "key": "csp_slgq",
-            "name": "石榴┃BPQ",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/石榴电影.json"
-        },
-        {
             "key": "csp_达达龟",
             "name": "达达┃BPQ",
             "type": 3,
@@ -302,8 +269,8 @@
             "api": "csp_XBPQ",
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "ext": {
-                "分类url": "https://kmeiju.com/Show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;ax",
-                "分类": "剧库$1#影库$2#番剧$4#记录$3",
+                "分类url": "https://kanmeiju.org/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;ax",
+                "分类": "剧集$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi#短剧$duanju",
                 "数组二次截取": "class=\"pic-list&&</ul",
                 "数组": "<li>&&</li",
                 "线路数组": "class=\"py-tabs&&</select>"
@@ -315,7 +282,7 @@
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/4k影视.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/4kys.json"
         },
         {
             "key": "热播库",
@@ -361,18 +328,6 @@
             "playerType": 2,
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XYQH.jar;md5;81544697BC790013FC5BB1D2939BF0B6",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/XYQH/电影港.json"
-        },
-        {
-            "key": "drpy_js_JustLive",
-            "name": " 直播┃JS",
-            "type": 3,
-            "api": "https://git.acwing.com/iduoduo/orange/-/main/drpy_libs/drpy2.min.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "changeable": 0,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/JustLive.js"
         },
         {
             "key": "360资源",
@@ -513,15 +468,6 @@
             "name": "动漫┃巴士",
             "type": 3,
             "api": "csp_Dm84",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Ying",
-            "name": "樱花┃动漫",
-            "type": 3,
-            "api": "csp_Ying",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
