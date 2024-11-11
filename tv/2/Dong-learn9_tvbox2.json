@@ -1,5 +1,5 @@
 {
-    "spider": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/fan.txt;md5;8851819289f80deae32319080028db3b",
+    "spider": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/fan.txt;md5;4fedd98faf90e84f8cccf2e447e1f41f",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "lives": [
         {
@@ -13,15 +13,23 @@
         {
             "name": "YM",
             "type": 0,
-            "url": "https://codeberg.org/Xym/ymz@branch/main/ymz/ymzlive.txt",
+            "url": "https://live.zbds.top/tv/iptv4.txt",
             "playerType": 1,
             "epg": "http://106.14.90.17/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
-            "name": "LL",
+            "name": "QQ",
             "type": 0,
             "url": "https://gcore.jsdelivr.net/gh/yuanzl77/IPTV@latest/live.m3u",
+            "playerType": 1,
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "LF",
+            "type": 0,
+            "url": "https://ghp.ci/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt",
             "playerType": 1,
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -92,15 +100,14 @@
             "ext": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JS/js/毒蛇电影.js"
         },
         {
-            "key": "hipy_js_4K-AV",
-            "name": "4K┃JS",
+            "key": "drpy_js_BT",
+            "name": "BT┃JS",
             "type": 3,
-            "api": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JS/lib/drpy.min.js",
+            "api": "https://git.acwing.com/iduoduo/orange/-@main/drpy_libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "order_num": 0,
-            "ext": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JS/js/4K-AV.js"
+            "ext": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JS/js/BT影视.js"
         },
         {
             "key": "hipy_js_多多追剧[优]",
@@ -168,15 +175,6 @@
             "ext": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/xBPQ/素白白.json"
         },
         {
-            "key": "csp_xBPQ_白嫖影视",
-            "name": "白嫖┃BPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "playerType": "1",
-            "jar": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/xBPQ/白嫖影视.json"
-        },
-        {
             "key": "爱电影",
             "name": "爱影┃BPQ",
             "type": 3,
@@ -223,21 +221,6 @@
             "ext": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/xBPQ/两个BT.json"
         },
         {
-            "key": "蘑菇",
-            "name": "蘑菇┃BPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": {
-                "主页url": "https://www.moguys.work/",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-                "搜索url": "https://www.moguys.work/vodsearch/-------------.html?wd={wd}",
-                "分类url": "https://www.moguys.work/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;ak"
-            }
-        },
-        {
             "key": "saohuo",
             "name": "骚火┃BPQ",
             "type": 3,
@@ -262,27 +245,20 @@
             }
         },
         {
-            "key": "csp_看客网",
-            "name": "看客┃BPQ",
-            "type": 3,
-            "playerType": "1",
-            "api": "csp_XBPQ",
-            "jar": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": {
-                "分类url": "https://kanmeiju.org/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;ax",
-                "分类": "剧集$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi#短剧$duanju",
-                "数组二次截取": "class=\"pic-list&&</ul",
-                "数组": "<li>&&</li",
-                "线路数组": "class=\"py-tabs&&</select>"
-            }
-        },
-        {
             "key": "XBPQ_4k影视",
             "name": "4K┃BPQ",
             "jar": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/xBPQ/4kys.json"
+        },
+        {
+            "key": "XBPQ_BT影视",
+            "name": "BT┃BPQ",
+            "jar": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://gcore.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk@main/xBPQ/BT影视.json"
         },
         {
             "key": "热播库",
