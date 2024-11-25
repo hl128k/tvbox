@@ -91,7 +91,7 @@
         },
         {
             "key": "drpy_js_毒蛇",
-            "name": "毒蛇┃影视",
+            "name": "毒蛇┃JS",
             "type": 3,
             "api": "https://git.acwing.com/iduoduo/orange/-/main/drpy_libs/drpy2.min.js",
             "searchable": 1,
@@ -111,7 +111,7 @@
         },
         {
             "key": "hipy_js_多多追剧[优]",
-            "name": "多多┃追剧",
+            "name": "多多┃JS",
             "type": 3,
             "api": "https://git.acwing.com/iduoduo/orange/-/main/drpy_libs/drpy2.min.js",
             "searchable": 1,
@@ -273,12 +273,13 @@
         },
         {
             "key": "csp_XBPQ_金牌",
-            "name": "金牌| XBPQ",
+            "name": "金牌| BPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "jar": "https://raw.kkgithub.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "ext": {
                 "作者": "小可乐/2408/第五版",
                 "站名": "金牌影院",
@@ -294,7 +295,7 @@
                 "二次截取": "默认--list\":\\[&&\\]||首页--data\":{\"home&&newestShortTvPageData",
                 "数组": "{&&}",
                 "标题": "vodName\":\"&&\"",
-                "图片": "https://ywxohs.com+obs.gduamoe.com&&\"",
+                "图片": "srcset=\"&&\"",
                 "副标题": "vodRemarks\":\"&&\"+_+vodDoubanScore\":&&,",
                 "链接": "/detail/+vodId\":&&,",
                 "影片年代": "vodYear\":\"&&\"",
@@ -339,12 +340,13 @@
 
         {
             "key": "csp_XBPQ_天堂",
-            "name": "天堂| XBPQ",
+            "name": "天堂| BPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "jar": "https://raw.kkgithub.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "ext": {
                 "规则名": "BT天堂",
                 "规则作者": "",
@@ -441,7 +443,7 @@
             "type": 1,
             "api": "https://360zy.com/api.php/provide/vod",
             "playUrl": "",
-            "categories": [
+            "categories": [ 
                 "爽文短剧",
                 "国产剧",
                 "国产动漫",
@@ -665,8 +667,8 @@
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "jar": "pg.jar",
-            "ext": "https://www.fish2018.us.kg/p/pg.jar"
+            "jar": "https://www.fish2018.us.kg/p/pg.jar",
+            "ext": "https://fm.t4tv.hz.cz/json/market.json"
         },
         {
             "key": "push_agent",
