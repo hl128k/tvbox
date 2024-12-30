@@ -1,21 +1,21 @@
 {
-    "spider": "https://raw.kkgithub.com/Dong-learn9/TVBox-zyjk/main/JAR/fan.txt;md5;4fedd98faf90e84f8cccf2e447e1f41f",
+    "spider": "https://raw.kkgithub.com/Dong-learn9/TVBox-zyjk/main/JAR/fan.txt;md5;5187BB3BC6EBA66ECB3785ABB0D21431",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "lives": [
         {
             "name": "DD",
             "type": 0,
-            "url": "https://ghp.ci/raw.githubusercontent.com/Dong-learn9/AutoTV/master/output/tv.txt",
+            "url": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/Dong-learn9/AutoTV/master/output/result.txt",
             "playerType": 1,
-            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.com/tv/{name}.png"
+            "epg": "https://e.erw.cc/e.xml",
+            "logo": "https://gitlab.com/fanmingming/live/-/main/tv/{name}.png"
         },
         {
             "name": "YM",
             "type": 0,
             "url": "https://live.zbds.top/tv/iptv4.txt",
             "playerType": 1,
-            "epg": "http://106.14.90.17/?ch={name}&date={date}",
+            "epg": "https://e.erw.cc/e.xml",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
@@ -29,7 +29,7 @@
         {
             "name": "LF",
             "type": 0,
-            "url": "https://ghp.ci/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt",
+            "url": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt",
             "playerType": 1,
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -57,12 +57,11 @@
             "name": "厂长┃影视",
             "type": 3,
             "api": "csp_NewCz",
-            "timeout": 15,
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://czzy.top/"
+            "ext": "https://www.czzyvideo.com/"
         },
         {
             "key": "csp_LiteApple",
@@ -83,6 +82,16 @@
             "ext": "https://raw.kkgithub.com/Dong-learn9/TVBox-zyjk/main/JS/js/荐片.js"
         },
         {
+            "key": "木星",
+            "name": "木星┃多线",
+            "type": 3,
+            "api": "csp_AppSx",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"
+        },
+        {
             "key": "drpy_js_子子影视",
             "name": "子子┃JS",
             "type": 3,
@@ -98,16 +107,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://raw.kkgithub.com/Dong-learn9/TVBox-zyjk/main/JS/js/毒蛇电影.js"
-        },
-        {
-            "key": "drpy_js_BT",
-            "name": "BT┃JS",
-            "type": 3,
-            "api": "https://git.acwing.com/iduoduo/orange/-/main/drpy_libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.kkgithub.com/Dong-learn9/TVBox-zyjk/main/JS/js/BT影视.js"
         },
         {
             "key": "hipy_js_多多追剧[优]",
@@ -257,15 +256,15 @@
         },
         {
             "key": "Bt0",
-            "name": "不太灵|磁力",
+            "name": "不太灵┃磁力",
             "type": 3,
             "api": "csp_Bt0",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "jar": "https://www.fish2018.us.kg/p/pg.jar",
-            "ext": "https://www.fish2018.us.kg/p/lib/tokenm.json$$$null$$$noproxy$$$1",
+            "jar": "http://tv.devopser.org/p/pg.jar",
+            "ext": "http://tv.devopser.org/p/lib/tokenm.json$$$null$$$noproxy$$$1",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -273,7 +272,7 @@
         },
         {
             "key": "csp_XBPQ_金牌",
-            "name": "金牌| BPQ",
+            "name": "金牌┃BPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -337,10 +336,9 @@
                 "语言值": "*"
             }
         },
-
         {
             "key": "csp_XBPQ_天堂",
-            "name": "天堂| BPQ",
+            "name": "天堂|┃BPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -416,17 +414,16 @@
                 "手动嗅探视频链接过滤词": ".html"
             }
         },
-
         {
             "key": "新6V",
-            "name": "新6V|网盘",
+            "name": "新6V┃网盘",
             "type": 3,
             "api": "csp_Xb6v",
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "jar": "https://www.fish2018.us.kg/p/pg.jar",
-            "ext": "https://www.fish2018.us.kg/p/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
+            "jar": "http://tv.devopser.org/p/pg.jar",
+            "ext": "http://tv.devopser.org/p/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
         },
         {
             "key": "电影港",
@@ -443,7 +440,7 @@
             "type": 1,
             "api": "https://360zy.com/api.php/provide/vod",
             "playUrl": "",
-            "categories": [ 
+            "categories": [
                 "爽文短剧",
                 "国产剧",
                 "国产动漫",
@@ -573,7 +570,7 @@
         },
         {
             "key": "csp_XBPQ_动漫",
-            "name": "动漫|XBPQ",
+            "name": "动漫┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -591,7 +588,6 @@
                 "分类": "动漫电影$1#日本动漫$2#国产动漫$3#欧美动漫$4#短剧$20"
             }
         },
-
         {
             "key": "csp_Dm84",
             "name": "动漫┃巴士",
@@ -640,7 +636,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "jar": "https://www.fish2018.us.kg/p/pg.jar",
+            "jar": "http://tv.devopser.org/p/pg.jar",
             "ext": {
                 "aliToken": "tvbox/token.txt",
                 "from": "4k|auto|fhd"
@@ -648,27 +644,17 @@
         },
         {
             "key": "网盘配置",
-            "name": "网盘及彈幕配置",
+            "name": "网盘┃彈幕",
             "type": 3,
             "api": "csp_Config",
             "searchable": 0,
             "changeable": 0,
-            "jar": "https://www.fish2018.us.kg/p/pg.jar",
+            "jar": "http://tv.devopser.org/p/pg.jar",
             "ext": "https://raw.kkgithub.com/Dong-learn9/TVBox-zyjk/main/lib/tokenm.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.5
             }
-        },
-        {
-            "key": "應用商店",
-            "name": "应用商店",
-            "type": 3,
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "jar": "https://www.fish2018.us.kg/p/pg.jar",
-            "ext": "https://fm.t4tv.hz.cz/json/market.json"
         },
         {
             "key": "push_agent",
