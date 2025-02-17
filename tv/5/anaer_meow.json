@@ -1,6 +1,6 @@
 {
     "about": "主要自用, 有问题 可访问https://github.com/anaer/Meow",
-    "updateTime": "2025-01-25 19:52:28",
+    "updateTime": "2025-02-16 21:26:54",
     "wallpapers": [
         "https://bing.img.run/rand.php",
         "https://api.lyiqk.cn/scenery",
@@ -700,10 +700,10 @@
                     "tvg_name": "东方卫视",
                     "urls": [
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8",
-                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8",
-                        "http://58.220.219.14:9901/tsfile/live/0107_1.m3u8",
-                        "http://111.14.181.15:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0",
-                        "http://221.233.192.152:1111/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0"
+                        "https://stream.freetv.fun/eb7a5a450a87157712e9afc63da8f145ee437bbe67c89afe80ae08611c46c61d.m3u8",
+                        "https://stream.freetv.fun/c81fd4ae2847167f434a554692ffd40fd87234c002807f6ee0ced21e791b2de2.ctv",
+                        "https://stream.freetv.fun/f20844d148d68dd32fec32ee83e4121117f3d99c9668ac4c72d476f10ccc4542.ctv",
+                        "https://stream.freetv.fun/8a3f45390ed0de42da7681f350581320c1ead7e94ff1f709c35fd12b7fc451bd.m3u8"
                     ]
                 },
                 {
@@ -711,10 +711,10 @@
                     "tvg_name": "北京卫视",
                     "urls": [
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8",
-                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8",
                         "http://115.149.139.141:10001/tsfile/live/1022_1.m3u8",
                         "http://218.3.138.25:1111/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0",
-                        "http://111.14.181.15:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0"
+                        "http://111.14.181.15:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0",
+                        "http://111.160.17.2:59901/tsfile/live/0001_28.m3u8"
                     ]
                 },
                 {
@@ -722,21 +722,21 @@
                     "tvg_name": "江苏卫视",
                     "urls": [
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8",
-                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8",
-                        "http://115.149.139.141:10001/tsfile/live/1026_1.m3u8",
                         "http://111.14.181.15:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0",
-                        "http://livetv.wqwqwq.sbs/itv/1000000001000001828.m3u8?cdn=ystenlive"
+                        "http://118.122.189.74:9901/tsfile/live/0127_1.m3u8",
+                        "http://183.66.15.146:60901/tsfile/live/0127_1.m3u8",
+                        "http://39.164.160.249:9901/tsfile/live/0127_1.m3u8"
                     ]
                 },
                 {
                     "name": "浙江卫视",
                     "tvg_name": "浙江卫视",
                     "urls": [
-                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8",
-                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8",
-                        "http://111.14.181.15:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0",
                         "http://61.138.128.226:19901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0",
-                        "http://218.3.138.25:1111/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0"
+                        "http://218.3.138.25:1111/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0",
+                        "https://stream.freetv.fun/9db0b177cf33e55f518fee70eb5b8aca7d6d592cb2f228931613f92024e4dcee.m3u8",
+                        "https://stream.freetv.fun/7f280c90c0c7647b6816a25c4b4ec1732c7d84bd85d08cdd5f60489b14d7e33f.m3u8",
+                        "https://stream.freetv.fun/d35587d65e53779a3e25010f6839792d5a4430a22824793ec4b997e2c4ab3098.m3u8"
                     ]
                 },
                 {
@@ -744,10 +744,10 @@
                     "tvg_name": "湖南卫视",
                     "urls": [
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8",
-                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8",
                         "http://111.14.181.15:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0",
-                        "http://livetv.wqwqwq.sbs/itv/5000000004000006692.m3u8?cdn=bestzb",
-                        "http://59.173.243.210:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0"
+                        "https://stream.freetv.fun/8f9c1b950218b09e8fb1b0d6b7416bdf4a4635a03c2f67f7880010d106038137.m3u8",
+                        "https://stream.freetv.fun/e7f58bfffa8a66cd3748004a808a4720b78f5ae34d807016e86813d3e71c09b8.m3u8",
+                        "https://stream.freetv.fun/1194c18ec5487936e7ac5dcf08489806cb4440c8d673d876a216a7ffa6aef38d.m3u8"
                     ]
                 }
             ]
@@ -759,11 +759,10 @@
                     "name": "CCTV-13新闻",
                     "tvg_name": "CCTV13",
                     "urls": [
-                        "http://61.136.172.236:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0",
-                        "http://221.233.192.152:1111/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0",
-                        "https://stream.freetv.fun/a9c24374242a46d4fa98825ff7a90d64c53d8ddc8cf7b69f6dd06256965dd652.m3u8",
                         "https://stream.freetv.fun/2e5a7e3d05921d46d889d317ea52ce4e0554db47fb8d0d449cffbfb1e1f97a6a.m3u8",
-                        "https://stream.freetv.fun/9d66da38f22c004e8bb853459b1875c039cf3f48c50a0c13ea8ce34f6978c657.m3u8"
+                        "https://stream.freetv.fun/9d66da38f22c004e8bb853459b1875c039cf3f48c50a0c13ea8ce34f6978c657.m3u8",
+                        "http://60.7.56.33:4000/rtp/239.253.92.13:8008",
+                        "http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8"
                     ]
                 },
                 {
@@ -771,10 +770,10 @@
                     "tvg_name": "CCTV1",
                     "urls": [
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8",
-                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8",
-                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8",
-                        "http://111.14.181.15:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0",
-                        "http://61.138.128.226:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0"
+                        "http://61.138.128.226:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0",
+                        "http://111.160.17.2:59901/tsfile/live/0001_1.m3u8",
+                        "http://60.7.56.33:4000/udp/239.253.92.83:8012",
+                        "http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0"
                     ]
                 },
                 {
@@ -782,10 +781,10 @@
                     "tvg_name": "CCTV3",
                     "urls": [
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8",
-                        "https://stream.freetv.fun/43b586580843a24b370c2c9c7120ee161ba25a9391294e323527aa4cf6a16e53.m3u8",
-                        "https://stream.freetv.fun/02d99b59f03accaeaeacf3604a92fdde865c1f67962bf5763e5c7740355eb13e.m3u8",
                         "https://stream.freetv.fun/915ecd9bb71fda76fcbd2667b849ebe06b5ba4f6e3cabd31174bd4369ea35cf8.m3u8",
-                        "https://stream.freetv.fun/eac6c1145496cd4bbb6d71078f574802ad7b32e80f86a0031cffb1ac21e78c2a.m3u8"
+                        "http://61.136.172.236:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0",
+                        "http://221.233.192.152:1111/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0",
+                        "http://60.7.56.33:4000/rtp/239.253.92.191:6057"
                     ]
                 },
                 {
@@ -793,10 +792,10 @@
                     "tvg_name": "CCTV5+",
                     "urls": [
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8",
-                        "http://111.14.181.15:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0",
-                        "http://livetv.wqwqwq.sbs/itv/6000000001000015875.m3u8?cdn=wasusyt",
-                        "http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0",
-                        "http://221.233.192.152:1111/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0"
+                        "https://stream.freetv.fun/69072d5f1af858062dd4b6c19f5a99f66e041f51f1abfe414c570b0d6c407280.m3u8",
+                        "http://114.252.238.87:8000/udp/239.3.1.130:8004",
+                        "http://61.138.128.226:19901/tsfile/live/1006_1.m3u8",
+                        "http://123.132.233.194:352/tsfile/live/0016_1.m3u8"
                     ]
                 },
                 {
@@ -805,9 +804,9 @@
                     "urls": [
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8",
                         "http://58.220.219.14:9901/tsfile/live/0005_1.m3u8",
-                        "http://111.14.181.15:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0",
-                        "http://gmxw.7766.org:808/hls/93/index.m3u8",
-                        "http://livetv.wqwqwq.sbs/itv/1000000005000025222.m3u8?cdn=ystenlive"
+                        "http://116.128.242.83:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0",
+                        "http://59.173.243.210:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0",
+                        "http://221.233.192.152:1111/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0"
                     ]
                 },
                 {
@@ -815,21 +814,21 @@
                     "tvg_name": "CCTV6",
                     "urls": [
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8",
-                        "http://livetv.wqwqwq.sbs/itv/1000000001000001737.m3u8?cdn=ystenlive",
                         "http://61.138.128.226:19901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0",
                         "http://116.128.242.83:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0",
-                        "http://61.136.172.236:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0"
+                        "https://stream.freetv.fun/dab5721b5a703da3e7e6c9a636758abe308d398aa6c72ceb38ce9b3663a439a8.m3u8",
+                        "https://stream.freetv.fun/3dd35137a43045ed7fd6847ae4ac44748f46ee6a12208380bdfd87e36c11d1b3.m3u8"
                     ]
                 },
                 {
                     "name": "CCTV-8电视剧",
                     "tvg_name": "CCTV8",
                     "urls": [
-                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8",
                         "http://111.14.181.15:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0",
                         "http://58.17.48.228:808/hls/25/index.m3u8",
-                        "http://gmxw.7766.org:808/hls/96/index.m3u8",
-                        "http://livetv.wqwqwq.sbs/itv/6000000001000001070.m3u8?cdn=wasusyt"
+                        "https://stream.freetv.fun/d00af349632c30802c64287b5b4306e6f0f4c0280109a2b6ceea8e859996d4c7.m3u8",
+                        "https://stream.freetv.fun/202f8312d8afa2194b405e571a12dc8370cbcac58b444e315660d0a02273feb8.m3u8",
+                        "http://111.9.163.109:9901/tsfile/live/0008_1.m3u8"
                     ]
                 }
             ]
@@ -841,22 +840,22 @@
                     "name": "CHC动作电影",
                     "tvg_name": "CHC动作电影",
                     "urls": [
-                        "https://stream.freetv.fun/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944d0cb17f36e.ctv",
                         "https://stream1.freetv.fun/chcdong-zuo-dian-ying-13.m3u8",
                         "https://stream1.freetv.fun/chcdong-zuo-dian-ying-21.m3u8",
                         "https://stream1.freetv.fun/chcdong-zuo-dian-ying-5.ctv",
-                        "https://stream1.freetv.fun/chcdong-zuo-dian-ying-14.m3u8"
+                        "https://stream1.freetv.fun/chcdong-zuo-dian-ying-14.m3u8",
+                        "https://stream1.freetv.fun/ipv6-chcdong-zuo-dian-ying-18.m3u8"
                     ]
                 },
                 {
                     "name": "CHC家庭影院",
                     "tvg_name": "CHC家庭影院",
                     "urls": [
-                        "http://ha.xushining.com:50000/udp/225.1.1.213:5002",
                         "https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8",
                         "https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.ctv",
                         "https://stream.freetv.fun/4baf8d6257afc16275e93604ac917bdd4bb3731c5a42f86ff10e33d652cfe91b.ctv",
-                        "https://stream.freetv.fun/03f67d0e0fa947765e1aec78406a6a085ee9f3b4bb2d4f6c6947dd70a6c40296.ctv"
+                        "https://stream.freetv.fun/03f67d0e0fa947765e1aec78406a6a085ee9f3b4bb2d4f6c6947dd70a6c40296.ctv",
+                        "http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8"
                     ]
                 },
                 {
@@ -866,20 +865,14 @@
                         "http://ha.xushining.com:50000/udp/225.1.1.214:5002",
                         "https://stream1.freetv.fun/chcying-mi-dian-ying-6.m3u8",
                         "https://stream1.freetv.fun/chcying-mi-dian-ying-7.m3u8",
-                        "https://stream1.freetv.fun/chcying-mi-dian-ying-8.ctv",
-                        "https://stream.freetv.fun/dea8296a1a6cc0043a1ea3d696f685c6a2d2844028582f6dd8fbd961286c451f.ctv"
+                        "https://stream.freetv.fun/dea8296a1a6cc0043a1ea3d696f685c6a2d2844028582f6dd8fbd961286c451f.ctv",
+                        "http://ddns.cyruslee.top:8888/udp/239.77.0.27:5146"
                     ]
                 },
                 {
                     "name": "动作电影",
                     "urls": [
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8"
-                    ]
-                },
-                {
-                    "name": "黑莓电影",
-                    "urls": [
-                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8"
                     ]
                 }
             ]
@@ -898,15 +891,7 @@
                     "name": "超级综艺",
                     "urls": [
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8",
-                        "http://livetv.wqwqwq.sbs/itv/1000000006000268002.m3u8?cdn=ystenlive",
                         "http://live.wqwqwq.sbs/itv/1000000006000268002.m3u8?cdn=ystenlive"
-                    ]
-                },
-                {
-                    "name": "金牌综艺",
-                    "urls": [
-                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8",
-                        "http://livetv.wqwqwq.sbs/itv/1000000004000026167.m3u8?cdn=ystenlive"
                     ]
                 }
             ]
@@ -936,11 +921,11 @@
                 {
                     "name": "五星体育",
                     "urls": [
-                        "http://livetv.wqwqwq.sbs/itv/5000000010000017540.m3u8?cdn=bestzb",
+                        "http://live.wqwqwq.sbs/itv/5000000010000017540.m3u8?cdn=bestzb",
+                        "https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-10.m3u8",
+                        "https://epg.pw/stream/245d1072476eeab5f81d1de6ad86becda334c7305fcc8ecd462b3a05cca4e7a3.ctv",
                         "https://stream1.freetv.fun/wu-xing-ti-yu-9.m3u8",
-                        "http://61.173.144.157:9901/tsfile/live/1010_1.m3u8",
-                        "http://61.173.144.157:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0",
-                        "https://stream1.freetv.fun/wu-xing-ti-yu-15.m3u8"
+                        "https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-14.m3u8"
                     ]
                 }
             ]
@@ -953,10 +938,10 @@
                     "tvg_name": "凤凰中文",
                     "urls": [
                         "https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8",
-                        "http://ali.hlspull.yximgs.com/live/diyp_fh2.flv",
                         "http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv",
                         "http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0",
-                        "http://117.27.190.42:9998/tsfile/live/23280_1.m3u8"
+                        "http://117.27.190.42:9998/tsfile/live/23280_1.m3u8",
+                        "https://stream1.freetv.fun/feng-huang-zhong-wen-4.m3u8"
                     ]
                 },
                 {
@@ -972,30 +957,30 @@
                     "tvg_name": "凤凰资讯",
                     "urls": [
                         "https://stream1.freetv.fun/feng-huang-zi-xun-1.m3u8",
-                        "https://stream1.freetv.fun/feng-huang-zi-xun-21.ctv",
-                        "https://stream1.freetv.fun/feng-huang-zi-xun-22.ctv",
                         "http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx",
-                        "http://ali.hlspull.yximgs.com/live/diyp_fh1.flv"
+                        "http://wouu.net:9977/udp/239.93.0.118:2191",
+                        "http://wouu.net:9977/udp/239.93.1.4:2191",
+                        "http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv"
                     ]
                 },
                 {
                     "name": "凤凰香港",
                     "urls": [
-                        "http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-5",
-                        "https://stream1.freetv.fun/feng-huang-xiang-gang-6.ctv",
-                        "http://ali.hlspull.yximgs.com/live/diyp_fh3.flv",
-                        "https://stream.freetv.fun/a1e9b719a07884526606598d72537cef8048233381d1bcd4264e1be3db2cf40a.m3u8",
-                        "https://stream.freetv.fun/700ea6400ee9b3b005ff77288979e7b1333837e2f1366bb27dacff11435cd72f.ctv"
+                        "https://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8",
+                        "https://stream1.freetv.fun/feng-huang-xiang-gang-3.ctv",
+                        "https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8",
+                        "https://stream1.freetv.fun/feng-huang-xiang-gang-8.ctv",
+                        "https://stream.freetv.fun/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8"
                     ]
                 },
                 {
                     "name": "无线新闻",
                     "urls": [
-                        "https://stream.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.ctv",
                         "https://stream.freetv.fun/6a978aebd22e15f9e693db16b5ff1d685fcb8c146eb8500196daec0282b7c51f.m3u8",
-                        "https://stream.freetv.fun/9ea2bd19dad64267c45dd099d17b58c607bdfc20d8bacfae167f176590805853.m3u8",
                         "http://cdn.iptv8k.top/dl/jspd.php?id=2",
-                        "https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40"
+                        "https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40",
+                        "http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8",
+                        "http://php.jdshipin.com:8880/smt.php?id=inews_twn"
                     ]
                 }
             ]
