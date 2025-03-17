@@ -745,6 +745,9 @@
             "quickSearch": 0,
             "filterable": 0
         },
+        {"key":"JRKAN直播","name":"⚽JRKAN直播","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/JRKAN直播.js"},
+        {"key":"88看球","name":"🏆🏆⚽88看球","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/88看球.js"},
+
           {
             "key": "星芽短剧",
             "name": "星芽｜短剧",
