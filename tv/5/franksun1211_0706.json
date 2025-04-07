@@ -1312,16 +1312,7 @@
                 "type": "list"
             }
         },
-        {
-            "key": "版本信息",
-            "name": "版本｜信息",
-            "type": 3,
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "ext": "https://9877.kstore.space/Market/market.json"
-        },
+        
         {
             "key": "push_agent",
             "name": "手机｜推送",
@@ -1697,45 +1688,26 @@
         }
     ],
     "lives": [
-        {
-            "name": "直播",
-            "type": 3,
-            "api": "csp_Feiyang",
-            "url": "tv.m3u",
-            "timeout": 10,
-            "ua": "okhttp/3.15"
-        },
-        {
-            "name": "AI直播",
-            "type": 0,
-            "url": "https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
-            "playerType": 2,
-            "timeout": 10
-        },
-        {
-            "name": "电视Live",
-            "type": 0,
-            "url": "http://127.0.0.1:9978/proxy?do=live&u=Gather",
-            "playerType": 2,
-            "timeout": 10
-        },
-        {
-            "name": "网络Live",
-            "type": 0,
-            "url": "http://127.0.0.1:9978/proxy?do=live&url=https://tv.iill.top/m3u/Live",
-            "playerType": 2,
-            "timeout": 10
-        },
-        {
-            "name": "范明明",
-            "type": 0,
-            "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
-            "playerType": 2,
-            "timeout": 10
-        }
-    ],
+    {
+      "name": "直播",
+      "type": 0,
+      //"url": "https://raw.gitmirror.com/bluefriendCN/set/main/live.txt",
+      //"url": "https://agit.ai/guot54/ygbh@branch/master/zB/pro.txt",    
+      //"url": "https://fastly.jsdelivr.net/gh/franksun1211/TVBOX/main/sunny.txt",  	    
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",   
+      //"url": "https://fastly.jsdelivr.net/gh/qist/tvbox@master/ITV.txt",  
+      //"url": "https://aktv.space/live.m3u",  
+	    
+      //"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",    
+      //"url":"https://fastly.jsdelivr.net/gh/jackson0829/jackson0829.github.io/refs/heads/main/XZB.txt",
+      //"url": "https://fastly.jsdelivr.net/gh/jackson0829/jackson0829.github.io/main/mitv.txt",     
+      //"url": "https://fastly.jsdelivr.net/gh/PizazzGY/TVBox/main/live.txt",
+      "playerType":1,
+      "ua":"okhttp/3.15",
+      "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo":"https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],	
     "flags": [
         "youku",
         "优酷",
