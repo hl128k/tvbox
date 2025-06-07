@@ -55,7 +55,7 @@ def main():
 
     now = datetime.datetime.now()
     fp = open('README.md', "w+", encoding='utf-8')
-    fp.write("# [![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")提示\n\n")
+    fp.write("# [![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com \"Powered by DartNode - Free VPS for Open Source\")提示\n\n")
     fp.write("感谢各位大佬的无私奉献.\n\n")
     fp.write(
         "如果有收录您的配置，您也不希望被收录请[issues](https://github.com/hl128k/tvbox/issues)，必将第一时间移除\n\n")
