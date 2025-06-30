@@ -53,34 +53,9 @@
                 "danmu": true
             }
         },
-        {
-            "key": "天天弹幕",
-            "name": "天天｜弹幕",
-            "type": 3,
-            "api": "csp_TianTian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-		"jar": "https://ghproxy.net/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": {
-                "danmu": true,
-                "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
-            }
-        },
-        {
-            "key": "热播弹幕",
-            "name": "热播｜弹幕",
-            "type": 3,
-            "api": "csp_TianTian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-		"jar": "https://ghproxy.net/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": {
-                "danmu": true,
-                "site": "aHR0cDovL3YucmJvdHYuY24="
-            }
-        },
+       
+        
+        
         {
             "key": "浪酷弹幕",
             "name": "浪酷｜弹幕",
