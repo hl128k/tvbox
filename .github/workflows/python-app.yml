@@ -12,6 +12,16 @@ jobs:
       - name: 检查分支
         uses: actions/checkout@v3
 
+      - name: Legal Compliance Check
+        run: |
+          echo "▄▄▄▄▄▄▄ LEGAL NOTICE ▄▄▄▄▄▄▄"
+          echo "此Action将运行autoUrl.py生成tv/内容"
+          echo "您确认："
+          echo "1. 不存储非法内容"
+          echo "2. 接受UNLICENSE协议"
+          echo "3. 生成文件仅用于技术研究示例"
+          sleep 10 # 法律声明展示时间
+
       - name: 安装 Python 3.10
         uses: actions/setup-python@v4
         with:

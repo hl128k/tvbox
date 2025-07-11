@@ -5,11 +5,28 @@ import requests
 import json
 import urllib3
 from Crypto.Cipher import AES
-
+LEGAL_SHIELD = """
+// 技术处理声明 (绑定至输出文件)
+// 本文件由技术工具自动生成，开发者：
+//   a) 未创建/修改任何实质内容
+//   b) 不知晓具体数据内容
+//   c) 已通过The Unlicense放弃所有权利
+// 原始数据责任完全归属配置提供者
+"""
 
 def main():
+    print("""
+    !!! 技术工具声明 !!!
+    本脚本仅为开源技术工具，功能仅限于:
+    1. 读取本地JSON配置(url.example.json)
+    2. 对其中URL进行域名替换操作
+    3. 生成转换后的配置文件
+    
+    本工具不处理、不存储、不审查任何实际内容数据
+    所有最终内容由原始配置决定，与工具无关
+    """)
     urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-    with open('./url.json', 'r', encoding='utf-8') as f:
+    with open('./url.example.json', 'r', encoding='utf-8') as f:
         urlJson = json.load(f)
     nameList = []
     reList = ["https://ghproxy.net/https://raw.githubusercontent.com", "https://raw.kkgithub.com",
@@ -55,27 +72,42 @@ def main():
 
     now = datetime.datetime.now()
     fp = open('README.md', "w+", encoding='utf-8')
-    fp.write("# [![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com \"Powered by DartNode - Free VPS for Open Source\")提示\n\n")
+    fp.write("# [![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com \"Powered by DartNode - Free VPS for Open Source\") \n\n")
+    fp.write("""## 免责声明 (Disclaimer)
+
+### 1. 权利声明
+本仓库遵循 **The Unlicense** 协议：
+- 所有代码及内容归属于公共领域（Public Domain）
+- 作者已永久放弃一切著作权及相关权利
+- **允许任何人在全球范围内无条件地使用、复制、修改、商业应用及分发**
+
+### 2. 无担保声明 (No Warranty)
+本仓库内容按 **"原样"（AS IS）** 提供：
+- **不提供任何明示或暗示的担保**，包括但不限于：
+  - 适销性 (Merchantability)
+  - 特定用途适用性 (Fitness for Purpose)
+  - 准确性 (Accuracy) 或持续性服务 (Continuous Availability)
+- 作者不对功能缺失、数据丢失或服务中断负责
+
+### 3. 用户责任 (Your Responsibility)
+您理解并同意：
+- 使用行为必须**遵守所在国家/地区的法律法规**
+- 需自行评估内容合法性及技术风险
+- 对使用导致的**任何直接/间接后果承担全部责任**
+-  **[详细技术免责声明](./TECHNICAL_DISCLAIMER.md)**
+
+### 4. 第三方内容 (Third-party Content)
+- 本项目仅为**技术工具**（自动处理公开网络链接）
+- 不生成、存储或审核任何实质内容
+- 引用的第三方数据源由其提供者负责
+- **不认可任何被处理的第三方内容**
+
+
+""")
+    
+    fp.write("本次自动测试时间为：" + now.strftime("%Y-%m-%d %H:%M:%S") + "\n\n")
+    fp.write("测试示例为url.example.json\n\n")
     fp.write("感谢各位大佬的无私奉献.\n\n")
-    fp.write(
-        "如果有收录您的配置，您也不希望被收录请[issues](https://github.com/hl128k/tvbox/issues)，必将第一时间移除\n\n")
-    fp.write("# 免责声明\n\n")
-    fp.write("本项目（tvbox）的源代码是按“原样”提供，不带任何明示或暗示的保证。使用者有责任确保其使用符合当地法律法规。\n\n")
-    fp.write(
-        "所有以任何方式查看本仓库内容的人、或直接或间接使用本仓库内容的使用者都应仔细阅读此声明。本仓库管理者保留随时更改或补充此免责声明的权利。一旦使用、复制、修改了本仓库内容，则视为您已接受此免责声明。\n\n")
-    fp.write(
-        "本仓库管理者不能保证本仓库内容的合法性、准确性、完整性和有效性，请根据情况自行判断。本仓库内容，仅用于测试和学习研究，禁止用于商业用途，不得将其用于违反国家、地区、组织等的法律法规或相关规定的其他用途，禁止任何公众号、自媒体进行任何形式的转载、发布，请不要在中华人民共和国境内使用本仓库内容，否则后果自负。\n\n")
-    fp.write(
-        "本仓库内容中涉及的第三方硬件、软件等，与本仓库内容没有任何直接或间接的关系。本仓库内容仅对部署和使用过程进行客观描述，不代表支持使用任何第三方硬件、软件。使用任何第三方硬件、软件，所造成的一切后果由使用的个人或组织承担，与本仓库内容无关。\n\n")
-    fp.write(
-        "所有直接或间接使用本仓库内容的个人和组织，应 24 小时内完成学习和研究，并及时删除本仓库内容。如对本仓库内容的功能有需求，应自行开发相关功能。所有基于本仓库内容的源代码，进行的任何修改，为其他个人或组织的自发行为，与本仓库内容没有任何直接或间接的关系，所造成的一切后果亦与本仓库内容和本仓库管理者无关 \n\n")
-    fp.write("# 介绍\n\n")
-    fp.write("自用请勿宣传\n\n")
-    fp.write("所有数据全部搜集于网络，不保证可用性\n\n")
-    fp.write("因电视对GitHub访问问题，所以将配置中的GitHub换成镜像源\n\n")
-    fp.write("本次自动更新时间为：" + now.strftime("%Y-%m-%d %H:%M:%S") + "\n\n")
-    fp.write("当前内容来源详情请查看url.json\n\n")
-    fp.write("如果感兴趣,请复制项目后自行研究使用\n\n")
     fp.close()
 
 def get_json(url):
