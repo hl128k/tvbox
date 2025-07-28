@@ -1,7 +1,7 @@
 
 {
     "spider": "https://fastly.jsdelivr.net/gh/ls125781003/tvboxtg@refs/heads/main/%E6%BD%87%E6%B4%92/spider.jar",
-    //"spider": "https://fastly.jsdelivr.net/gh/franksun1211/TVBOX@main/APP/TVBoxOSC/tvbox/spider.jar",
+    //"spider": "https://fastly.jsdelivr.net/gh/franksun1211/TVBOX@main/APP/JAR/new-spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
     "sites": [
