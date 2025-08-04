@@ -854,7 +854,7 @@
         },
         {
             "key": "好看动漫",
-            "name": "好看｜动漫",
+            "name": "🥇💢好看｜动漫",
             "type": 3,
             "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
 		"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
@@ -868,14 +868,14 @@
 		"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/奇米动漫.js"
         },
-        {
-            "key": "怡萱动漫",
-            "name": "怡萱｜动漫",
-            "type": 3,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-		"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/怡萱动漫.js"
-        },
+        //{
+           // "key": "怡萱动漫",
+           // "name": "怡萱｜动漫",
+          //  "type": 3,
+           // "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
+	//	"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
+            //"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/怡萱动漫.js"
+      //  },
         {
             "key": "花子动漫",
             "name": "花子｜动漫",
@@ -884,23 +884,22 @@
 		"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/花子动漫.js"
         },
-        {
-            "key": "动漫巴士",
-            "name": "巴士｜动漫",
-            "type": 3,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-		"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/动漫巴士.js"
-        },
+        
         {
             "key": "樱花动漫",
             "name": "樱花｜动漫",
             "type": 3,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-		"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/樱花动漫.js"
+            "api": "csp_HBPQ",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/XBPQ/樱花动漫.json"
         },
-        {"key": "魔都","name": "🥇💢魔都","type": 0,"api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
+        {
+            "key": "巴士动漫",
+            "name": "巴士｜动漫",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/XYQHiker/巴士动漫.json"
+        },
+        {"key": "魔都","name": "🥇💢魔都","type": 0,"api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
         {
             "key": "曼波动漫",
             "name": "曼波｜动漫",
@@ -1784,9 +1783,7 @@
             "key": "荐片",
             "name": "荐片｜磁力",
             "api": "csp_Jianpian",
-            "type": 3,
-            "playerType": 1,
-            "ext": "http://api2.rinhome.com"
+            "type": 3
         },
         {
             "key": "修罗影视",
@@ -2002,7 +1999,16 @@
                 "type": "list"
             }
         },
-        
+        {
+            "key": "版本信息",
+            "name": "版本｜信息",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "ext": "https://pizazz.s3.bitiful.net/single.json"
+        },
         {
             "key": "push_agent",
             "name": "手机｜推送",
@@ -2131,7 +2137,12 @@
                 ]
             }
         },
-        {
+          {
+            "name": "modum3u8",
+            "type": 0,
+            "url": "https://jiexi.modujx01.com/?url="
+        },     
+	    {
             "name": "线路1",
             "type": 0,
             "url": "https://www.8090g.cn/?url="
