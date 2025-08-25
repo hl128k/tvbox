@@ -54,7 +54,7 @@
             }
         },
        
-        
+        {"key":"文采","name":"文才┃秒播","type":3,"api":"csp_JpysGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/2bdded774db1bfc1/f0821.jpg"},
         
         {
             "key": "浪酷弹幕",
@@ -70,33 +70,8 @@
                 "site": "aHR0cDovL3YubGt1eXMuY24="
             }
         },
-        {
-            "key": "糯米弹幕",
-            "name": "糯米｜弹幕",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-		"jar": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "文才弹幕",
-            "name": "文才｜弹幕",
-            "type": 3,
-            "api": "csp_Jpys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-		"jar": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": {
-                "danmu": true
-            }
-        },
        
+        
         {
             "key": "立播弹幕",
             "name": "LibVio｜弹幕",
@@ -115,30 +90,13 @@
             }
         },
         
-        {
-            "key": "米兔弹幕",
-            "name": "米兔｜弹幕",
-            "type": 3,
-		"jar": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "api": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/米兔弹幕.js"
-        },
-        {
-            "key": "小熊弹幕",
-            "name": "小熊｜弹幕",
-            "type": 3,
-		"jar": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "api": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/小熊弹幕.js"
-        },
-        {
-            "key": "巨人弹幕",
-            "name": "巨人｜弹幕",
-            "type": 3,
-		"jar": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "api": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/巨人弹幕.js"
-        },
+      
+       
+{"key": "黑木耳","name": "黑木耳┃秒播","type": 4,"api": "http://zhangqun66.com/225.php","style": {"type": "rect","ratio": 1.33},"changeable": 1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/2bdded774db1bfc1/f0821.jpg"}, 
+{"key":"原创","name":"修罗┃影视","type":3,"api":"csp_YCyzGuard","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/2bdded774db1bfc1/f0821.jpg"},
+
+{"key": "iKanbot","name": "iKanbot┃秒播","type": 3,"api": "csp_Ikanbot","jar": "https://raw.kkgithub.com/alantang1977/X/main/jar/iKanbot.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://v.aikanbot.com","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/2bdded774db1bfc1/f0821.jpg"},
+
         {
             "key": "追剧弹幕",
             "name": "追剧｜弹幕",
@@ -147,48 +105,8 @@
             "api": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
             "ext": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/追剧弹幕.js"
         },
-        {
-            "key": "梦米弹幕",
-            "name": "梦米｜弹幕",
-            "type": 3,
-		"jar": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "api": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/梦米弹幕.js"
-        },
-        {
-            "key": "小虎斑弹幕",
-            "name": "小虎斑｜弹幕",
-            "type": 3,
-		"jar": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "api": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/小虎斑弹幕.js"
-        },
-        {
-            "key": "三六零弹幕",
-            "name": "三六零｜弹幕",
-            "type": 3,
-            "api": "csp_Sp360",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-		"jar": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "机器人弹幕",
-            "name": "机器人｜弹幕",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-		"jar": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": {
-                "danmu": true
-            }
-        },
+       
+        
         {
             "key": "小苹果弹幕",
             "name": "小苹果｜弹幕",
@@ -2506,4 +2424,9 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
+
+
+
+
 
