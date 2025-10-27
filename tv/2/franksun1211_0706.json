@@ -6,7 +6,7 @@
 	//"spider": "https://gcore.jsdelivr.net/gh/franksun1211/TXT@main/TVbox/E8jin/xyqxbpq.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://gcore.jsdelivr.net/gh/franksun1211/TVBOX@main/sun.jpg",
-	"notice": "[0706]FK20251019-A",
+	"notice": "[0706]FK20251026🐸",
     "sites": [
         {
             "key": "豆瓣",
@@ -112,7 +112,16 @@
                 "site": "aHR0cDovL3YubGt1eXMuY24="
             }
         },
-       
+       {
+      "key": "云云.py",
+      "name": "🥇云云",
+      "type": 3,
+      "api": "https://gcore.jsdelivr.net/gh/franksun1211/TXT@main/TVbox/E8jin/lib/云云.py",
+	  "jar": "https://gcore.jsdelivr.net/gh/franksun1211/TXT@main/TVbox/E8jin/xyqxbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
         
         {
             "key": "立播弹幕",
@@ -170,7 +179,7 @@
 //{"key": "黑木耳","name": "黑木耳┃秒播","type": 4,"api": "http://zhangqun66.com/225.php","style": {"type": "rect","ratio": 1.33},"changeable": 1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/2bdded774db1bfc1/f0821.jpg"}, 
 {"key":"嗷呜金牌影院","name":"🥇🦆嗷呜金牌荐片","type":3,"api":"https://tvbot.dpdns.org/py_jinpai.py"},		
 ////++++++++APP++++++++////////////////////////////////////////////////////////////      
- {
+{
             "key": "热播影视",
             "name": "热播｜APP",
             "type": 3,
@@ -206,15 +215,27 @@
         },
         {
             "key": "金牌",
-            "name": "金牌｜APP",
+            "name": "🥇金牌｜APP",
             "type": 3,
             "api": "csp_AppMuou",
             "searchable": 1,
             "changeable": 1,
             "ext": {
-                "url": "",
                 "site": "https://muouapp.oss-cn-hangzhou.aliyuncs.com/MUOUAPP/godbbq.txt",
                 "name": "金牌影院（请断网再安装）"
+            }
+        },
+        {
+            "key": "余白",
+            "name": "余白丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://dec.yb4k.top",
+                "dataKey": "KsmJgfp3MVQFKWRa",
+                "dataIv": "KsmJgfp3MVQFKWRa",
+                "token": "d51f0cf047e7d4c5f76e2720cfdcaa927055e77c5e8cc0a1a7e49ca198067161"
             }
         },
         {
@@ -224,29 +245,10 @@
             "quickSearch": 1,
             "api": "csp_AppQi",
             "ext": {
-                "url": "",
                 "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
                 "dataKey": "37kj83zs1q16jk6t",
                 "dataIv": "37kj83zs1q16jk6t",
-                "deviceId": "",
-                "version": "101",
-                "ua": ""
-            }
-        },
-        {
-            "key": "哔滴",
-            "name": "哔滴丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppQi",
-            "ext": {
-                "url": "",
-                "site": "https://ooxooxooxooxoo-1259561579.cos.ap-chengdu.myqcloud.com/ip.json",
-                "dataKey": "5ae8ee4bb95ea0ce",
-                "dataIv": "5ae8ee4bb95ea0ce",
-                "deviceId": "",
-                "version": "120",
-                "ua": "okhttp/3.10.0 BDYS/109.0.0.8"
+                "version": "101"
             }
         },
         {
@@ -257,10 +259,8 @@
             "api": "csp_AppQi",
             "ext": {
                 "url": "https://appcms.rx4k.top",
-                "site": "",
                 "dataKey": "ZX10ysTYZWtIJCTU",
                 "dataIv": "ZX10ysTYZWtIJCTU",
-                "deviceId": "",
                 "version": "120"
             }
         },
@@ -271,11 +271,9 @@
             "quickSearch": 1,
             "api": "csp_AppQi",
             "ext": {
-                "url": "",
                 "site": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
                 "dataKey": "ca94b06ca359d80e",
                 "dataIv": "ca94b06ca359d80e",
-                "deviceId": "",
                 "version": "120"
             }
         },
@@ -286,11 +284,9 @@
             "quickSearch": 1,
             "api": "csp_AppQi",
             "ext": {
-                "url": "",
                 "site": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt",
                 "dataKey": "da61247f5b662597",
                 "dataIv": "da61247f5b662597",
-                "deviceId": "",
                 "version": "120"
             }
         },
@@ -301,15 +297,25 @@
             "quickSearch": 1,
             "api": "csp_AppQi",
             "ext": {
-                "url": "",
                 "site": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
                 "dataKey": "AAdgrdghjfgswerA",
-                "dataIv": "AAdgrdghjfgswerA",
-                "deviceId": "",
-                "version": ""
+                "dataIv": "AAdgrdghjfgswerA"
             }
         },
         {
+            "key": "开心",
+            "name": "开心｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppQi",
+            "ext": {
+                "site": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/gw.txt",
+                "dataKey": "ca94b06ca3c7d80e",
+                "dataIv": "ca94b06ca3c7d80e",
+                "ua": "okhttp/3.10.0"
+            }
+        },
+		{
             "key": "热剧",
             "name": "热剧丨APP",
             "type": 3,
@@ -317,12 +323,8 @@
             "api": "csp_AppQi",
             "ext": {
                 "url": "https://www.rebovod.com",
-                "site": "",
                 "dataKey": "8191A7F47B37882F",
-                "dataIv": "8191A7F47B37882F",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
+                "dataIv": "8191A7F47B37882F"
             }
         },
         {
@@ -332,13 +334,9 @@
             "quickSearch": 1,
             "api": "csp_AppQi",
             "ext": {
-                "url": "",
                 "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj2.txt",
                 "dataKey": "sada21321sdq231d",
-                "dataIv": "sada21321sdq231d",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
+                "dataIv": "sada21321sdq231d"
             }
         },
         {
@@ -348,12 +346,9 @@
             "quickSearch": 1,
             "api": "csp_AppQi",
             "ext": {
-                "url": "",
                 "site": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt",
                 "dataKey": "seb5tq9mykp2w9ry",
                 "dataIv": "seb5tq9mykp2w9ry",
-                "deviceId": "",
-                "version": "",
                 "ua": "okhttp/3.10.0"
             }
         },
@@ -364,13 +359,22 @@
             "quickSearch": 1,
             "api": "csp_AppQi",
             "ext": {
-                "url": "",
                 "site": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt",
                 "dataKey": "staraugust123456",
                 "dataIv": "staraugust123456",
-                "deviceId": "",
-                "version": "120",
-                "ua": ""
+                "version": "120"
+            }
+        },
+        {
+            "key": "星空",
+            "name": "星空｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://xkcms.xkgzs.xyz",
+                "dataKey": "AJcdjkAjkdJDkvcd",
+                "dataIv": "AJcdjkAjkdJDkvcd"
             }
         },
         {
@@ -381,11 +385,20 @@
             "api": "csp_AppGet",
             "ext": {
                 "url": "http://202.140.143.116:88",
-                "site": "",
                 "dataKey": "leroulerop.lerom",
-                "dataIv": "leroulerop.lerom",
-                "deviceId": "",
-                "version": ""
+                "dataIv": "leroulerop.lerom"
+            }
+        },
+        {
+            "key": "数字",
+            "name": "数字｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://app1-0-0.87333.cc",
+                "dataKey": "VwsHxkCViDXEExWa",
+                "dataIv": "VwsHxkCViDXEExWa"
             }
         },
         {
@@ -396,11 +409,8 @@
             "api": "csp_AppGet",
             "ext": {
                 "url": "https://ios.hgyx.vip",
-                "site": "",
                 "dataKey": "062dec75d039980e",
-                "dataIv": "062dec75d039980e",
-                "deviceId": "",
-                "version": ""
+                "dataIv": "062dec75d039980e"
             }
         },
         {
@@ -411,11 +421,8 @@
             "api": "csp_AppGet",
             "ext": {
                 "url": "https://www.appdm.akandm.com",
-                "site": "",
                 "dataKey": "uI1TkPJC8B46AyN3",
-                "dataIv": "uI1TkPJC8B46AyN3",
-                "deviceId": "",
-                "version": ""
+                "dataIv": "uI1TkPJC8B46AyN3"
             }
         },
         {
@@ -426,11 +433,8 @@
             "api": "csp_AppGet",
             "ext": {
                 "url": "https://wnvod.cc",
-                "site": "",
                 "dataKey": "5uBvur6znNUmE3zb",
                 "dataIv": "5uBvur6znNUmE3zb",
-                "deviceId": "",
-                "version": "",
                 "ua": "myapp/1.0.3"
             }
         },
@@ -442,12 +446,8 @@
             "api": "csp_AppGet",
             "ext": {
                 "url": "http://a.ngdy1.cn",
-                "site": "",
                 "dataKey": "2015692015692015",
-                "dataIv": "2015692015692015",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
+                "dataIv": "2015692015692015"
             }
         },
         {
@@ -457,13 +457,9 @@
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "",
                 "site": "http://v.itcxo.cn/txt/1.txt",
                 "dataKey": "PoiUytRedFghjklm",
-                "dataIv": "PoiUytRedFghjklm",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
+                "dataIv": "PoiUytRedFghjklm"
             }
         },
         {
@@ -474,12 +470,8 @@
             "api": "csp_AppGet",
             "ext": {
                 "url": "https://dy.8ttv.cn",
-                "site": "",
                 "dataKey": "1111111111111111",
-                "dataIv": "1111111111111111",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
+                "dataIv": "1111111111111111"
             }
         },
         {
@@ -490,12 +482,8 @@
             "api": "csp_AppGet",
             "ext": {
                 "url": "http://www.zjcvod.com",
-                "site": "",
                 "dataKey": "ab4e9a421675f14b",
-                "dataIv": "ab4e9a421675f14b",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
+                "dataIv": "ab4e9a421675f14b"
             }
         },
         {
@@ -506,12 +494,8 @@
             "api": "csp_AppGet",
             "ext": {
                 "url": "https://65fs2d9awaa1d2a7ea8.019990.xyz",
-                "site": "",
                 "dataKey": "5a9w6x58dsq6z3a6",
-                "dataIv": "5a9w6x58dsq6z3a6",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
+                "dataIv": "5a9w6x58dsq6z3a6"
             }
         },
         {
@@ -522,12 +506,8 @@
             "api": "csp_AppGet",
             "ext": {
                 "url": "http://www.milkidc.cn",
-                "site": "",
                 "dataKey": "20c79c979da8db0f",
-                "dataIv": "20c79c979da8db0f",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
+                "dataIv": "20c79c979da8db0f"
             }
         },
         {
@@ -538,28 +518,9 @@
             "api": "csp_AppGet",
             "ext": {
                 "url": "http://starani.qcanime.xyz",
-                "site": "",
                 "dataKey": "123456789StarAni",
                 "dataIv": "123456789StarAni",
-                "deviceId": "",
-                "version": "",
                 "ua": "okhttp/3.10.0 BDYS/109.0.0.8"
-            }
-        },
-        {
-            "key": "豆丁",
-            "name": "豆丁丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://45.66.157.77:9427",
-                "site": "",
-                "dataKey": "Xasdasd!123123dd",
-                "dataIv": "Xasdasd!123123dd",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
             }
         },
         {
@@ -570,12 +531,8 @@
             "api": "csp_AppGet",
             "ext": {
                 "url": "https://app.xifanys.com",
-                "site": "",
                 "dataKey": "HM6Ly9yeS4ya3dvL",
-                "dataIv": "HM6Ly9yeS4ya3dvL",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
+                "dataIv": "HM6Ly9yeS4ya3dvL"
             }
         },
         {
@@ -586,12 +543,8 @@
             "api": "csp_AppGet",
             "ext": {
                 "url": "https://dy.58ys.vip",
-                "site": "",
                 "dataKey": "JEWibY1AgWF0V1xx",
-                "dataIv": "JEWibY1AgWF0V1xx",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
+                "dataIv": "JEWibY1AgWF0V1xx"
             }
         },
         {
@@ -602,12 +555,8 @@
             "api": "csp_AppGet",
             "ext": {
                 "url": "https://www.zjkrmv.vip",
-                "site": "",
                 "dataKey": "vXeyuJFqTKqWUtWU",
-                "dataIv": "vXeyuJFqTKqWUtWU",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
+                "dataIv": "vXeyuJFqTKqWUtWU"
             }
         },
         {
@@ -617,13 +566,9 @@
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "",
                 "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
                 "dataKey": "dyyztvapiappyyds",
-                "dataIv": "dyyztvapiappyyds",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
+                "dataIv": "dyyztvapiappyyds"
             }
         },
         {
@@ -634,12 +579,9 @@
             "api": "csp_AppGet",
             "ext": {
                 "url": "http://huohu.yihn.cc",
-                "site": "",
                 "dataKey": "huohushipingetap",
                 "dataIv": "huohushipingetap",
-                "deviceId": "",
-                "version": "140",
-                "ua": ""
+                "version": "140"
             }
         },
         {
@@ -650,11 +592,8 @@
             "api": "csp_AppGet",
             "ext": {
                 "url": "https://c8k2n5l0i9s8b2m1jj8k2x2l9ff68.ydysapi.cfd:27899",
-                "site": "",
                 "dataKey": "k9o3p2c8b7m3z0o8",
-                "dataIv": "k9o3p2c8b7m3z0o8",
-                "deviceId": "",
-                "version": ""
+                "dataIv": "k9o3p2c8b7m3z0o8"
             }
         },
         {
@@ -664,12 +603,9 @@
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "",
                 "site": "http://laiget-1313189639.cos.ap-guangzhou.myqcloud.com/laimi.txt",
                 "dataKey": "ce032244d093b3e2",
-                "dataIv": "ce032244d093b3e2",
-                "deviceId": "",
-                "version": ""
+                "dataIv": "ce032244d093b3e2"
             }
         },
         {
@@ -679,11 +615,9 @@
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "",
                 "site": "https://bind.315999.xyz/89.txt",
                 "dataKey": "#getapp@TMD@2025",
                 "dataIv": "#getapp@TMD@2025",
-                "deviceId": "",
                 "version": "120"
             }
         },
@@ -695,10 +629,8 @@
             "api": "csp_AppGet",
             "ext": {
                 "url": "http://ys.qist.top",
-                "site": "",
                 "dataKey": "2SWSPFxugBLPPOKo",
                 "dataIv": "2SWSPFxugBLPPOKo",
-                "deviceId": "",
                 "version": "120"
             }
         },
@@ -711,9 +643,7 @@
             "ext": {
                 "url": "http://tv.yy-fun.cc",
                 "dataKey": "qkxnwkfjwpcnwycl",
-                "dataIv": "qkxnwkfjwpcnwycl",
-                "deviceId": "",
-                "version": ""
+                "dataIv": "qkxnwkfjwpcnwycl"
             }
         },
         {
@@ -1049,20 +979,6 @@
 //////+++++++++++++SPORT+++++++++++++++++++++++++++++++//////////////////////////////////////////////////////////////////////////////////
         //{"key":"JRKAN直播","name":"⚽JRKAN直播","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/JRKAN直播.js"},
         //{"key":"88看球","name":"🏆🏆⚽88看球","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/88看球.js"},
- 
-        {
-            "key": "88",
-            "name": "🏆🏆⚽88┃FTY",
-            "type": 3,
-            "api": "csp_Sir88Guard",
-            "timeout": 15,
-            "searchable": 0,
-            "changeable": 0,
-			"jar": "https://gcore.jsdelivr.net/gh/ls125781003/tvboxtg@refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
-            "style": {
-                "type": "list"
-            }
-        },
         {
             "key": "看球",
             "name": "🏆🏆⚽看球┃FTY",
@@ -1076,6 +992,20 @@
                 "type": "list"
             }
         },		
+        {
+            "key": "88",
+            "name": "🏆🏆⚽88┃FTY",
+            "type": 3,
+            "api": "csp_Sir88Guard",
+            "timeout": 15,
+            "searchable": 0,
+            "changeable": 0,
+			"jar": "https://gcore.jsdelivr.net/gh/ls125781003/tvboxtg@refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
+            "style": {
+                "type": "list"
+            }
+        },
+        
 ///////+++++++++++++++++影视+++++++///////////////////////////////////////////////////////////////////////////////////////////////////////////////     
         
      
@@ -1697,7 +1627,17 @@
             }
         },
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
-       
+{"key":"Apple","name":"🥇Apple","type":3,"api":"https://gcore.jsdelivr.net/gh/su147456888444/tvbox@main/drpy_js/Apple.py","jar":"https://gcore.jsdelivr.net/gh/su147456888444/tvbox@main/yt.jar","searchable":1,"filterable":0,"changeable":0},
+//{"key":"麦田","name":"麦田/搜索无图","type":3,"api":"https://gcore.jsdelivr.net/gh/su147456888444/tvbox@main/drpy_js/麦田.py","jar":"https://gcore.jsdelivr.net/gh/su147456888444/tvbox@main/yt.jar","searchable":1,"filterable":0,"changeable":0},
+{"key":"4KVM","name":"4KVM","type":3,"api":"https://gcore.jsdelivr.net/gh/su147456888444/tvbox@main/drpy_js/4KVM.py","jar":"https://gcore.jsdelivr.net/gh/su147456888444/tvbox@main/yt.jar","searchable":1,"filterable":0,"changeable":0},
+{"key":"爱壹帆","name":"爱壹帆","jar":"https://gcore.jsdelivr.net/gh/su147456888444/tvbox@main/18.jar;md5;875ce871703d1c382e0498711b9d3ba0","type":3,"searchable":1,"changeable":0,"quickSearch":0,"style":{"type":"rect","ratio":0.75},
+"api":"csp_GM","ext":{"userScript":"https://gcore.jsdelivr.net/gh/su147456888444/tvbox@main/drpy_js/yfsp.js","debug":false,"webViewSettings":{"blockNetworkImage":true,"blockList":["*.png*","*.mp3*","*.css*","https://*.googletagmanager.com/*","https://*.google-analytics.com/*"]},
+"spider":{"homeContent":{"loadUrl":"https://m.yfsp.tv/"},
+"categoryContent":{"loadUrl":"https://m.yfsp.tv/list/${tid}?type=${index-0:-0}${index-1:-,0}${index-2:-,0}${index-3:-,0}${index-4:-,0}${index-5:-}"},
+"detailContent":{"loadUrl":"https://m.yfsp.tv/play/${id}"},
+"playerContent":{"loadUrl":"https://m.yfsp.tv/play/${mediaKey}?id=${episodeKey}"},
+"searchContent":{"loadUrl":"https://m.yfsp.tv/search"}}}},
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////       
         {
             "key": "版本信息",
             "name": "版本｜信息",
@@ -1755,6 +1695,35 @@
             }
         },
         {
+            "name": "推荐",
+            "type": 1,
+            "url": "http://niiuma.qi-simple.top//nn.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+		{
             "name": "优选",
             "type": 1,
             "url": "http://1.94.221.189:88/algorithm.php?url=",
@@ -2628,6 +2597,15 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
+
+
+
+
+
+
+
+
 
 
 
