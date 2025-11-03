@@ -6,7 +6,29 @@
 	//"spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TXT/main/TVbox/E8jin/xyqxbpq.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/sun.jpg",
-	"notice": "[0706]FK20251026🐸",
+	"notice": "[0706]FK20251028-D🍍",
+	 "lives": [
+    {
+      "name": "直播",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
+      //"url": "https://agit.ai/guot54/ygbh/branch/master/zB/pro.txt",    
+      //"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/sunny.txt",  	    
+      //"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/CR.txt",   
+      //"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/TW.txt",  
+      //"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/refs/heads/main/PXP.txt",  
+	    
+      //"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",    
+      //"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/refs/heads/main/XZB.txt",
+      //"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/mitv.txt",     
+      //"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt",
+      "playerType":1,
+      "ua":"okhttp/3.15",
+      "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo":"https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],	
+   
     "sites": [
         {
             "key": "豆瓣",
@@ -43,20 +65,7 @@
             },
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/wex.jar"
         },
-        {
-            "key": "厂长弹幕",
-            "name": "厂长｜弹幕",
-            "type": 3,
-            "api": "csp_Czzy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-		    "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": {
-                "danmu": true
-            }
-        },
-       
+        
         //{"key":"文采","name":"文才┃秒播","type":3,"api":"csp_JpysGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/2bdded774db1bfc1/f0821.jpg"},
         {
             "key": "文采",
@@ -98,20 +107,9 @@
 			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
             "changeable": 1
         },
-        {
-            "key": "浪酷弹幕",
-            "name": "浪酷｜弹幕",
-            "type": 3,
-            "api": "csp_TianTian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-		    "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": {
-                "danmu": true,
-                "site": "aHR0cDovL3YubGt1eXMuY24="
-            }
-        },
+       {"key":"Apple","name":"🥇Apple","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/su147456888444/tvbox/main/drpy_js/Apple.py","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/su147456888444/tvbox/main/yt.jar","searchable":1,"filterable":0,"changeable":0},
+
+		
        {
       "key": "云云.py",
       "name": "🥇云云",
@@ -122,51 +120,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-        
-        {
-            "key": "立播弹幕",
-            "name": "LibVio｜弹幕",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "filterable": 1,
-		    "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "changeable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://www.libvio.cc",
-                "danmu": true
-            }
-        },
      
-      
-       
-
-        {
-            "key": "追剧弹幕",
-            "name": "🥇追剧｜弹幕",
-            "type": 3,
-		    "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/追剧弹幕.js"
-        },
-       
-        
-        {
-            "key": "小苹果弹幕",
-            "name": "🥇小苹果｜弹幕",
-            "type": 3,
-            "api": "csp_Xpg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-		"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": {
-                "danmu": true
-            }
-        },
 ////++++++++嗷嗚++++++++////////////////////////////////////////////////////////////  
 {"key":"賤","name":"🥇嗷嗚賤片","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/su147456888444/tvbox/main/drpy_js/賤.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/su147456888444/tvbox/main/yt.jar"},
 {"key":"优视频","name":"🥇嗷嗚优视频","type":4,"changeable":0,"api":"https://tvbot.ggff.net/uvod","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/su147456888444/tvbox/main/yt.jar"},
@@ -690,6 +644,17 @@
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/路漫漫.js"
         },
         {
+      "key": "嗷呜动漫.py",
+      "name": "嗷呜动漫",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/PY/嗷呜动漫.py",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TXT/main/TVbox/E8jin/xyqxbpq.jar",
+	  "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    
+		{
             "key": "56动漫",
             "name": "56｜动漫",
             "type": 3,
@@ -1627,7 +1592,6 @@
             }
         },
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
-{"key":"Apple","name":"🥇Apple","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/su147456888444/tvbox/main/drpy_js/Apple.py","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/su147456888444/tvbox/main/yt.jar","searchable":1,"filterable":0,"changeable":0},
 //{"key":"麦田","name":"麦田/搜索无图","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/su147456888444/tvbox/main/drpy_js/麦田.py","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/su147456888444/tvbox/main/yt.jar","searchable":1,"filterable":0,"changeable":0},
 {"key":"4KVM","name":"4KVM","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/su147456888444/tvbox/main/drpy_js/4KVM.py","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/su147456888444/tvbox/main/yt.jar","searchable":1,"filterable":0,"changeable":0},
 {"key":"爱壹帆","name":"爱壹帆","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/su147456888444/tvbox/main/18.jar;md5;875ce871703d1c382e0498711b9d3ba0","type":3,"searchable":1,"changeable":0,"quickSearch":0,"style":{"type":"rect","ratio":0.75},
@@ -1637,6 +1601,77 @@
 "detailContent":{"loadUrl":"https://m.yfsp.tv/play/${id}"},
 "playerContent":{"loadUrl":"https://m.yfsp.tv/play/${mediaKey}?id=${episodeKey}"},
 "searchContent":{"loadUrl":"https://m.yfsp.tv/search"}}}},
+{
+            "key": "厂长弹幕",
+            "name": "厂长｜弹幕",
+            "type": 3,
+            "api": "csp_Czzy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+		    "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
+            "ext": {
+                "danmu": true
+            }
+        },
+        {
+            "key": "浪酷弹幕",
+            "name": "浪酷｜弹幕",
+            "type": 3,
+            "api": "csp_TianTian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+		    "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
+            "ext": {
+                "danmu": true,
+                "site": "aHR0cDovL3YubGt1eXMuY24="
+            }
+        },  
+        {
+            "key": "立播弹幕",
+            "name": "LibVio｜弹幕",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "filterable": 1,
+		    "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
+            "changeable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "site": "https://www.libvio.cc",
+                "danmu": true
+            }
+        },
+     
+      
+       
+
+        {
+            "key": "追剧弹幕",
+            "name": "🥇追剧｜弹幕",
+            "type": 3,
+		    "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/追剧弹幕.js"
+        },
+       
+        
+        {
+            "key": "小苹果弹幕",
+            "name": "🥇小苹果｜弹幕",
+            "type": 3,
+            "api": "csp_Xpg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+		"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
+            "ext": {
+                "danmu": true
+            }
+        },
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////       
         {
             "key": "版本信息",
@@ -2597,6 +2632,20 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
