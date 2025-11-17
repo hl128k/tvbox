@@ -6,12 +6,12 @@
 	//"spider": "https://gcore.jsdelivr.net/gh/franksun1211/TXT@main/TVbox/E8jin/xyqxbpq.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://gcore.jsdelivr.net/gh/franksun1211/TVBOX@main/sun.jpg",
-	"notice": "[0706]FK20251028-D🍍",
+	"notice": "[0706]FK20251111 🎆",
 	 "lives": [
     {
       "name": "直播",
       "type": 0,
-      "url": "https://gcore.jsdelivr.net/gh/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
+      "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
       //"url": "https://agit.ai/guot54/ygbh@branch/master/zB/pro.txt",    
       //"url": "https://gcore.jsdelivr.net/gh/franksun1211/TVBOX/main/sunny.txt",  	    
       //"url": "https://gcore.jsdelivr.net/gh/jackson0829/jackson0829.github.io/main/CR.txt",   
@@ -22,8 +22,9 @@
       //"url":"https://gcore.jsdelivr.net/gh/jackson0829/jackson0829.github.io/refs/heads/main/XZB.txt",
       //"url": "https://gcore.jsdelivr.net/gh/jackson0829/jackson0829.github.io/main/mitv.txt",     
       //"url": "https://gcore.jsdelivr.net/gh/PizazzGY/TVBox/main/live.txt",
-      "playerType":1,
-      "ua":"okhttp/3.15",
+      "playerType":2,
+      "ua":"",
+	  "timeout": 10,
       "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
       "logo":"https://epg.112114.xyz/logo/{name}.png"
     }
@@ -2632,6 +2633,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
