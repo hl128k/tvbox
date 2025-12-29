@@ -6,7 +6,7 @@
 	//"spider": "https://fastly.jsdelivr.net/gh/franksun1211/TXT@main/TVbox/E8jin/xyqxbpq.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://fastly.jsdelivr.net/gh/franksun1211/TVBOX@main/sun.jpg",
-	"notice": "[0706]FK20251215 🍏",
+	"notice": "[0706]FK20251228 🍕",
 	 
    
     "sites": [
@@ -1089,19 +1089,7 @@
 //////+++++++++++++SPORT+++++++++++++++++++++++++++++++//////////////////////////////////////////////////////////////////////////////////
         //{"key":"JRKAN直播","name":"⚽JRKAN直播","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/JRKAN直播.js"},
         //{"key":"88看球","name":"🏆🏆⚽88看球","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/88看球.js"},
-        {
-            "key": "看球",
-            "name": "🏆🏆⚽看球┃FTY",
-            "type": 3,
-            "api": "csp_KanqiuGuard",
-            "timeout": 15,
-            "searchable": 0,
-            "changeable": 0,
-			"jar": "https://fastly.jsdelivr.net/gh/ls125781003/tvboxtg@refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
-            "style": {
-                "type": "list"
-            }
-        },		
+        
         {
             "key": "88",
             "name": "🏆🏆⚽88┃FTY",
@@ -1115,7 +1103,19 @@
                 "type": "list"
             }
         },
-        
+        {
+            "key": "看球",
+            "name": "🏆🏆⚽看球┃FTY",
+            "type": 3,
+            "api": "csp_KanqiuGuard",
+            "timeout": 15,
+            "searchable": 0,
+            "changeable": 0,
+			"jar": "https://fastly.jsdelivr.net/gh/ls125781003/tvboxtg@refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
+            "style": {
+                "type": "list"
+            }
+        },		
 ///////+++++++++++++++++影视+++++++///////////////////////////////////////////////////////////////////////////////////////////////////////////////     
         
      
@@ -2707,14 +2707,7 @@
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-        {
-            "name": "✨Gather.网络直播✨",
-            "type": 0,
-            "url": "https://m.iill.top/Live.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
+        
 {"name": "🍺┃冰茶官方「TG直播」","type": 0,"playerType": 2,"url": "https://bc.188766.xyz/?url=http://tv123.top:35455&mishitong=true&mima=mianfeibuhuaqian","ua": "bingcha/1.1 (mianfeifenxiang) "},
 
 ////////////////////+++++from X++++++///////////////////////	
@@ -2927,6 +2920,8 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
+
 
 
 
