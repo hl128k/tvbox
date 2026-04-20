@@ -4,7 +4,7 @@
     "spider": "https://raw.kkgithub.com/qist/tvbox/master/xiaosa/spider.jar",
 	"wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://raw.kkgithub.com/franksun1211/TVBOX/main/sun.jpg",
-	"notice": "[0706JJ]CK20260303-C 🍍",
+	"notice": "[0706JJ]CK20260414-A 🥭",
 	 
    
     "sites": [
@@ -114,7 +114,7 @@
                     "http://xiaocgege.shop"
                 ]
             },
-            "timeout": 60
+            "timeout": 90
         },
 		
         {
@@ -136,7 +136,7 @@
                     "https://www.zhizhenpan.fun"
                 ]
              },
-            "timeout": 60
+            "timeout": 90
         },
        
         {
@@ -156,7 +156,7 @@
                     "https://woog.430520.xyz"
                 ]
             },
-            "timeout": 60
+            "timeout": 90
         },
 		 {
             "key": "夸克",
@@ -172,7 +172,7 @@
                     "https://www.quarktv.cc"
                 ]
             },
-            "timeout": 60
+            "timeout": 90
         },
        
         
@@ -195,7 +195,7 @@
                 ],
                 "cookie": "bbs_sid=bi7dpnm6vp31s38rjqlqq8vq84; bbs_token=TWiR3YUrGoVpbdTkjAJ0xMe_2B_2FiaFvd84V3_2FEZJRRSKU_3D"
              },
-            "timeout": 60
+            "timeout": 90
         },
 		{
             "key": "夸克云盘",
@@ -210,7 +210,7 @@
                 "ratio": 1.433
             },
             "ext": "https://raw.kkgithub.com/qist/tvbox/master/xiaosa/json/quarkShare.json",
-			 "timeout": 60
+			 "timeout": 90
         },
 		      {
             "key": "AoWu",
@@ -235,7 +235,18 @@
             }
         },
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-        
+        {
+            "key": "Zwqf",
+            "name": "🥇moyu4K✨｜MYER",
+            "type": 3,
+            "api": "csp_Zwqf",
+            "searchable": 1,
+			"jar": "https://raw.kkgithub.com/ls125781003/tvboxtg/main/摸鱼儿/spider.jar",
+            "ext": {
+                "url": "http://我不是.摸鱼儿.com/api/feng/moyu.php",
+                "token": "moyu996"
+            }
+        },
          
         
         
@@ -321,23 +332,23 @@
 //{"key":"Apple","name":"🥇Apple","type":3,"api":"https://raw.kkgithub.com/franksun1211/TXT/main/TVbox/VS194-SU147/drpy_js/Apple.py","jar":"https://raw.kkgithub.com/franksun1211/TXT/main/TVbox/VS194-SU147/yt.jar","searchable":1,"filterable":0,"changeable":0},
 
 {
-            "key": "小羊",
-            "name": "小羊｜APP",
+            "key": "云播",
+            "name": "🥇云播｜APP",
             "type": 3,
-            "api": "csp_AppGet",
+            "api": "csp_AppFox",
+            "searchable": 1,
+            "changeable": 1,
             "ext": {
-                "site": "https://xy4k.com/url.txt",
-                "dataKey": "7SDWjknU34zqFbVr",
-                "dataIv": "7SDWjknU34zqFbVr"
+                "host": "http://app.hktvyb.cc"
             }
-        },		
+        },
       
      
 ////++++++++嗷嗚++++++++////////////////////////////////////////////////////////////  
 {"key":"賤","name":"🥇嗷嗚賤片✨","type":3,"api":"https://raw.kkgithub.com/franksun1211/TXT/main/TVbox/VS194-SU147/drpy_js/賤.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://raw.kkgithub.com/franksun1211/TXT/main/TVbox/VS194-SU147/yt.jar"},
 //{"key":"优视频","name":"🥇嗷嗚优视频","type":4,"changeable":0,"api":"https://www.uvod.tv","jar": "https://raw.kkgithub.com/franksun1211/TXT/main/TVbox/VS194-SU147/yt.jar"},
 {"key":"金牌","name":"🥇嗷嗚金牌✨","type":3,"api":"https://raw.kkgithub.com/franksun1211/TXT/main/TVbox/VS194-SU147/drpy_js/金牌.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://raw.kkgithub.com/franksun1211/TXT/main/TVbox/VS194-SU147/yt.jar"},
-{"key":"爱瓜","name":"🥇嗷嗚爱瓜✨","type":3,"api":"https://raw.kkgithub.com/franksun1211/TXT/main/TVbox/VS194-SU147/drpy_js/爱瓜.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://raw.kkgithub.com/franksun1211/TXT/main/TVbox/VS194-SU147/yt.jar"},
+//{"key":"爱瓜","name":"🥇嗷嗚爱瓜✨","type":3,"api":"https://raw.kkgithub.com/franksun1211/TXT/main/TVbox/VS194-SU147/drpy_js/爱瓜.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://raw.kkgithub.com/franksun1211/TXT/main/TVbox/VS194-SU147/yt.jar"},
 {"key":"永乐","name":"🥇嗷嗚永乐✨","type":3,"api":"https://raw.kkgithub.com/franksun1211/TXT/main/TVbox/VS194-SU147/drpy_js/永乐.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://raw.kkgithub.com/franksun1211/TXT/main/TVbox/VS194-SU147/yt.jar"},
 {"key":"瓜子","name":"🥇嗷嗚瓜子✨","type":3,"changeable":0,"api":"https://raw.kkgithub.com/franksun1211/TXT/main/TVbox/VS194-SU147/drpy_libs/drpy2.min.js","ext":"https://raw.kkgithub.com/franksun1211/TXT/main/TVbox/VS194-SU147/drpy_js/瓜子.js","jar": "https://raw.kkgithub.com/franksun1211/TXT/main/TVbox/VS194-SU147/yt.jar"},
 
@@ -361,14 +372,14 @@
     
 //////++++++++++++++++動漫++++++++++++++/////////////////////////////////////////////////////////////////////////////////////////////////////////////
      
-        {
-            "key": "好看动漫",
-            "name": "🥇💢好看✨｜动漫",
-            "type": 3,
-            "api": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-		    "jar": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/好看动漫.js"
-        },
+       // {
+          //  "key": "好看动漫",
+            //"name": "🥇💢好看✨｜动漫",
+          //  "type": 3,
+           // "api": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
+		   // "jar": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
+           // "ext": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/好看动漫.js"
+       // },
         {"key": "魔都","name": "🥇💢魔都✨","type": 0,"api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
                  
    
@@ -408,7 +419,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "timeout": 60
+            "timeout": 90
         },
 {
             "key": "多多",
@@ -426,7 +437,7 @@
                     "https://tv.214521.xyz"
                 ]
             },
-            "timeout": 60
+            "timeout": 90
         },
 {
             "key": "快映",
@@ -443,7 +454,7 @@
                     "http://154.201.83.50:12512"
                 ]
           },
-            "timeout": 60
+            "timeout": 90
         },
         
         
@@ -464,7 +475,7 @@
                     "https://www.xhww.net"
                 ]
              },
-            "timeout": 60
+            "timeout": 90
         },
         
         {
@@ -481,7 +492,7 @@
                     "https://sd.sduc.site"
                 ]
              },
-            "timeout": 60
+            "timeout": 90
         },
        
        
@@ -496,7 +507,7 @@
             "key": "双星",
             "name": "🥇双星｜4K",
             "type": 3,
-		    "timeout": 60,
+		    "timeout": 90,
             "api": "csp_ShuangXing"
             
         },
@@ -504,7 +515,7 @@
             "key": "即刻",
             "name": "即刻｜4K",
             "type": 3,
-		    "timeout": 60,
+		    "timeout": 90,
             "api": "csp_Jike",
             "style": {
                 "type": ""
