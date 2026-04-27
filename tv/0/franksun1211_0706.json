@@ -4,7 +4,7 @@
     "spider": "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar",
 	"wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://ghproxy.net/https://raw.githubusercontent.com/franksun1211/TVBOX/main/sun.jpg",
-	"notice": "[0706JJ]CK20260414-A 🥭",
+	"notice": "[0706JJ]CK20260414-C 🍎",
 	 
    
     "sites": [
@@ -116,7 +116,20 @@
             },
             "timeout": 90
         },
-		
+		{
+            "key": "人人",
+            "name": "🥇人人｜4K",
+            "type": 3,
+            "api": "csp_RenRen"
+        },
+       {
+            "key": "双星",
+            "name": "🥇双星｜4K",
+            "type": 3,
+		    "timeout": 90,
+            "api": "csp_ShuangXing"
+            
+        },
         {
             "key": "至臻",
             "name": "🥇至臻✨｜4K",
@@ -259,7 +272,8 @@
             "searchable": 1,
 			"jar": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/摸鱼儿/spider.jar",
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 0,
+			  "timeout": 90
         },
         
         {
@@ -497,20 +511,7 @@
        
        
         
-        {
-            "key": "人人",
-            "name": "人人｜4K",
-            "type": 3,
-            "api": "csp_RenRen"
-        },
-       {
-            "key": "双星",
-            "name": "🥇双星｜4K",
-            "type": 3,
-		    "timeout": 90,
-            "api": "csp_ShuangXing"
-            
-        },
+        
        {
             "key": "即刻",
             "name": "即刻｜4K",
